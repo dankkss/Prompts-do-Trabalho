@@ -1,0 +1,330 @@
+﻿CÓDIGO DA CRÍTICA,DESCRIÇÃO:,MENSAGEM ADICIONAL,TEXTO ACAO,Versão
+A101,"Após a análise da sua solicitação de reembolso, identificamos com pesar o falecimento do segurado titular. Dessa forma, é necessária a qualificação de um herdeiro nomeado para liberação do reembolso.","O pagamento será feito, excepcionalmente, ao herdeiro nomeado mediante envio da carta padrão de qualificação de beneficiário e demais documentações aplicáveis.
+
+Documentos necessários:
+
+- Certidão de óbito;
+- Carta de Qualificação de Beneficiário devidamente preenchida e assinada pelos solicitantes e herdeiros, com reconhecimento de firma;
+- Certidão de nascimento ou casamento dos herdeiros;
+- Documento de identidade de todos os herdeiros.
+
+O modelo da carta pode ser solicitado pela Central de Atendimento:
+
+* 4004 2700 (capitais e regiões metropolitanas)
+* 0800 701 2700 (demais localidades)
+
+Após digitalizar os documentos, envie para: backoffice.recebimento@bradescoseguros.com.br.
+
+O prazo para análise e cadastramento é de até 15 dias úteis, desde que não haja pendências.
+
+Após o cadastro, entre em contato com a Central de Atendimento e solicite a reabertura do processo de reembolso.",,
+A103,Solicitamos relatório do prestador do serviço contendo a descrição do(s) atendimento(s) realizado(s).,"O relatório deverá conter data de emissão, assinatura e carimbo, ou assinatura digital do profissional.
+Atenção: para solicitações de reembolso com recibo Receita Saúde, a informação deve constar no campo 'Descrição'.","Crítica para pedir descrição de quais atendimentos foram prestados. Atendimento refere-se a interações clínicas com o paciente, como consultas, orientações, avaliações ou terapias. Não confundir o uso com a A123.",Versão 6
+A104,"Solicitamos relatório médico datado, carimbado e com a assinatura do profissional contendo as seguintes informações faltantes: quantidade de visitas médicas e suas respectivas datas.",,,Versão 2
+A106,Solicitamos o relatório informando o nome técnico completo do(s) exame(s) realizado(s) e seu(s) respectivo(s) valor(es) unitário(s).,Ressaltamos que o somatório das despesas deve corresponder exatamente ao valor total do documento fiscal apresentado.,,Versão 3
+A107,Solicitamos relatório do profissional que prestou o serviço contendo a seguinte informação faltante: técnica(s) utilizada(s) no(s) atendimento(s).,"A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,Versão 2
+A107 A - técnica/região corporal,Solicitamos relatório do prestador do serviço informando a técnica utilizada e a região corporal onde ela foi aplicada.,"A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",Utilizar em casos em que o pedido médico não norteia o código e precisamos da conduta do fisioterapeuta.,Versão 4
+A108,Solicitamos relatório do prestador de serviços informando a(s) data(s) do(s) atendimento(s) prestado(s).,"A documentação deverá conter data de emissão, carimbo e assinatura do profissional. 
+Atenção: para solicitações de reembolso com recibo Receita Saúde, a informação deve constar no campo 'Descrição'.",,Versão 6
+A108 A - divergência de datas,"Solicitamos relatório do prestador do serviço informando as datas de atendimento conforme descrito no documento fiscal, visto que o relatório enviado informa uma quantidade de sessões divergente.","A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",Utilizar em casos em que o relatório do prestador descreve quantidade e datas diferentes do que foi cobrado no documento fiscal.,Versão 4
+A109,Solicitamos relatório do profissional que prestou o serviço contendo a seguinte informação faltante: especialidade do médico que prestou o atendimento.,"A documentação deverá conter data de emissão, carimbo e assinatura do profissional. Atenção: para solicitações de reembolso com recibo Receita Saúde, a informação deve constar no campo 'Descrição'.",,Versão 6
+A110,"Solicitamos o envio do recibo ou nota fiscal, pois o documento enviado para reembolso não possui validade fiscal.",O documento fiscal deve estar devidamente quitado e emitido em nome do paciente ou outro integrante do contrato.,,Versão 2
+A110 A,Solicitamos o envio do documento fiscal emitido em nome do segurado ou outro integrante do contrato.,"Informamos que o serviço de reembolso é um direito exclusivo dos integrantes do contrato. Portanto, o campo ""tomador de serviços"" constante na nota fiscal ou recibo deve conter o nome do paciente ou outro integrante do contrato.",,Versão 4
+A111,"Solicitamos relatório contendo assinatura e carimbo físico, ou assinatura digital do prestador que realizou o atendimento.","O relatório deve conter data de emissão. No caso de documento assinado eletronicamente, a assinatura digital deve ser obrigatoriamente passível de validação que permita a comprovação da autoria e integridade do documento, bem como estar em conformidade com as exigências do respectivo Conselho Profissional.",,Versão 3
+A112,Solicitamos documento que informe o número de registro no conselho de classe do profissional que executou o atendimento.,"Esse dado pode constar no carimbo do recibo, na nota fiscal ou em declaração emitida pelo prestador.",,Versão 2
+A113,Solicitamos documentação contendo número do CPF/CNPJ do prestador de serviço. O apresentado no documento fiscal está incorreto ou ilegível.,,,
+A114,"Solicitamos pedido médico contendo nome do paciente, nome técnico completo de cada exame realizado, sem siglas ou abreviações, quadro clínico e indicação para a solicitação.","O documento deve conter data de emissão, assinatura e carimbo, ou assinatura digital do profissional responsável.",,Versão 2
+A115,Solicitamos documentação do prestador do serviço com a discriminação das despesas item a item e seus valores unitários.,Ressaltamos que o somatório das despesas deve corresponder exatamente ao valor total do documento fiscal apresentado.,,Versão 2
+A116,"Solicitamos pedido emitido exclusivamente por profissional médico, regularmente inscrito no CRM (Conselho Regional de Medicina), datado, assinado e carimbado, contendo as seguintes informações:","Nome do paciente;
+Descrição do quadro clínico atual;
+Diagnóstico;
+Indicação para a terapia;
+Planejamento terapêutico (incluindo a quantidade de sessões programadas e o período previsto).",Verificar se há relatório do CRM no sinistro ou no histórico que contenham todas as informações necessárias para a análise.,
+A116 A - Quadro Clínico,"Verificamos que o pedido médico enviado está incompleto. Solicitamos o reenvio do encaminhamento emitido por profissional médico, regularmente inscrito no CRM, contendo o quadro clínico atual.","O relatório deverá conter data de emissão, assinatura e carimbo, ou assinatura digital do profissional.","Crítica deverá ser utilizada quando o segurado já enviou o pedido, mas faltou o quadro clínico.",Versão 5
+A116 - Acupuntura,"Solicitamos pedido emitido exclusivamente por profissional médico, regularmente inscrito no CRM (Conselho Regional de Medicina), datado, assinado e carimbado, contendo as seguintes informações:","Nome do paciente;
+Descrição do quadro clínico atual;
+Diagnóstico;
+Indicação para a acupuntura;
+Planejamento terapêutico (incluindo a quantidade de sessões programadas e o período previsto).",Verificar se há relatório do CRM no sinistro ou no histórico que contenham todas as informações necessárias para a análise.,
+A116 - Fisioterapia,"Solicitamos pedido emitido exclusivamente por profissional médico, regularmente inscrito no CRM (Conselho Regional de Medicina), datado, assinado e carimbado, contendo as seguintes informações:","Nome do paciente;
+Descrição do quadro clínico atual;
+Diagnóstico;
+Indicação para a fisioterapia;
+Planejamento terapêutico (incluindo a quantidade de sessões programadas e o período previsto).",Verificar se há relatório do CRM no sinistro ou no histórico que contenham todas as informações necessárias para a análise.,
+A116 - Fonoaudiologia,"Solicitamos pedido emitido exclusivamente por profissional médico, regularmente inscrito no CRM (Conselho Regional de Medicina), datado, assinado e carimbado, contendo as seguintes informações:","Nome do paciente;
+Descrição do quadro clínico atual;
+Diagnóstico;
+Indicação para a Fonoaudiologia;
+Planejamento terapêutico (incluindo a quantidade de sessões programadas e o período previsto).",Verificar se há relatório do CRM no sinistro ou no histórico que contenham todas as informações necessárias para a análise.,
+A116 - Nutricionista,"Solicitamos pedido emitido exclusivamente por profissional médico, regularmente inscrito no CRM (Conselho Regional de Medicina), datado, assinado e carimbado, contendo as seguintes informações:","Nome do paciente;
+Descrição do quadro clínico atual;
+Diagnóstico;
+Indicação para a nutrição;
+Planejamento terapêutico (incluindo a quantidade de sessões programadas e o período previsto).",Verificar se há relatório do CRM no sinistro ou no histórico que contenham todas as informações necessárias para a análise.,
+A116 - Psicoterapia,"Solicitamos pedido emitido exclusivamente por profissional médico, regularmente inscrito no CRM (Conselho Regional de Medicina), datado, assinado e carimbado, contendo as seguintes informações:","Nome do paciente;
+Descrição do quadro clínico atual;
+Diagnóstico;
+Indicação para a psicoterapia;
+Planejamento terapêutico (incluindo a quantidade de sessões programadas e o período previsto).",Verificar se há relatório do CRM no sinistro ou no histórico que contenham todas as informações necessárias para a análise.,
+A116 - Terapia ocupacional,"Solicitamos pedido emitido exclusivamente por profissional médico, regularmente inscrito no CRM (Conselho Regional de Medicina), datado, assinado e carimbado, contendo as seguintes informações:","Nome do paciente;
+Descrição do quadro clínico atual;
+Diagnóstico;
+Indicação para a Terapia Ocupacional;
+Planejamento terapêutico (incluindo a quantidade de sessões programadas e o período previsto).",Verificar se há relatório do CRM no sinistro ou no histórico que contenham todas as informações necessárias para a análise.,
+A117,"Solicitamos relatório emitido exclusivamente por profissional médico regularmente inscrito no CRM, datado, assinado e carimbado, contendo as seguintes informações:","Nome do paciente;
+Diagnóstico;
+Relação de tratamentos efetuados;
+Indicação do esquema terapêutico atual.",,
+A118,"Solicitamos relatório médico datado, assinado e carimbado pelo(a) profissional, contendo as seguintes informações:","Dados do paciente;
+Dados do médico e/ou prestador;
+Tempo de evolução da doença;
+Data em que o diagnóstico foi realizado.",,
+A119,"Solicitamos relatório médico datado, assinado e carimbado pelo(a) profissional, contendo as seguintes informações:","Dados do paciente;
+Dados do médico e/ou prestador;
+Quadro clínico;
+Diagnóstico;
+Indicação para a realização dos procedimentos em regime de internação hospitalar.",,
+A121,"Solicitamos relatório médico informando o diagnóstico etiológico (causa/origem da lesão, sintoma ou doença).","A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,Versão 2
+A122,Solicitamos relatório médico contendo as seguintes informações faltantes: período da internação hospitalar (data da internação / data da alta).,"A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,Versão 2
+A123,Solicitamos relatório médico informando o(s) procedimento(s) realizado(s).,"O relatório deverá conter data de emissão, assinatura e carimbo, ou assinatura digital do profissional.
+Atenção: para solicitações de reembolso com recibo Receita Saúde, a informação deve constar no campo 'Descrição'.","Usar para perguntar qual foi procedimento feito. Procedimento envolve intervenções práticas ou técnicas realizadas no paciente, como cirurgias ou exames. Não confundir com a A103.",Versão 6
+A124,Solicitamos relatório médico contendo as seguintes informações faltantes:,"Descrição detalhada da(s) lesão(es) (quantidade, dimensão, localização, hipótese diagnóstica e demais dados relevantes para o caso). A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,Versão 2
+A125 - Conta Hospitalar,"Solicitamos fatura hospitalar detalhando todos os itens cobrados com valores unitários. As despesas devem ser discriminadas individualmente (cada medicamento, cada taxa, cada material, cada exame).",Ressaltamos que o somatório das despesas deve corresponder exatamente ao valor total do documento fiscal apresentado.,,Versão 2
+A125 - Pacote,"Solicitamos discriminação das despesas cobradas sob forma de pacote. Todas as despesas devem ser discriminadas individualmente (cada medicamento, cada taxa, cada material, cada exame, etc).",Ressaltamos que o somatório das despesas deve corresponder exatamente ao valor total do documento fiscal apresentado.,,Versão 2
+A126,"Solicitamos relatório médico informando o diagnóstico, a indicação e o procedimento realizado.","A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,Versão 3
+A127,"Solicitamos relatório datado contendo as informações a seguir: 
+
+- Valores cobrados por cada membro da equipe cirúrgica;
+- Número de registro no conselho de classe dos profissionais participantes.",,,
+A128,"Solicitamos o relatório informando o nome e a função exercida por cada membro da equipe cirúrgica, os valores cobrados, e número de registro no conselho de classe de cada profissional participante.","O relatório deverá conter data de emissão, assinatura e carimbo, ou assinatura digital do profissional responsável.","Crítica de funções, valores, conselho da equipe cirúrgica. Uma equipe apenas. Quando se tratar de atuação de mais de uma equipe, usar a A129.",
+A129,"Solicitamos relatório discriminando os procedimentos realizados por cada equipe cirúrgica participante, detalhando os nomes dos profissionais envolvidos, suas funções, e os valores individualizados.","O relatório deverá conter o número de registro no conselho de classe de cada profissional e o Código TUSS dos procedimentos. Também deve conter data de emissão, assinatura e carimbo, ou assinatura digital do profissional responsável.",Crítica a ser utilizada quando houver atuação de mais de uma equipe nos procedimentos.,
+A130,Solicitamos a cópia da folha de sala cirúrgica com a descrição detalhada do ato operatório.,A folha de sala cirúrgica é preenchida pelo médico assistente após o ato operatório. Essa documentação poderá ser solicitada ao hospital onde foi realizado o procedimento.,,Versão 2
+A130 A - Ambulatório,Solicitamos relatório do médico assistente com a descrição detalhada (passo a passo) do procedimento realizado.,,,Versão 4
+A130 B - Ficha de Anestesia,Solicitamos o envio do registro anestésico emitido pelo anestesista responsável contendo as seguintes informações:,"Avaliação pré-anestésica (anamnese); 
+- Gráficos de monitorização dos sinais vitais durante o procedimento; 
+- Demais parâmetros relevantes ao ato anestésico.",,Versão 5
+A131,Solicitamos relatório médico com a indicação da realização de mais de uma visita hospitalar diária.,"A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,Versão 2
+A132,"Relatório médico datado, assinado e carimbado, contendo a indicação para utilização do material cobrado.",,,
+A133,"Solicitamos relatório médico, datado, assinado e carimbado, informando o nome do paciente, diagnóstico e a indicação clínica para a remoção em ambulância.",,,Versão 2
+A134,"Verificamos que a documentação apresentada para reembolso não traz todas as informações exigidas para despesas com remoção, sendo assim solicitamos relatório informando:","Quilometragem percorrida;
+- Local de partida e destino;
+- Tempo de espera (se houver).",,
+A135,Solicitamos relatório informando o tipo de ambulância utilizada na remoção (básica/UTI móvel).,,,
+A136,Solicitamos relatório informando o tempo de espera caso tenha havido.,,,
+A137,Solicitamos relatório informando se houve acompanhamento médico e o valor cobrado por este serviço.,,,
+A138,Solicitamos a cópia do laudo do exame anatomopatológico (Laudo AP).,,,
+A139,Solicitamos a cópia do laudo do exame de imunohistoquímica.,,,
+A140,Solicitamos cópia de laudo de exame de imagem pré-operatório referente à patologia causa do atendimento.,,,
+A141,Solicitamos cópia de laudo de exames que comprovem as comorbidades associadas ao quadro de obesidade mórbida.,,,
+A142,Solicitamos relatório médico informando o IMC e listando as comorbidades apresentadas pelo segurado.,,,
+A143,Solicitamos os laudos dos exames realizados.,,,
+A144,Solicitamos relatório médico com a indicação da Angiotomografia coronariana e laudo dos exames realizados (por exemplo cintilografia/ergometria).,"A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,
+A145,"Solicitamos relatóro médico informando o diagnóstico, quadro clínico, índice de atividade da doença e tratamentos realizados.","A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,
+A146,"Solicitamos relatório médico datado, assinado e carimbado,  informando o índice de refração e/ou laudo de exame.",,,
+A147,Solicitamos a seguinte documentação referente ao procedimento realizado:,"Documento escrito e firmado com sua expressa manifestação da vontade, após receber informações a respeito dos riscos da cirurgia, possíveis efeitos colaterais, dificuldades de sua reversão e opções de contracepção reversíveis existentes.",Utilizar para Laqueadura ou Vasectomia.,
+A150,Solicitamos o envio dos documentos relacionados abaixo:,,,
+A151,"Relatório médico datado e assinado informando a indicação clínica da realização seriada do(s) exame(s), bem como o envio dos respectivos laudos.",,,
+A152,"Relatório médico datado, assinado e carimbado contendo diagnóstico, quadro clínico, estágio da doença e os esquemas terapêuticos já realizados.",,,
+A153,Solicitamos laudo da OCT - TOMOGRAFIA DE COERENCIA OPTICA.,,,
+A154,"Solicitamos o envio do demonstrativo de reembolso realizado pela outra operadora de saúde, referente ao procedimento.",,"Para casos em que há elementos no sinistro de que pode ter havido reembolso por outra operadora, exemplo: comunicado do próprio segurado, informação de outra operadora na documentação, etc",
+A155,"Solicitamos o envio de relatório médico datado, assinado e carimbado informando a idade gestacional, além da data da última menstruação e data provável do parto.",,,
+A156 - Nota Fiscal Eletrônica ilegível,"Verificamos que o recibo/nota fiscal enviado está ilegível, desfocado ou recortado, impedindo a continuidade da análise do reembolso. Solicitamos o reenvio do documento pelo aplicativo Bradesco Saúde.",,,
+A156 A - pedido médico ilegível,"Verificamos que o pedido médico enviado está ilegível, desfocado ou recortado, impedindo a continuidade da análise do reembolso. Solicitamos o reenvio do documento pelo aplicativo Bradesco Saúde.",,,Versão 4
+A156 B - discriminação ilegível,"Verificamos que a discriminação das despesas está ilegível, desfocada ou recortada no documento enviado, impedindo a análise do reembolso. Solicitamos o reenvio pelo aplicativo Bradesco Saúde.",,,Versão 4
+A156 C - relatório ilegível,"Verificamos que o relatório enviado está ilegível, desfocado ou recortado, impedindo a análise do reembolso. Solicitamos o reenvio do documento pelo aplicativo Bradesco Saúde.",,"Utilizar nos casos em que o relatório está ilegível, não confundir com pedido médico.",Versão 4
+A156 D - Comprovante Ilegível,"Verificamos que o comprovante de pagamento enviado está ilegível, desfocado ou recortado, impedindo a continuidade da análise do reembolso.","Solicitamos o reenvio do documento pelo aplicativo Bradesco Saúde contendo os seguintes dados completos e legíveis: ID de transação, código de autenticação, data e hora da operação bancária e nome do pagador e do recebedor.",,Versão 4
+A156 E - Informações do Prestador Ilegíveis,"Verificamos que as informações do prestador do serviço no documento fiscal estão ilegíveis, desfocadas ou parcialmente recortadas, impossibilitando a sua leitura.","Solicitamos o reenvio do documento fiscal ou envio de relatório com as informações legíveis, incluindo o nome completo, conselho e especialidade do prestador do serviço.","Casos em que o carimbo do prestador no documento fiscal esteja ilegível, e os dados do prestador não estão disponíveis de outra forma (digitados, escritos). Ou os dados do prestador em geral estão ilegíveis, impedindo a análise.",Versão 5
+A157 - RECIBO PAPELARIA,Solicitamos envio de relatório do prestador informando o local (endereço completo e telefone comercial) onde o atendimento foi realizado.,"Deve ser informado o ambiente onde foram realizados os atendimentos (clínica, hospital, domicílio, escola, etc.). Caso o atendimento tenha sido realizado online, solicitamos que essa informação conste no relatório. O documento deverá conter data de emissão, assinatura e carimbo, ou assinatura digital do profissional.
+Atenção: para solicitações de reembolso com recibo Receita Saúde, a informação deve constar no campo 'Descrição'.",,Versão 6
+A157 A - ambiente,"Solicitamos relatório do prestador do serviço informando o ambiente onde foram realizados os atendimentos (clínica, hospital, domicílio, escola, entre outros).","Caso o atendimento tenha sido realizado online, solicitamos que essa informação conste no relatório. O documento deverá conter data de emissão, assinatura e carimbo, ou assinatura digital do profissional.
+Atenção: para solicitações de reembolso com recibo Receita Saúde, a informação deve constar no campo 'Descrição'.",,Versão 6
+A157 B - Modalidade,"Solicitamos relatório do prestador do serviço, datado, assinado e carimbado, com a descrição da modalidade do atendimento, especificando se foi presencial ou online.","Caso tenha ocorrido de forma presencial, favor informar o ambiente/local (clínica ou domicílio) onde foi realizado o atendimento, incluindo o endereço completo.",,Versão 6
+A158 - NOTA FISCAL PARA CNPJ,"Enviar NOTA FISCAL, serviços prestados por pessoa jurídica, caso a PJ seja constituída como sociedade unipessoal (EIRELI) enviar lei municipal comprovando a dispensa de emissão de documento fiscal.",,,
+A158 B - NOTA FISCAL EM SUBSTITUIÇÃO DE RECIBO,"Enviar NOTA FISCAL em substituição ao recibo apresentado, caso o prestador de serviço esteja desobrigado da emissão, enviar a lei municipal comprovando a dispensa de emissão de documento fiscal.",,,
+A159,"Solicitamos documentação com os valores das despesas discriminados corretamente, visto que o somatório não confere com o valor total da nota fiscal/recibo enviado(a) para reembolso.",,,
+A160,Solicitamos relatório contendo a seguinte informação faltante: discriminação se a sessão de terapia foi realizada individualmente ou em grupo.,,,
+A161,"Solicitamos relatório do médico assistente datado, assinado e carimbado incluindo: quadro clínico atual, evolução clínica, indicação do esquema terapêutico e previsão de duração do tratamento.",,,
+A162 - Estimulação Elétrica,Solicitamos relatório médico informando se foi realizada técnica de eletroacupuntura ou estimulação elétrica transcutânea. Descrever detalhadamente o procedimento realizado.,,,
+A163 - Bloqueio/Infiltração,"Solicitamos relatório médico datado e assinado com indicação para o procedimento, programação terapêutica, medicação utilizada, posologia e laudo dos exames de imagem relacionados à patologia.",,,
+A163 A - Despesas em Infiltração/Bloqueio,Solicitamos relatório com as seguintes informações faltantes:,"Mensagem adicional: Discriminação de todas as despesas cobradas. Devem ser informados os valores cobrados e quantidades de cada medicamento, materiais, exames, taxas, entre outros. Se utilizada medicação, informar a respectiva posologia.",,Versão 3
+A163 B - MEDICAÇÃO EM INFILTRAÇÃO/BLOQUEIO,Solicitamos relatório do prestador do serviço contendo a discriminação da medicação utilizada com respectiva posologia e imagem do rótulo/etiqueta da medicação (exibindo nº de registo ANVISA e lote).,,,Versão 3
+A164 - Avaliação Neuropsicológica/Multidisciplinar,Solicitamos relatório com as seguintes informações faltantes:,"Identificação de cada profissional participante da avaliação com assinatura e carimbo contendo número dos respectivos registros no conselho de classe, valores cobrados por cada profissional e as datas de realização dos atendimentos.",,
+A167,"Solicitamos o envio do certificado do prestador de serviço, reconhecido pelos órgãos governamentais competentes, atestando sua habilitação para realizar o procedimento em questão.",,,
+A168,"Solicitamos relatório do médico psiquiatra informando quadro clínico e justificativa para consultas seriadas, indicando se o atendimento é consulta médica ou psicoterapia.","É necessário que o relatório contenha data, carimbo e assinatura do médico. Ressaltamos que consulta médica é um ato completo, com avaliação clínica e definição de conduta, sendo distinto do procedimento de psicoterapia.",,
+A169 - Vacina,"Para prosseguirmos com a análise do reembolso, solicitamos relatório médico (CRM) com as informações abaixo (se alguma delas já constar nos documentos enviados, basta adicionar os itens pendentes):","1. Indicação clínica para o tratamento e diagnóstico do paciente;
+2. Tipo de imunoterapia e da vacina utilizada (específica ou inespecífica; injetável ou sublingual);
+3. Programação do tratamento (frequência das aplicações e duração prevista);
+4. Local das aplicações (consultório/serviço de saúde ou domicílio);
+5. Identificação de quem realizou as aplicações, quando em consultório (profissional e registro);
+6. Discriminação de todas as despesas que compõem a cobrança e seus respectivos valores, separando:
+      6.1) Vacina (extrato alergênico);
+      6.2) Honorário de aplicação do hipossensibilizante;
+      6.3) Planejamento técnico.
+7. Datas de cada aplicação, com assinatura do profissional executante em cada uma delas.
+Observações:
+   - Quando houver indicação de uso domiciliar (ex.: sublingual ou autoaplicação), esclarecer expressamente tal condição no relatório;
+   - O relatório deve descrever o serviço efetivamente executado e todas as despesas, não bastando informar código TUSS.",Usar para tratamento de Imunoterapia (hipossensibilizante). Há material completo no Infohub sobre o assunto.,Versão 7
+A169 A - Data da Aplicação Vacina,"Solicitamos relatório do prestador do serviço, datado, assinado e carimbado, contendo a(s) data(s) da aplicação da(s) vacina(s).",,"Pedir para qualquer vacina que seja necessário saber as datas das aplicações (imunoterapia, IBM).",Versão 6
+A170,Solicitamos relatório do profissional que prestou o serviço contendo as seguintes informações faltantes:,"- Discriminação da(s) técnica(s) utilizada(s) nos atendimentos;
+- Informação dos valores de cada técnica, correlacionadas por cada data de atendimento;
+- A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,
+A172 - Testes Alérgicos,Solicitamos relatório contendo a discriminação item a item dos tipos de alérgenos testados e seus respectivos valores unitários.,"A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,
+A175 Lacre/Etiqueta,Solicitamos o envio da imagem do rótulo/etiqueta do(s) produto(s) utilizado(s) exibindo seu(s) respectivo(s) número(s) de registro na ANVISA e lote de fabricação.,,,
+A176,"Solicitamos o envio de declaração do hospital comprovando o período da internação, para que possamos proceder a análise das diárias de perda de renda.",,,
+A177,"Para avaliação da análise de cobertura do exame pesquisa da presença/mutação dos genes BRAF, solicitamos o envio do relatório médico informando a medicação a ser utilizada no tratamento da patologia.","A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,
+A178,"Para avaliação da análise de cobertura do exame pesquisa da presença/mutação dos genes EGFR, solicitamos o envio do relatório médico informando a medicação a ser utilizada no tratamento da patologia.","A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,
+A179,"Para avaliação da análise de cobertura do exame pesquisa da presença/mutação dos genes HER2, solicitamos o envio do relatório médico informando a medicação a ser utilizada no tratamento da patologia.","A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,
+A180,"Para avaliação da análise de cobertura do exame pesquisa da presença/mutação dos genes K-RAS, solicitamos o envio do relatório médico informando a medicação a ser utilizada no tratamento da patologia.","A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,
+A183,Solicitamos encaminhar relatório médico para central IBM justificando a remoção casa/hospital e/ou hospital/casa para análise.,,,
+A185,"Solicitamos o envio de relatório do médico assistente, datado, carimbado e assinado, justificando a realização de consultas médicas seriadas, com informação do quadro clínico e tratamento proposto.","O relatório médico precisa constar qual local de realização do atendimento (clínica, ambulatório, hospital ou consultório) com endereço e telefone.",,
+A186,Solicitamos relatório médico informando as seguintes informações faltantes:,"Indicação clínica para a realização do teste rápido para detecção do antígeno do SARS-COV-2; Descrição dos sintomas com data de início dos mesmos; Laudo de exame PCR ou de Antígeno para Covid-19 realizados anteriormente, se houver.",,
+A188 - Comprovante de desembolso NOVA,Solicitamos o envio do comprovante de desembolso do pagamento efetuado ao prestador de serviços. O comprovante do valor desembolsado pode ser um arquivo que demonstre:,"A transferência bancária;
+- O PIX;
+- O comprovante da transação do cartão de crédito ou débito; 
+- A compensação do cheque (não será aceito apenas a foto do cheque); 
+- Comprovante do saque que sustente a origem do valor pago em espécie ao prestador que realizou o atendimento;
+Os respectivos comprovantes devem conter dados completos da transação, como código de autenticação, ID de identificação, data e hora da transação, assim como o nome do pagador e do recebedor. Atenção: Não serão aceitos comprovantes de pagamentos agendados. Também não serão aceitos prints de SMS ou demais notificações de comunicação referentes a compras autorizadas em cartão de débito/crédito.
+Conforme decisão da 3ª Turma STJ o direito ao reembolso depende por pressuposto lógico que o beneficiário tenha, efetivamente, desembolsado previamente os valores com a assistência à saúde, sendo imprescindível, ainda, o preenchimento dos demais requisitos previstos na Lei de Planos de Saúde. Dessa forma, o reembolso de despesas médico hospitalares é devido se houver pagamento direto por parte dos pacientes ao prestador de serviço. Se o usuário não despendeu nenhum valor a título de despesas médicas, mostra-se incabível a transferência do direito ao reembolso, visto que, na realidade, esse direito sequer existia.
+Importante destacar que é vedado qualquer tipo de negociação (reembolso assistido/ reembolso auxiliado) para intermediação de pedidos de reembolso por terceiros. O login e senha fornecidos pela Bradesco Saúde para acesso aos canais digitais são de uso pessoal, exclusivo e intransferível, não forneça a clínicas, laboratórios e hospitais prestadores de serviço.",,
+A188 A - Pagamento em Espécie,"Verificamos que a declaração enviada não contém todas as informações necessárias para a análise do pedido de reembolso. Portanto, solicitamos:","Comprovante do saque que confirme a origem do valor pago em espécie ao prestador que realizou o atendimento. Em caso de reapresentação da declaração, esta deve conter o respectivo reconhecimento em cartório. Ressaltamos que documentos emitidos por prestadores de serviços declarando recebimento em espécie não serão aceitos como comprovação.",Utilizar a crítica somente se o segurado apresentar carta de proprio punho (de forma espontânea) como comprovação de pagamento,Versão 4
+A188 B - Comprovante c/ valor inferior ao sinistro,Solicitamos comprovante de pagamento correspondente ao valor total do documento fiscal. O comprovante enviado possui valor inferior ao documento e não comprova o efetivo desembolso.,"São válidos:
+
+O comprovante de transferência bancária;
+O comprovante de pagamento via PIX;
+O comprovante da transação do cartão de crédito ou débito;
+A compensação do cheque (não será aceito apenas a foto do cheque);
+Comprovante do saque que confirme a origem do valor pago em espécie ao prestador que realizou o atendimento.
+
+Os respectivos comprovantes devem conter todos os dados referentes à transação, como código de autenticação, ID de identificação, data e hora da transação, assim como o nome do pagador e do recebedor.
+Não serão aceitos prints de SMS ou demais notificações de comunicação referentes a compras autorizadas em cartão de débito/crédito.",Esta crítica deverá ser utilizada quando o segurado apresentar comprovante de desembolso com valor inferior ao mencionado no evento em análise.,Versão 4
+A188 C - Comprovante c/ agendamento,Solicitamos comprovante do efetivo desembolso para a(s) despesa(s). O documento enviado trata-se de um agendamento e não é aceito para solicitação de reembolso.,"São válidos:
+
+O comprovante de transferência bancária;
+O comprovante de pagamento via PIX;
+O comprovante da transação do cartão de crédito ou débito;
+A compensação do cheque (não será aceito apenas a foto do cheque);
+Comprovante do saque que confirme a origem do valor pago em espécie ao prestador que realizou o atendimento.
+
+Os respectivos comprovantes devem conter todos os dados referentes à transação, como código de autenticação, ID de identificação, data e hora da transação, assim como o nome do pagador e do recebedor.
+Não serão aceitos prints de SMS ou demais notificações de comunicação referentes a compras autorizadas em cartão de débito/crédito.","Utilizar para casos de comprovantes com agendamento, pois não há comprovação de desembolso.",Versão 6
+A188 D - Cheque sem compensação,"Solicitamos o comprovante do efetivo desembolso para a(s) despesa(s). No caso de pagamento com cheque, deve ser enviada a imagem do cheque juntamente com a comprovação da compensação bancária.",,,Versão 6
+A188 E - Comprovante já apresentado,Solicitamos o comprovante de desembolso válido para a(s) despesa(s) em questão. Identificamos que o comprovante anexado já foi apresentado para o(s) sinistro(s) a seguir:,"São válidos:
+
+O comprovante de transferência bancária;
+O comprovante de pagamento via PIX;
+O comprovante da transação do cartão de crédito ou débito;
+A compensação do cheque (não será aceito apenas a foto do cheque);
+Comprovante do saque que confirme a origem do valor pago em espécie ao prestador que realizou o atendimento.
+
+Os respectivos comprovantes devem conter todos os dados referentes à transação, como código de autenticação, ID de identificação, data e hora da transação, assim como o nome do pagador e do recebedor.
+Não serão aceitos prints de SMS ou demais notificações de comunicação referentes a compras autorizadas em cartão de débito/crédito.","Informar o sinistro onde o mesmo comprovante foi localizado no campo parecer. ATENÇÃO para casos de diferentes despesas com o mesmo comprovante, exemplo: consulta e dermatoscopia com mesmo prestador e mesma data, com recibos diferentes e validados em sinistros diferentes.  O comprovante possivelmente será o mesmo e terá o valor das duas despesas, e nesse caso não deve ser pendenciado. Atenção para a data de solicitação do segurado.",Versão 6
+A189 ? RN 529,"Em cumprimento a RN 529 solicitamos o envio da cópia do RG, CPF e comprovante de residência com endereço completo do titular do plano de saúde.","A RN N°529 dispõe sobre a identificação de clientes e manutenção de cópias de documentos e registros em operações com valores iguais ou superiores a R$10.000,00. Desta forma, quando houver solicitação de reembolso de procedimentos médicos que somem R$ 10.000,00 ou mais, o cliente deve se comprometer a enviar a documentação necessária para atestar tais eventos, cumprindo, assim, com as exigências da ANS. A RESOLUÇÃO NORMATIVA - RN N° 529, DE 02 DE MAIO DE 2022 da ANS (Agência Nacional de Saúde), estabelece medidas para prevenir e combater os crimes de ¿lavagem¿ ou ocultação de bens, direitos e valores, conforme estabelecido na Lei nº 9.613, de 3 de março de 1998, que devem ser observadas pelas operadoras de planos de assistência à saúde reguladas pela Lei nº 9.656, de 3 de junho de 1998 e pela Lei nº 10.185, de 12 de fevereiro de 2001. Saiba mais no site www.gov.br/ans, no Portal Operadoras.","Solicitação de documentação do beneficiário titular para solicitações de alto valor. Deverão ser usadas nos casos suspeitos de abuso ou fraude, Reembolso sem desembolso. SOMENTE PARA SINISTROS ACIMA DE R$10.000,00",
+A192,Solicitamos o reenvio do documento fiscal ou relatório do prestador do serviço contendo a seguinte informação faltante: assinatura e carimbo físico ou assinatura digital do profissional responsável.,"No caso de documento assinado eletronicamente, a assinatura digital deve ser obrigatoriamente passível de validação que permita a comprovação da autoria e integridade do documento, bem como estar em conformidade com as exigências do respectivo Conselho Profissional.",Utilizar pra casos em que a NF não tenha informação nenhuma do prestador (nem nome nem carimbo) e recibo timbrado sem assinatura e carimbo ou assinatura digital.,Versão 6
+A193 - BATERIA DE EXAMES,"Considerando que, de acordo com as sociedades médico-científicas, majoritariamente o diagnóstico de doenças é estabelecido com anamnese e exame físico, favor encaminhar a seguinte documentação:","Relatório emitido pelo médico assistente datado, assinado, contendo identificação com nome completo e número de registro no conselho e as seguintes informações: 1. Quais os sintomas apresentados pelo paciente? Necessário descrever de forma detalhada todos os sintomas apresentados. 2. Descrever de forma detalhada o exame físico completo realizado no paciente. 3. Apresentar de forma descritiva a(s) principal(is) hipótese(s) diagnóstica(s) e os diagnósticos diferenciais de acordo com os sintomas e exame físico apresentados. 4. Apresentar justificativa clínica para a realização de cada exame solicitado, baseado na hipótese diagnóstica e diagnósticos diferenciais. 5. Informar as evidências científicas que corroboram a solicitação. Enumerar as referências bibliográficas. ATENÇÃO: Ressaltamos que há necessidade do envio de todas as informações acima solicitadas. O não envio de quaisquer informações, acarretará a impossibilidade do prosseguimento da análise da solicitação de reembolso.",O Analista deverá incluir a critica para as solicitações de reembolso que possuírem mais de 40 exames. Nos sinistros que não tenham uma critica negadora já estabelecida/com rotina alnhada.,
+A194 - CONFIRMAR VERACIDADE DOS LAUDOS,Para continuidade da análise do reembolso é necessário o envio das imagens correspondentes ao laudo do exame apresentado nesta solicitação.,,"Essa critica só deve ser utilizada nos casos suspeitos de laudo de exame falso em terapias, com posterior acionamento da áreas de Auditoria Antifraude para confirmação da veracidade de realização do exame. É necessário validar documentação recebida (laudo e imagens). Se os laudos e imagens forem anexados, verificar existência senha liberada em SADT. Não identificando senha, enviar para auditoria para confirmação.",
+A195 - PEDIDO médico ATUALIZADO PRAZO EXPIRADO,"Identificamos que o pedido médico apresentado para reembolso está desatualizado, considerando a data de sua emissão original.","Solicitamos a apresentação de um novo pedido, que deverá ser emitido exclusivamente por profissional médico regularmente inscrito no CRM, datado, assinado e carimbado, com descrição atualizada do quadro clínico e indicação para a continuidade da terapia, com solicitação da quantidade de sessões para um determinado período. Conforme estipulado nas Condições Gerais do contrato, caso a terapia seja realizada de forma continuada, o relatório médico deverá ser atualizado 4 (quatro) meses após sua emissão. No período gestacional o prazo é de 6 (seis) meses.","Avaliar a data do último relatório médico apresentado considerando validade de 4 meses para casos gerais, 6 meses para gestantes e 1 ano para autismo, paralisia cerebral e síndrome de down. Caso o relatório médico não esteja anexado no sinistro avaliado, é necessário pesquisa no histórico do beneficiário. Deve ser considerado somente relatório de médico assistente (CRM).",
+A196 - RM ATUALIZADO sessões FINALIZADAS,Identificamos que as sessões solicitadas em pedido médico apresentado para reembolso já foram realizadas.,"Solicitamos a apresentação de um novo pedido, que deverá ser emitido exclusivamente por profissional médico regularmente inscrito no CRM, datado, assinado e carimbado, com nova solicitação da quantidade de sessões a serem realizadas para um determinado período, além da descrição atualizada do quadro clínico com indicação para a continuidade da terapia. Conforme estipulado nas Condições Gerais do contrato, o pedido médico deve informar a quantidade de sessões programadas para um determinado período. De acordo com o art. 6 º da Resolução Normativa 465 da ANS, os procedimentos listados na RN e em seus Anexos, serão de cobertura obrigatória uma vez que solicitados pelo médico assistente.","Avaliar a quantidade de sessões já reembolsadas no histórico clínico do beneficiário via SCAM e SSBE (opção 502), considerando o relatório médico apresentado. Só serão aceitos pedidos de médico assistente (CRM).",
+A197 - PEDIDO médico SEM DATA,"Informamos que o pedido encaminhado não está datado, não sendo aceito para a solicitação de reembolso.","Conforme estipulado nas Condições Gerais do contrato, o pedido médico deve conter data de emissão, carimbo, assinatura, e deve ser realizado exclusivamente por profissional médico regularmente inscrito no CRM, contendo nome do paciente, diagnóstico, quadro clínico atual, descrição e indicação para a terapia indicada e o correspondente planejamento terapêutico (quantidade de sessões programadas para um determinado  período).",Verificar se o pedido que consta no sinistro ou no histórico possui data de emissão.,
+A197 A - pedido rasurado,"O pedido médico enviado encontra-se rasurado. Solicitamos novo pedido emitido pelo médico assistente que apresente, de modo legível, a data de emissão do documento.","O documento deverá conter carimbo e assinatura do profissional, bem como a data de sua emissão. Não serão aceitas reproduções, rasuras ou qualquer outra forma que possa comprometer a autenticidade do documento.",,Versão 4
+A198 - PEDIDO COM ASSINATURA E CARIMBO VÁLIDOS,Identificamos que o pedido médico apresentado para solicitação de reembolso não está nos padrões aceitos pela Bradesco Saúde.,"Solicitamos pedido emitido exclusivamente por profissional médico, regularmente inscrito no CRM, datado, com assinatura e carimbo originais ou assinatura digital, não sendo aceito colagens. Em caso de assinatura digital, esta deve utilizar certificado emitido pela ICP - Brasil e ser passível de validação externa. Conforme Art. 4º da resolução CFM Nº 2.299/2021, a emissão de documentos médicos por meio de TDICs (Tecnologias Digitais da Informação e Comunicação), deverá ser feita mediante o uso de assinatura digital, gerada por meio de certificados e chaves emitidos pela Infraestrutura de Chaves Públicas Brasileiras (ICP-Brasil), com Nível de Garantia de Segurança 2 (NGS2), garantindo sua validade legal, autenticidade, confiabilidade, autoria e não repúdio. Parágrafo único: Os documentos médicos devem possibilitar reconhecimento da assinatura digital por serviços de validação do Instituto Nacional de Tecnologia da Informação (ITI) ou por validador disponibilizado pelo CFM.",Verificar o carimbo e assinatura digital que constam no pedido médico. Validar assinatura no link: https://validar.iti.gov.br/ ou https://prescricao.cfm.org.br/documento,
+A199 - REGISTRO ATIVO DO PROFISSIONAL,Solicitamos envio de declaração que comprove o registro definitivo e ativo do profissional que realizou o atendimento no conselho de classe de sua categoria.,,"Verificar se o registro do profissional está ativo. Quando o status for licença temporária ou baixada, solicitar documentação complementar.",
+A200 - terapia multidisciplinar,"Solicitamos o envio do relatório do(s) prestador(es) de serviço(s), com todas as informações a seguir:","Especificação individual do local de realização de cada sessão (consultório, domicílio, escola, entre outros ambientes) com endereço completo;
+- Relação de todos os profissionais envolvidos no atendimento ao paciente, informando a especialidade de cada um, suas respectivas funções e o tipo de atendimento prestado (por exemplo, Acompanhante Terapêutico, Psicólogo, Supervisor, Terapeuta Ocupacional, etc.), além dos números de registro nos conselhos de classe. Ressaltamos que não será aceito relatório contendo apenas a assinatura do supervisor ou responsável técnico;
+- Descrição geral da abordagem terapêutica adotada para o tratamento do paciente e evolução clínica;
+- Ficha de frequência dos atendimentos, contendo datas e horários exatos (início e término) de cada sessão, com as assinaturas dos profissionais envolvidos e do responsável pelo paciente.
+
+A documentação deverá conter data de emissão, assinatura e carimbo originais, ou assinatura digital dos profissionais, não sendo aceitas reproduções, colagens ou qualquer outra forma que possa comprometer a autenticidade do documento.","Nova critica para terapia multidisciplinar. Crítica para atendimentos TEA/ABA/TGD, entre outros, que normalmente são com mais de um profissional e/ou várias sessões ao dia.",Versão 2
+A200 A - ficha de frequência terapias,Solicitamos o envio da ficha de frequência contendo os seguinte itens:,"1) Datas e horários de início e fim de cada sessão;
+2) A assinatura, em cada sessão, do prestador executante e do paciente ou do seu responsável;
+3) Ambiente onde cada sessão foi realizada, se clínica, domicílio, escola, outros.
+
+A documentação deverá conter data de emissão, carimbo e assinatura originais, ou assinatura digital dos profissionais que efetivamente realizaram os atendimentos em cada sessão. Ressaltamos que não será aceito relatório contendo apenas a assinatura do supervisor ou responsável técnico.","Crítica de ficha de frequência para terapias multidisciplinares e/ou com várias sessões ao dia. Se o resto das documentações pertinentes estiverem faltando (relação dos profissionais, evolução clínica, função, etc), usar a A200 - terapia multidisciplinar. Atenção:  Não usar a crítica de ficha de frequência para terapias normais, pois é solicitado assinatura do responsável pelo paciente, o que sai do contexto de TEA/TGD.",Versão 4
+A201 - laudo de exame de imagem,"Solicitamos laudo de exame de imagem relacionado à patologia que ocasionou o atendimento, justificando a indicação da referida terapia. Favor enviar as respectivas imagens.",,Nova crítica que deve ser utilizada para casos de fisioterapia com suspeita de fraude. Também pode ser utilizado para casos de bloqueios e infiltrações.,Versão 2
+A202 - TOXINA BOTULÍNICA (BOTOX),"Prezado(a) segurado(a), para dar continuidade à análise de cobertura das despesas com toxina botulínica, solicitamos o envio da seguinte documentação:","1) Relatório médico completo, contendo:
+
+       - Diagnóstico clínico e características da condição (distonia ou espasticidade): idade de início, padrão temporal, distribuição corporal, manifestações clínicas associadas.
+       - Etiologia presumida e indicação do tratamento.
+       - Plano terapêutico: número de aplicações, intervalos e objetivos do ciclo.
+       - Histórico de tratamentos anteriores: medicações utilizadas, protocolos seguidos e tempo de uso.
+       - Pontos de aplicação da toxina e doses utilizadas.
+
+2) Exames complementares, quando aplicáveis:
+
+       - Laudos que comprovem alteração funcional (ex.: eletroneuromiografia, ressonância magnética da articulação temporomandibular).
+       - Exames que afastem causas secundárias (ex.: RM de núcleos da base, RM de crânio, eletroneuromiografia dos músculos da face, exames laboratoriais como ceruloplasmina, transferrina, ferritina). 
+
+As distonias podem ser manifestações de outras doenças neurológicas, sendo a investigação de causas secundárias uma rotina na assistência aos pacientes, conforme protocolo e diretrizes terapêuticas do Ministério da Saúde.
+
+3) Espelho da conta hospitalar, com discriminação de taxas, materiais, medicamentos e valores unitários, além do endereço do local do procedimento.
+
+O não envio de qualquer uma das informações solicitadas impedirá o prosseguimento da análise da solicitação de reembolso.",,Versão 3
+A203 - PARTOGRAMA,"Solicitamos o envio do partograma em papel timbrado do hospital, contendo carimbo e assinatura do profissional que realizou o acompanhamento ao trabalho de parto.",,,Versão 3
+A204 - ficha de frequência diálise,Solicitamos o envio da ficha de frequência das sessões de hemodiálise. O documento deverá conter a assinatura (para cada sessão) do segurado e do prestador do serviço.,"A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",,Versão 4
+A205 A - Colagem,"O documento fiscal enviado para solicitação de reembolso não está de acordo com os padrões aceitos pela seguradora. Solicitamos novo documento fiscal, observando os seguintes critérios:","O documento fiscal deve conter carimbo e assinatura originais do profissional prestador do serviço, não sendo aceitas reproduções, colagens ou qualquer outra forma que possa comprometer a autenticidade do documento.
+No caso de documento assinado eletronicamente, a assinatura digital deve ser obrigatoriamente passível de validação que permita a comprovação da autoria e integridade do documento, bem como estar em conformidade com as exigências do respectivo Conselho Profissional.",,Versão 4
+A205 B - assinatura eletrônica,"Não foi possível validar a assinatura digital do documento fiscal apresentado na solicitação de reembolso. Solicitamos novo documento referente aos serviços prestados, observando o seguinte critério:","A assinatura digital deve ser obrigatoriamente passível de validação que permita a comprovação da autoria e integridade do documento, bem como estar em conformidade com as exigências do respectivo Conselho Profissional.",,Versão 4
+A205 C - relatório prestador com colagem,"O relatório do prestador do serviço não está de acordo com os padrões aceitos pela seguradora. Solicitamos novo relatório, observando os seguintes critérios:","O relatório deve conter carimbo e assinatura originais do profissional prestador do serviço, não sendo aceitas reproduções, colagens ou qualquer outra forma que possa comprometer a autenticidade do documento.
+No caso de documento assinado eletronicamente, a assinatura digital deve ser obrigatoriamente passível de validação que permita a comprovação da autoria e integridade do documento, bem como estar em conformidade com as exigências do respectivo Conselho Profissional.","Utilizar quando houver colagem em relatório do prestador do serviço que NÃO seja médico (CRM). Em caso de relatório ou pedido do médico assistente que contenha colagem, utilizar a A198.",Versão 5
+A205 D - assinatura eletrônica prestador,"Não foi possível validar a assinatura digital do prestador do serviço incluída no relatório enviado. Solicitamos novo relatório, observando o seguinte critério:","A assinatura digital deve ser obrigatoriamente passível de validação que permita a comprovação da autoria e integridade do documento, bem como estar em conformidade com as exigências do respectivo Conselho Profissional.","Utilizar quando não for possível validar a assinatura eletrônica do prestador do serviço que NÃO seja médico (CRM). Em caso de relatório ou pedido do médico assistente com assinatura eletrônica inválida, utilizar a A198.",Versão 5
+A206 A - indicação para a técnica,"Solicitamos novo pedido do médico assistente, contendo a indicação específica para a(s) técnica(s) cobrada(s) pelo prestador do serviço.","A documentação deverá conter data de emissão, carimbo e assinatura do profissional.","Utilizar em casos em que no pedido médico não consta indicação da técnica, e o fisioterapeuta cobrou técnicas com códigos específicos, como biofeedback, eletroestimulação transcutânea ou RPG.",Versão 4
+A207 - região corporal,Solicitamos relatório do médico assistente com a descrição completa do quadro clínico e informando a região corporal acometida pela patologia.,"A documentação deverá conter data de emissão, carimbo e assinatura do profissional.",Utilizar em casos de pedidos médicos nos quais não seja informada a região anatômica que nos permita codificar.,Versão 4
+A208 - Pedido Consulta com Enfermeiro,Solicitamos o envio do pedido emitido pelo médico assistente com a solicitação de acompanhamento pré-natal ou de puerpério com enfermeiro obstetra ou obstetriz.,"O relatório deverá ser renovado a cada 3 consultas realizadas, conter data de emissão, assinatura e carimbo, ou assinatura digital do profissional responsável.",,Versão 5
+A208 A - Relatório Consulta com Enfermeiro,"Solicitamos o envio de relatório emitido pelo prestador enfermeiro, contendo a especialidade que o habilite para consulta em obstetrícia e o número de registro no conselho de classe.","O relatório deverá conter data de emissão, assinatura e carimbo, ou assinatura digital do profissional.","Crítica para pedir especialidade do enfermeiro, quando esta não estiver registrada no site do COREN.",Versão 5
+A209 - Documento Incompleto Fatura,Verificamos que a fatura hospitalar está incompleta. Solicitamos o envio de todas as páginas da fatura para dar continuidade à análise do reembolso. Página(s) faltante(s):,,"Utilizar quando estiver faltando páginas de uma fatura hospitalar (ex.: faltando a página 2/3).
+Colocar no campo parecer qual página (se for mais de uma detalhar quais) está faltando, no modelo: 2/3, 1/2, 3/5, etc.",Versão 5
+A209 A - Documento Incompleto Prontuário,Verificamos que o prontuário médico está incompleto. Solicitamos o envio de todas as páginas do prontuário para dar continuidade à análise do reembolso. Página(s) faltante(s):,,"Utilizar quando estiver faltando páginas de um prontuário (ex.: faltando a página 2/3).
+Colocar no campo parecer qual página (se for mais de uma detalhar quais) está faltando, no modelo: 2/3, 1/2, 3/5, etc.",Versão 5
+A210 -DECLARAÇÃO DE DESCONTO CONSULTA,"Em contato realizado para a confirmação do atendimento médico, foi constatado que:","o valor efetivamente pago por este serviço é diferente do praticado pelo prestador.  Dessa forma, solicitamos uma declaração datada, assinada e carimbada emitida pelo prestador de serviço com informação e confirmação do valor do desconto concedido, bem como a justificativa correspondente.
+
+Atenção: Alertamos que o fracionamento do valor referente a um único atendimento em mais de um recibo e/ou nota fiscal poderá caracterizar conduta ilícita e pode acarretar recusa do reembolso ou mesmo no cancelamento do plano. 
+Os recibos/NF apresentados deverão espelhar os procedimentos efetivamente realizados e quitados pelo beneficiário solicitante do reembolso.",,
+A211,,,Junta Médica do Acolhimento TEA/REDE. Crítica tem como objetivo informar ao analista que houve Junta Médica do Acolhimento TEA na Rede. Solicitamos ao analista que envie o processo para fila auditoria//equipe responsável: junta médica// motivo: junta médica do acolhimento TEA na Rede,
+A212 - RECEITA SAÚDE,Solicitamos o envio do Receita Saúde para análise da solicitação do reembolso.,"Conforme disposto na Instrução Normativa RFB nº 2.240/2024, a emissão do Recibo Eletrônico de Serviços de Saúde (Receita Saúde) é obrigatória a partir de 01/01/2025 para os seguintes profissionais de saúde pessoa física: médicos, dentistas, psicólogos, fisioterapeutas, fonoaudiólogos e terapeutas ocupacionais. No campo 'Descrição' do recibo, o prestador deve detalhar o(s) atendimento(s) realizado(s), incluindo as datas correspondentes e o endereço do local onde os serviços foram prestados. Além disso, o recibo deve conter o CPF do beneficiário dos atendimentos, mesmo que o pagador seja outra pessoa.","Utilizar para recibos de pessoa física emitidos a partir de 01/01/2025, conforme instrução normativa da RF.",Versão 6
+A212 B - NOME PRESTADOR RECEITA SAÚDE,"Solicitamos relatório do prestador do serviço, datado, assinado e carimbado, contendo o nome completo do profissional e o número de registro no conselho de classe.","Atenção: para as próximas solicitações, o recibo Receita Saúde deve conter o nome completo do profissional executante.",,Versão 6
+A213 - Data Futura,"Verificamos que o documento fiscal apresentado para reembolso contém serviços ainda não realizados. Após a conclusão dos atendimentos, solicitamos o envio da documentação a seguir:","Relatório do prestador do serviço, datado, assinado e carimbado, confirmando os atendimentos e informando as datas de realização. O relatório deve conter a ficha de frequência com a assinatura, em cada data, do prestador e do paciente (ou responsável legal).",Não deve haver pagamento parcial de atendimentos e sim deve ser aguardado todo o documento. Cruzar a data de solicitação do segurado e as datas dos atendimentos para aplicar esta crítica.,Versão 6
+A213 A - Relatório faltante/Data Futura,"Identificamos que o documento solicitado anteriormente não foi enviado. Portanto, solicitamos novamente o envio de relatório do prestador do serviço contendo as seguintes informações:","Declaração do prestador confirmando os atendimentos e informando as datas de realização; - Ficha de frequência com a assinatura, em cada data, do prestador e do paciente (ou responsável legal). O documento deve conter data, carimbo e assinatura do prestador.",,Versão 6
+A214 - GENÉTICA GERAL,"Solicitamos relatório emitido por um geneticista clínico, hematologista, neurologista ou oncologista clínico, contendo as seguintes informações:","Informação do quadro clínico; 
+- Histórico familiar; 
+- Análise do heredograma; 
+- Hipótese diagnóstica; 
+- Metodologia utilizada no exame em questão (laudo). 
+
+Adicionalmente, solicitamos o envio dos laudos dos exames realizados para a elucidação diagnóstica da patologia, bem como quaisquer outros exames genéticos realizados.",Crítica para a consultoria.,Versão 6
+A215 - RETIRADA PRÓTESE MAMÁRIA,"Solicitamos relatório médico informando o diagnóstico que motivou a colocação anterior das próteses mamárias (neoplasia ou estético). Adicionalmente, solicitamos os documentos complementares a seguir:","Se a motivação do procedimento anterior foi neoplasia, enviar o laudo do exame anatomopatológico (AP);
+
+- Se foi estética, enviar:
+
+* Relatório médico detalhando os sintomas e exame físico; 
+* Laudo do exame de imagem das mamas.
+* Comprovação da marca da prótese através de nota fiscal ou cópia do prontuário médico (folha de sala da cirurgia de mama).",,Versão 6
+A216 - ERRO DOCUMENTO FISCAL,"Verificamos que o arquivo do documento fiscal enviado está corrompido ou possui senha, impedindo a análise do reembolso. Solicitamos o reenvio de arquivo válido pelo aplicativo Bradesco Saúde.",,"Utilizar para casos de recibo ou NF com erro de carregamento, com senha ou esteja corrompido. Não utilizar pra documento fiscal ilegível.",Versão 6
+A217 - DOC. FISCAL ÚNICO P/ VÁRIOS PROFISSIONAIS,"Verificamos que foi apresentado para reembolso um documento fiscal emitido por um único profissional, mas contendo valores de outros profissionais. Solicitamos o envio de um dos seguintes documentos:","Nota fiscal emitida por pessoa jurídica (CNPJ), com a discriminação dos valores pagos a cada profissional e a função exercida; ou
+
+- Recibo Receita Saúde, emitido individualmente por cada profissional pessoa física, quando aplicável. No campo ""descrição"", deve constar a função exercida e o procedimento realizado.
+
+Observação:
+
+Profissionais que não estão obrigados a emitir recibo pelo sistema Receita Saúde, como instrumentadores cirúrgicos, devem apresentar recibo simples, contendo:
+
+* Nome completo e CPF;
+* Número de registro no conselho de classe;
+* Descrição do serviço prestado;
+* Valor recebido;
+* Carimbo físico do profissional ou assinatura digital válida;
+* Data e assinatura.",,Versão 7
+A218 - IMPLANTE SUBDÉRMICO HORMONAL,"Solicitamos relatório médico contendo o diagnóstico, indicação clínica e justificativa para o uso de implante subdérmico de etonogestrel, conforme critérios estabelecidos pela RN 619/2024.","Em caso de uso de medicação teratogênica, o relatório médico deve especificar o(s) medicamento(s) utilizado(s) e o tempo previsto de uso, considerando o risco potencial à gestação.","Crítica para implante subdérmico/Implanon. A utilização deve ser para fins contraceptivos, conforme DUT. Qualquer outro uso deve ser negado (N294).",Versão 7
+A218 A - COMPOSIÇÃO DO IMPLANTE HORMONAL,"Solicitamos relatório médico informando a composição do implante hormonal, especificando o(s) princípio(s) ativo(s).",,"A DUT se aplica somente ao implante de etonogestrel e não inclui outros implantes hormonais como Levonorgestrel, Gestrinona, Estradiol ou Testosterona. Implantes com outros hormônios caracterizam reposição hormonal e não anticoncepção, sendo negados com N294.",Versão 7
+A219 - NOTA FISCAL DE FORNECEDOR MAT/MED,"Conforme contrato vigente, solicitamos nota fiscal original e quitada emitida pelo fornecedor, distribuidor ou fabricante para o(s) medicamento(s) cobrado(s).","A nota fiscal deve conter: nome do paciente, data de emissão, valor pago, descrição do produto (incluindo marca, modelo e fabricante), etiqueta/lacre do item utilizado, número de registro na ANVISA, nome e CNPJ do emitente. Não são aceitos recibos ou notas fiscais emitidos por médico, hospital ou clínica onde foi realizado o procedimento.",Deve ser solicitada apenas se nas Condições Gerais houver cláusula de NF de fornecedor de materiais e medicamentos.,Versão 7
+A219 A - MATERIAL/OPME -NOTA FISCAL DE FORNECEDOR,"Conforme contrato vigente, solicitamos nota fiscal original e quitada emitida pelo fornecedor, distribuidor ou fabricante para o(s) materiais(s) cobrado(s).","A nota fiscal deve conter: nome do paciente, data de emissão, valor pago, descrição do material (incluindo marca, modelo e fabricante), etiqueta/lacre do item utilizado, número de registro na ANVISA, nome e CNPJ do emitente. Não são aceitos recibos ou notas fiscais emitidos por médico, hospital ou clínica onde foi realizado o procedimento.",Deve ser solicitada apenas se nas Condições Gerais houver cláusula de NF de fornecedor de materiais e medicamentos.,Versão 7
+A220 - FERRO INJETÁVEL,"A cobertura para aplicação de ferro intravenoso está condicionada à Diretriz de Utilização (DUT) nº 158 vigente. Para prosseguir com a análise, solicitamos os documentos a seguir:","Cópia do laudo do exame que comprove a presença de anemia ferropriva;
+- Relatório médico com indicação e justificativa clínica para a escolha da terapia intravenosa.",Conforme DUT Nº 158.,Versão 7
+A221 - VÍRUS SINCICIAL RESPIRATÓRIO (VSR),"A cobertura para terapia imunoprofilática contra o  vírus sincicial respiratório (VSR)  está condicionada à Diretriz de Utilização (DUT) nº 124 vigente. Para prosseguir com a análise, solicitamos:","Relatório médico com a justificativa para a indicação da medicação;
+- Informação sobre se a criança nasceu a termo ou prematura;
+- Histórico patológico pregresso;
+- Caso haja patologia prévia, enviar cópia dos exames que a comprovem.",Conforme DUT Nº 124.,Versão 7
+A222 - MEDICAÇÕES P/ OSTEOPOROSE,"A cobertura para terapia intravenosa com ácido zoledrônico está condicionada à Diretriz de Utilização (DUT) nº 163 vigente. Para prosseguir com a análise, solicitamos os documentos a seguir:","Cópia do laudo do exame de densitometria que comprove a patologia e informe o T-escore na coluna lombar e fêmur proximal;
+- Relatório médico informando o histórico de fraturas, uso de medicações anteriores e respectivos períodos;
+- Cópia do laudo que comprove alteração esofagiana que dificulte a deglutição.",Tratamento com ácido zoledrônico.,Versão 7
+A223 - ACONSELHAMENTO GENÉTICO,Solicitamos o registro de qualificação de especialista (RQE) em genética médica do profissional que realizou o aconselhamento genético.,,Aconselhamento genético deve ser liberado apenas para geneticista.,Versão 7
+A224 - ATENDIMENTO AMBULATORIAL - PLANO HOSPITALAR,"Solicitamos relatório médico justificando o atendimento ambulatorial e informando o quadro clínico, considerando tratar-se de plano com segmentação exclusivamente hospitalar.",,"Para apólices com segmentação hospitalar com ou sem obstetrícia, em que foi cobrada despesa reembolsável, mesmo sendo ambulatorial. Ver material no Infohub sobre a cobertura ambulatorial para apólice hospitalar.",Versão 7
+A225 - CONSULTA FISIOTERAPIA,"Solicitamos relatório do prestador fisioterapeuta datado, assinado e carimbado, justificando a realização de consultas em frequência seriada com curto intervalo de tempo.",,"Frequência recomendada para pagamento de consulta com fisioterapeuta: 1x por mês. Para mais informações, conferir o Manual de Fisioterapia constante no Infohub.",Versão 7

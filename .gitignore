@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Telegram & Database Sessions
+*.session
+*.session-journal
+*.tdl
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment & Sensitive Credentials
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+token.pickle
+token_storage.json
+client_secret*.json
+
+# Logs & Runtime
+*.log
+*.tmp
+temp/
+downloads/
+
+# Dependencies
+node_modules/
+dist/
+build/
+
+# Editor & System
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
