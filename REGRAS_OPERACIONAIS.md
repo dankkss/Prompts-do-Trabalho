@@ -51,6 +51,11 @@ Core Operational Rules (Permanent):
    - Registro Duplo Obrigatório: Todo servidor MCP deve ser registrado simultaneamente em /root/.gemini/config/mcp_config.json e /root/.claude.json.
    - Schemas e Binários: Schemas JSON devem ser posicionados em /root/.gemini/antigravity-cli/mcp/<servidor>/ e executáveis expostos em /usr/local/bin/.
    - Isolamento de Segredos: NUNCA codificar tokens, telefones ou chaves em scripts ou schemas. Carregar obrigatoriamente de /root/.config/<servidor>/config.json ou variáveis de ambiente.
+   - PROTOCOLO ANTI-CONGELAMENTO STDIO & HOOKS (ZERO-FREEZE):
+     * Leitura Linha a Linha: NUNCA usar 'for line in sys.stdin:'. Usar estritamente 'while True: line = sys.stdin.readline()'.
+     * Liveness & Ping Obrigatório: O servidor DEVE responder a requisições 'ping' com '{"jsonrpc": "2.0", "id": mid, "result": {}}' e responder com erro -32601 para qualquer método não mapeado com 'id'. Servidores sem ping travam o Antigravity por 10 minutos na inicialização.
+     * Higiene de Hooks: NUNCA colocar comandos com requisição de rede ou varredura de disco no hook 'PreInvocation' em /root/.gemini/config/hooks.json.
+     * Validação Obrigatória: Ao criar ou editar qualquer MCP, o agente DEVE executar e aprovar '/usr/local/bin/mcp-guardian' antes de concluir.
 
 7. PROTOCOLO DE PERSISTÊNCIA TELEGRAM MTPROTO:
    - Isolamento de Sessão (.session): Arquivos .session são bancos SQLite binários com AuthKey única. NUNCA executar dois processos simultâneos usando o mesmo arquivo de sessão (evita database locks e revogação da sessão).
