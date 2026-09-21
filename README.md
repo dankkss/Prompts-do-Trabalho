@@ -1,6 +1,6 @@
 # Prompts do Trabalho 🏥📋
 
-Repositório privado contendo o ecossistema completo de agentes, prompts, tabelas e manuais de regulação em saúde, auditoria de reembolso médico e codificação TUSS/THSM. Estruturado para uso direto no **Google Gemini** e **Microsoft Copilot**.
+Repositório contendo o ecossistema completo de agentes, prompts, tabelas e manuais de regulação em saúde, auditoria de reembolso médico e codificação TUSS/THSM. Estruturado para uso direto no **Google Gemini** e **Microsoft Copilot**.
 
 ---
 
