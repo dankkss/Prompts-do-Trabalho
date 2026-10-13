@@ -54,6 +54,10 @@ Prompts-do-Trabalho/
 │   ├── Texto Livre Copilot Final.md
 │   ├── Texto Livre Gemini Final.md
 │   └── Vacina Final.md
+├── 07-Habilidades-Copilot/              # Pacotes de Habilidades modulares (.zip + SKILL.md) para Copilot 365
+│   ├── 01-Fisioterapia-Completa/        # Família Fisioterapia (TUSS + THSM + Manual + DUT 24)
+│   ├── build_skills.py                  # Script de automação e reempacotamento de ZIPs
+│   └── README.md
 └── originais_gem/
     └── [25 arquivos .gem originais nomeados individualmente para backup/importação]
 ```
@@ -91,6 +95,7 @@ Prompts-do-Trabalho/
 | **06. Pareceres** | `Texto Livre Copilot Final.md` | Copilot | Redação administrativa padrão para comunicação formal com o segurado. |
 | **06. Pareceres** | `Texto Livre Gemini Final.md` | Gemini | Elaboração de textos livres objetivos para notificações ao beneficiário. |
 | **06. Pareceres** | `Vacina Final.md` | Universal | Análise de cobertura e cálculo de vacinas no sistema de regulação. |
+| **07. Habilidades M365** | `01-Fisioterapia-Completa/` | Copilot 365 (Skill) | Pacote modular (.zip) unificando TUSS, THSM, Manual e DUT 24. |
 
 ---
 
