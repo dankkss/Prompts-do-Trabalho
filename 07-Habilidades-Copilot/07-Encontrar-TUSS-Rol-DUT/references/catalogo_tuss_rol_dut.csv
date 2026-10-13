@@ -1,0 +1,140 @@
+codigo_tuss,termo_oficial,rol_ans,dut_numero,segmentacao,observacoes
+10101012,Consulta em consultorio (no horario normal ou preestabelecido),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Consulta médica presencial eletiva
+10101039,Consulta em pronto socorro / pronto atendimento,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Consulta de urgência e emergência
+50001205,Consulta com enfermeiro obstetra ou obstetriz,SIM,DUT 142,AMB+HCO+HSO+REF,Verificar cobertura obstétrica e critérios da DUT
+20103476,Atendimento fisioterapêutico nas disfunções vasculares periféricas,SIM,DUT 24,AMB+REF,Fisioterapia vascular
+20103484,Atendimento fisioterapêutico nas disfunções neurológicas sem comprometimento locomotor,SIM,DUT 24,AMB+REF,Fisioterapia neurológica
+20103492,Atendimento fisioterapêutico nas disfunções neurológicas com comprometimento locomotor,SIM,DUT 24,AMB+REF,Fisioterapia neurológica motora
+20103506,Atendimento fisioterapêutico nas disfunções musculoesqueléticas com comprometimento locomotor,SIM,DUT 24,AMB+REF,Fisioterapia motora / ortopédica
+20103514,Atendimento fisioterapêutico nas disfunções respiratórias,SIM,DUT 24,AMB+REF,Fisioterapia respiratória
+20103522,Atendimento fisioterapêutico nas disfunções musculoesqueléticas sem comprometimento locomotor,SIM,DUT 24,AMB+REF,Fisioterapia ortopédica simples
+20103646,Atendimento fisioterapêutico nas sequelas de queimaduras,SIM,DUT 24,AMB+REF,Fisioterapia dermatológica / queimados
+20103662,Reabilitação perineal e/ou esfincteriana (uroginecológica),SIM,DUT 24,AMB+REF,Fisioterapia uroginecológica
+20103670,Estimulação elétrica transcutânea (TENS),SIM,DUT 24,AMB+REF,TENS isolado; se concomitante com cinesio usar regra de absorção
+20103700,Fisioterapia motora geral,SIM,DUT 24,AMB+REF,Fisioterapia motora
+20103719,Fisioterapia respiratória em pacientes ambulatoriais,SIM,DUT 24,AMB+REF,Fisioterapia respiratória ambulatorial
+20103727,Cinesioterapia motora,SIM,DUT 24,AMB+REF,Cinesioterapia motora
+20103735,Cinesioterapia respiratória,SIM,DUT 24,AMB+REF,Cinesioterapia respiratória
+50000470,Sessão de psicoterapia individual realizada por psicólogo,SIM,NAO POSSUI DUT,AMB+REF,Psicoterapia por psicólogo (sem limite anual pela ACP)
+20104227,Sessão de psicoterapia infantil (psicólogo),SIM,NAO POSSUI DUT,AMB+REF,Psicoterapia infantil
+20104219,Sessão de psicoterapia individual realizada por médico,SIM,NAO POSSUI DUT,AMB+REF,Psicoterapia médica / psiquiátrica
+50000080,Sessão de terapia ocupacional individual,SIM,NAO POSSUI DUT,AMB+REF,Terapia ocupacional (sem limite anual pela ACP)
+50000616,Sessão de fonoaudiologia individual,SIM,NAO POSSUI DUT,AMB+REF,Fonoaudiologia (sem limite anual pela ACP)
+50000560,Consulta / sessão de nutrição,SIM,DUT 108,AMB+REF,Nutrição (limites 18/12/6 consultas/ano conforme DUT)
+50000446,Reeducação postural global (RPG),SIM,NAO POSSUI DUT,AMB+REF,RPG realizado por fisioterapeuta
+31601014,Sessão de acupuntura com inserção de agulhas,SIM,NAO POSSUI DUT,AMB+REF,Acupuntura realizada por médico ou profissional habilitado
+50000144,Consulta ambulatorial em fisioterapia,SIM,NAO POSSUI DUT,AMB+REF,Avaliação / consulta inicial de fisioterapia
+50001213,Musicoterapia,SIM,NAO POSSUI DUT,AMB+REF,Musicoterapia (verificar formação e critérios legais)
+50000012,Psicomotricidade,SIM,NAO POSSUI DUT,AMB+REF,Psicomotricidade (verificar habilitação profissional e cobertura)
+50000039,Ludoterapia individual,SIM,NAO POSSUI DUT,AMB+REF,Ludoterapia
+50000489,Sessão de psicoterapia em grupo,SIM,NAO POSSUI DUT,AMB+REF,Psicoterapia coletiva
+50000497,Sessão de psicoterapia de casal,SIM,NAO POSSUI DUT,AMB+REF,Psicoterapia de casal
+50000500,Sessão de psicoterapia familiar,SIM,NAO POSSUI DUT,AMB+REF,Psicoterapia familiar
+50000640,Sessão de fonoaudiologia em grupo,SIM,NAO POSSUI DUT,AMB+REF,Fonoaudiologia em grupo
+50000659,Orientação fonoaudiológica aos pais / escolar / cuidador,SIM,NAO POSSUI DUT,AMB+REF,Orientação familiar
+50000128,Sessão de terapia ocupacional em grupo,SIM,NAO POSSUI DUT,AMB+REF,Terapia ocupacional coletiva
+50000110,Sessão de terapia ocupacional familiar,SIM,NAO POSSUI DUT,AMB+REF,Terapia ocupacional familiar
+50000047,Ludoterapia em grupo,SIM,NAO POSSUI DUT,AMB+REF,Ludoterapia coletiva
+40901246,Ultrassonografia de carótidas e vertebrais com Doppler colorido,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Doppler colorido já embutido no código
+40901386,Doppler colorido de vaso periférico (código complementar),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Usar quando US base não tiver Doppler colorido incluído
+40901548,Doppler pulsado / espectral / simples (código complementar),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Doppler sem especificação de cor
+40901122,Ultrassonografia de abdome total,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,US abdome total
+40901130,Ultrassonografia de abdome superior,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,US abdome superior (fígado vias biliares pâncreas baço)
+40901173,Ultrassonografia de pelve (ginecológica transabdominal),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,US pelve feminina via abdominal
+40901181,Ultrassonografia transvaginal,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,US endovaginal / transvaginal
+40901203,Ultrassonografia obstétrica,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,US obstétrica rotina
+40901211,Ultrassonografia obstétrica com Doppler colorido,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,US obstétrica com Doppler incluído
+40901220,Ultrassonografia obstétrica morfológica,SIM,DUT 145,AMB+HCO+HSO+REF,US morfológica fetal com diretriz
+40901238,Ultrassonografia de mamas bilateral,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,US mamas bilateral
+40901254,Ultrassonografia de tireoide,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,US tireoide simples sem Doppler
+40901262,Ultrassonografia de tireoide com Doppler colorido,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,US tireoide com Doppler incluído
+40901289,Ultrassonografia articular (por articulação),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,US articular; cobrar por articulação examinada
+40901319,Ultrassonografia de rins e vias urinárias (aparelho urinário),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,US rins e bexiga
+40901360,Ultrassonografia de próstata via transretal,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,US próstata transretal
+40901432,Ultrassonografia com Doppler de artérias renais,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Doppler de artérias renais
+40901459,Ultrassonografia com Doppler de membros inferiores arterial (por membro),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Doppler arterial MMII
+40901467,Ultrassonografia com Doppler de membros inferiores venoso (por membro),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Doppler venoso MMII
+41001010,Tomografia computadorizada de crânio,SIM,DUT 121,AMB+HCO+HSO+REF,TC crânio com diretriz de utilização
+41001028,Tomografia computadorizada de sela túrcica / hipófise,SIM,DUT 121,AMB+HCO+HSO+REF,TC sela túrcica
+41001036,Tomografia computadorizada de órbitas,SIM,DUT 121,AMB+HCO+HSO+REF,TC órbitas
+41001044,Tomografia computadorizada de seios da face / mastoides / ouvidos,SIM,DUT 121,AMB+HCO+HSO+REF,TC seios da face
+41001052,Tomografia computadorizada de pescoço / laringe / faringe,SIM,DUT 121,AMB+HCO+HSO+REF,TC cervical
+41001060,Tomografia computadorizada de tórax,SIM,DUT 121,AMB+HCO+HSO+REF,TC tórax
+41001079,Tomografia computadorizada de abdome total,SIM,DUT 121,AMB+HCO+HSO+REF,TC abdome superior + pelve
+41001087,Tomografia computadorizada de abdome superior,SIM,DUT 121,AMB+HCO+HSO+REF,TC abdome superior
+41001095,Tomografia computadorizada de pelve / bacia,SIM,DUT 121,AMB+HCO+HSO+REF,TC pelve
+41001109,Tomografia computadorizada de coluna cervical (por segmento),SIM,DUT 121,AMB+HCO+HSO+REF,TC coluna cervical
+41001117,Tomografia computadorizada de coluna dorsal / torácica (por segmento),SIM,DUT 121,AMB+HCO+HSO+REF,TC coluna torácica
+41001125,Tomografia computadorizada de coluna lombossacra (por segmento),SIM,DUT 121,AMB+HCO+HSO+REF,TC coluna lombar
+41001133,Tomografia computadorizada de articulação (por articulação),SIM,DUT 121,AMB+HCO+HSO+REF,TC articulação
+41001141,Tomografia computadorizada de segmento apendicular (braço antebraço coxa perna),SIM,DUT 121,AMB+HCO+HSO+REF,TC membro
+41001389,Angiotomografia coronariana (angio-TC de coronárias),SIM,DUT 88,AMB+HCO+HSO+REF,Angio-TC de artérias coronárias com DUT 88
+41001397,Angiotomografia arterial ou venosa de tórax / aorta torácica,SIM,DUT 88,AMB+HCO+HSO+REF,Angio-TC tórax / TEP
+41101014,Ressonância magnética de crânio,SIM,DUT 121,AMB+HCO+HSO+REF,RM encéfalo / crânio com diretriz
+41101022,Ressonância magnética de sela túrcica / hipófise,SIM,DUT 121,AMB+HCO+HSO+REF,RM hipófise
+41101030,Ressonância magnética de órbitas,SIM,DUT 121,AMB+HCO+HSO+REF,RM órbitas
+41101049,Ressonância magnética de seios da face / face,SIM,DUT 121,AMB+HCO+HSO+REF,RM face
+41101057,Ressonância magnética de pescoço / cervical,SIM,DUT 121,AMB+HCO+HSO+REF,RM cervical
+41101065,Ressonância magnética de tórax,SIM,DUT 121,AMB+HCO+HSO+REF,RM tórax
+41101073,Ressonância magnética de abdome superior,SIM,DUT 121,AMB+HCO+HSO+REF,RM abdome superior
+41101081,Ressonância magnética de pelve,SIM,DUT 121,AMB+HCO+HSO+REF,RM pelve feminina ou masculina
+41101090,Ressonância magnética de coluna cervical,SIM,DUT 121,AMB+HCO+HSO+REF,RM coluna cervical
+41101103,Ressonância magnética de coluna torácica,SIM,DUT 121,AMB+HCO+HSO+REF,RM coluna torácica
+41101111,Ressonância magnética de coluna lombar / lombossacra,SIM,DUT 121,AMB+HCO+HSO+REF,RM coluna lombar
+41101120,Ressonância magnética de articulação (por articulação),SIM,DUT 121,AMB+HCO+HSO+REF,RM joelho ombro tornozelo punho etc.
+41101138,Ressonância magnética de segmento apendicular,SIM,DUT 121,AMB+HCO+HSO+REF,RM membros
+41101170,Colangiorressonância magnética,SIM,DUT 121,AMB+HCO+HSO+REF,RM vias biliares
+41101227,Ressonância magnética de mamas bilateral,SIM,DUT 121,AMB+HCO+HSO+REF,RM mamas com DUT específica de alto risco
+40101010,Eletrocardiograma convencional (ECG 12 derivações),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,ECG rotina
+40101045,Teste ergométrico computadorizado (em esteira ou bicicleta),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Teste ergométrico (se com cintilografia separar códigos)
+40101061,Holter de 24 horas (2 ou mais canais),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Holter cardíaco
+40101070,Monitorização ambulatorial da pressão arterial (MAPA de 24 horas),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,MAPA 24h
+40101150,Ecocardiograma transtorácico bidimensional com Doppler colorido,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Eco com Doppler colorido
+40101169,Ecocardiograma transesofágico (com ou sem Doppler),SIM,DUT 64,AMB+HCO+HSO+REF,Eco transesofágico com DUT 64
+40101177,Ecocardiograma sob estresse físico ou farmacológico,SIM,DUT 64,AMB+HCO+HSO+REF,Eco estresse com critérios
+40103020,Eletroencefalograma convencional (EEG rotina em vigília / sono),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,EEG simples
+40103063,Eletroencefalograma em sono prolongado ou vídeomonitorização,SIM,DUT 33,AMB+HCO+HSO+REF,Vídeo-EEG com DUT 33
+40103136,Eletroneuromiografia de membros (ENMG 2 ou 4 membros),SIM,DUT 34,AMB+HCO+HSO+REF,ENMG inclui velocidade de condução e estímulos
+40103144,Polissonografia de noite inteira (PSG padrão),SIM,DUT 55,AMB+HCO+HSO+REF,Polissonografia com DUT 55
+40701042,Cintilografia de perfusão miocárdica (repouso e estresse),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Não inclui teste ergométrico; teste ergométrico é 40101045
+40708012,PET-CT oncológico (com 18F-FDG),SIM,DUT 132,AMB+HCO+HSO+REF,PET-CT com critérios estritos da DUT 132
+40201082,Endoscopia digestiva alta (EDA diagnóstica),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,EDA simples; biópsias são cobradas separadamente
+40201120,Colonoscopia diagnóstica com ou sem biópsia,SIM,DUT 40,AMB+HCO+HSO+REF,Colonoscopia com DUT 40
+40201139,Retossigmoidoscopia flexível,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Retossigmoidoscopia
+40301630,Hemograma completo com plaquetas,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Laboratório de rotina
+40302040,Glicemia de jejum,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Laboratório de rotina
+40302237,Lipidograma / perfil lipídico (colesterol frações e triglicerídeos),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Laboratório de rotina
+40302318,Creatinina sérica,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Laboratório de rotina
+40302580,Ureia sérica,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Laboratório de rotina
+40304361,Hormônio tireoestimulante (TSH),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Laboratório de rotina
+40304370,Tiroxina livre (T4 Livre),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Laboratório de rotina
+40316521,Vitamina D - 25 hidroxivitamina D (25-OH-D),SIM,DUT 138,AMB+HCO+HSO+REF,Dosagem com DUT 138 (grupos de risco específicos)
+40316513,Vitamina B12 (cobalamina),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Dosagem laboratorial
+40307247,Urina tipo I (EAS / sedimento urinário),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Exame de urina simples
+40307255,Urocultura com contagem de colônias e antibiograma,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Cultura de urina
+40303135,Hemoglobina glicada (HbA1c),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Controle de diabetes
+20104081,Curativos em geral com anestesia (exceto queimados),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Curativo sob anestesia
+20104103,Curativos em geral sem anestesia (exceto queimados),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Curativo simples
+30101239,Curativo especial sob anestesia (por unidade topográfica),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Curativo especial
+30205107,Corpo estranho de faringe - retirada sob anestesia geral,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Retirada corpo estranho faringe
+30402050,Corpos estranhos pólipos ou biópsia em hospital sob anestesia geral,SIM,NAO POSSUI DUT,HCO+HSO+REF,Ouvido / otologia
+30501091,Corpos estranhos - retirada sob anestesia geral / hospital (nariz),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Corpo estranho nasal
+31302092,Extração de corpo estranho com anestesia geral ou bloqueio,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Corpo estranho genital / urinário
+31602231,Anestesia para endoscopia diagnóstica,SIM,DUT 12,AMB+HCO+HSO+REF,RN 465/2021 Art. 8º - cobertura obrigatória com indicação médica
+31602240,Anestesia para endoscopia intervencionista,SIM,DUT 12,AMB+HCO+HSO+REF,RN 465/2021 Art. 8º
+31602258,Anestesia para exames radiológicos de angiorradiologia,SIM,DUT 12,AMB+HCO+HSO+REF,RN 465/2021 Art. 8º
+31602266,Anestesia para exames de ultrassonografia,SIM,DUT 12,AMB+HCO+HSO+REF,RN 465/2021 Art. 8º
+31602274,Anestesia para exames de tomografia computadorizada,SIM,DUT 12,AMB+HCO+HSO+REF,RN 465/2021 Art. 8º
+31602282,Anestesia para exames de ressonância magnética,SIM,DUT 12,AMB+HCO+HSO+REF,RN 465/2021 Art. 8º
+31602290,Anestesia para procedimentos de radioterapia,SIM,DUT 12,AMB+HCO+HSO+REF,RN 465/2021 Art. 8º
+31602304,Anestesia para exames específicos teste para diagnóstico e outros,SIM,DUT 12,AMB+HCO+HSO+REF,RN 465/2021 Art. 8º
+31602312,Anestesia para procedimentos clínicos ambulatoriais e hospitalares,SIM,DUT 12,AMB+HCO+HSO+REF,RN 465/2021 Art. 8º
+31602320,Anestesia para procedimentos de medicina nuclear,SIM,DUT 12,AMB+HCO+HSO+REF,RN 465/2021 Art. 8º
+40601111,Procedimento diagnóstico em biópsia simples (anatomopatológico),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,AP peça simples / biópsia única
+40601120,Procedimento diagnóstico em fragmentos múltiplos (anatomopatológico),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,AP fragmentos múltiplos (ex. próstata estômago)
+40601138,Procedimento diagnóstico em peça cirúrgica complexa / oncológica,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,AP peça complexa ampliação de margem
+84004770,Consulta médica via remota / não presencial (telessaúde),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Telemedicina conforme CFM e ANS
+84250640,Sessão de psicoterapia telessaúde (CRP),SIM,NAO POSSUI DUT,AMB+REF,Telepsicologia
+84250658,Sessão de fonoaudiologia telessaúde,SIM,NAO POSSUI DUT,AMB+REF,Telefonoaudiologia
+84004762,Consulta / sessão de nutrição telessaúde,SIM,DUT 108,AMB+REF,Telenutrição
+84250631,Consulta / sessão em psicologia telessaúde (CRM),SIM,NAO POSSUI DUT,AMB+REF,Telepsicologia médica

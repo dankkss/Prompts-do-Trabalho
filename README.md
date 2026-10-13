@@ -96,6 +96,20 @@ Prompts-do-Trabalho/
 | **06. Pareceres** | `Texto Livre Gemini Final.md` | Gemini | Elaboração de textos livres objetivos para notificações ao beneficiário. |
 | **06. Pareceres** | `Vacina Final.md` | Universal | Análise de cobertura e cálculo de vacinas no sistema de regulação. |
 | **07. Habilidades M365** | `01-Fisioterapia-Completa/` | Copilot 365 (Skill) | Pacote modular (.zip) unificando TUSS, THSM, Manual e DUT 24. |
+| **07. Habilidades M365** | `02-Negativas-Glosas/` | Copilot 365 (Skill) | Pacote modular (.zip) unificando TUSS, THSM, tabela oficial e N305. |
+| **07. Habilidades M365** | `03-Complementos-Pendencias/` | Copilot 365 (Skill) | Pacote modular (.zip) unificando A101 a A213A, tabela oficial e A150. |
+| **07. Habilidades M365** | `04-Texto-Livre-Aprimorado/` | Copilot 365 (Skill) | Pacote modular (.zip) com modelos aprovados e diretrizes anti-alucinação. |
+| **07. Habilidades M365** | `05-Bonus-Pedido-Fisioterapia/` | Copilot 365 (Skill) | Pipeline sequencial: Pedido Médico + Codificação Fisioterapia. |
+| **07. Habilidades M365** | `06-Bonus-Pedido-Notas-Nutricao/` | Copilot 365 (Skill) | Pipeline sequencial: Pedido Médico + Nota Técnica Nutrição (DUT 18/12/6). |
+| **07. Habilidades M365** | `07-Encontrar-TUSS-Rol-DUT/` | Copilot 365 (Skill) | Pacote modular (.zip): TUSS + Rol ANS + Diretrizes de Utilização (DUT). |
+| **07. Habilidades M365** | `08-Conselho-Profissional/` | Copilot 365 (Skill) | Pacote modular (.zip): Consulta pública em conselhos (CREFITOs, CRFas, CFP, CFN). |
+| **07. Habilidades M365** | `09-Especialidade-Medica-RQE/` | Copilot 365 (Skill) | Pacote modular (.zip): CFM/CRM, RQEs oficiais, áreas de atuação e união de especialidades. |
+| **07. Habilidades M365** | `10-Auditoria-Notas-Fiscais/` | Copilot 365 (Skill) | Pacote modular (.zip): Portais de autenticidade NFS-e (prefeituras/MEI) e NF-e (SEFAZ). |
+| **07. Habilidades M365** | `11-Analise-Notas-Terapias/` | Copilot 365 (Skill) | Pacote modular (.zip): Emissão de notas de Nutrição (DUT 108) e Terapias (ACP). |
+| **07. Habilidades M365** | `12-Extracao-Pedido-Medico/` | Copilot 365 (Skill) | Pacote modular (.zip): Extração de 8 campos de pedidos médicos em tabela vertical. |
+| **07. Habilidades M365** | `13-Codigos-Terapias/` | Copilot 365 (Skill) | Pacote modular (.zip): Códigos oficiais THSM/TUSS para terapias individuais e coletivas. |
+| **07. Habilidades M365** | `14-CID-Diagnosticos/` | Copilot 365 (Skill) | Pacote modular (.zip): Codificação e validação em CID-10 e CID-11 com cartões visuais. |
+| **07. Habilidades M365** | `15-Calculo-Vacina-SCAM/` | Copilot 365 (Skill) | Pacote modular (.zip): Memória de cálculo reverso do Item C (coeficiente) no SCAM. |
 
 ---
 
