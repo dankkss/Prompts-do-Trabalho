@@ -9,14 +9,35 @@ Esta pasta contém os pacotes de **Habilidades (Skills)** estruturados especific
 ```text
 07-Habilidades-Copilot/
 ├── 01-Fisioterapia-Completa/          # Família Fisioterapia (TUSS + THSM + Manual + DUT 24)
-│   ├── SKILL.md                       # Especificação oficial da Habilidade (YAML frontmatter)
-│   ├── INSTRUCOES_COPILOT_8K.md       # Texto maestro para o campo de Instruções do Agente
-│   ├── 01-Fisioterapia-Completa.zip   # Pacote pronto para carregar no Copilot
-│   └── references/                    # Documentos de apoio consultados sob demanda
-│       ├── manual_fisioterapia_regras.md
-│       ├── diretriz_tens_dut24.md
-│       ├── matriz_concomitancia.md
-│       └── codigos_thsm_tuss.csv
+│   ├── SKILL.md
+│   ├── INSTRUCOES_COPILOT_8K.md
+│   ├── 01-Fisioterapia-Completa.zip
+│   └── references/
+├── 02-Negativas-Glosas/               # Família Negativas (TUSS + THSM + CSV oficial + N305)
+│   ├── SKILL.md
+│   ├── INSTRUCOES_COPILOT_8K.md
+│   ├── 02-Negativas-Glosas.zip
+│   └── references/
+├── 03-Complementos-Pendencias/        # Família Complementos (A101 a A213A + CSV oficial + A150)
+│   ├── SKILL.md
+│   ├── INSTRUCOES_COPILOT_8K.md
+│   ├── 03-Complementos-Pendencias.zip
+│   └── references/
+├── 04-Texto-Livre-Aprimorado/         # Família Texto Livre (Modelos Aprovados + Anti-alucinação)
+│   ├── SKILL.md
+│   ├── INSTRUCOES_COPILOT_8K.md
+│   ├── 04-Texto-Livre-Aprimorado.zip
+│   └── references/
+├── 05-Bonus-Pedido-Fisioterapia/      # Bônus Sequencial: Pedido Médico + Codificação Fisioterapia
+│   ├── SKILL.md
+│   ├── INSTRUCOES_COPILOT_8K.md
+│   ├── 05-Bonus-Pedido-Fisioterapia.zip
+│   └── references/
+├── 06-Bonus-Pedido-Notas-Nutricao/    # Bônus Sequencial: Pedido Médico + Nota Técnica Nutrição (DUT 18/12/6)
+│   ├── SKILL.md
+│   ├── INSTRUCOES_COPILOT_8K.md
+│   ├── 06-Bonus-Pedido-Notas-Nutricao.zip
+│   └── references/
 ├── build_skills.py                    # Script de automação e reempacotamento de ZIPs
 └── README.md                          # Este guia operacional
 ```
