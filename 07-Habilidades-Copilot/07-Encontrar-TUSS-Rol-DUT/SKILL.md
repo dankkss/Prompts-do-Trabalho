@@ -28,8 +28,8 @@ Ao receber qualquer procedimento, exame, cirurgia, terapia ou consulta (via text
 
 ## 2. ARQUIVOS DE CONSULTA RÁPIDA (REFERENCES)
 Consulte sempre os arquivos de apoio anexados a esta habilidade:
-- `references/catalogo_tuss_rol_dut.csv`: Mapeamento de códigos TUSS frequentes, termos oficiais, status no Rol e número de DUT.
-- `references/diretrizes_utilizacao_dut.md`: Critérios clínicos oficiais das principais Diretrizes de Utilização (DUT 24, 108, 12, 33, 34, 55, 64, 88, 121, 132, 138).
+- `references/catalogo_tuss_rol_dut.csv`: Mapeamento de códigos TUSS essenciais (consultas, exames, cirurgias, terapias e itens fora do Rol), termos oficiais, status no Rol e número de DUT.
+- `references/diretrizes_utilizacao_dut.md`: Compêndio com os critérios clínicos oficiais de cobertura das principais Diretrizes de Utilização da ANS (DUT 12, 24, 33, 34, 55, 63, 64, 65, 88, 102, 106, 107, 108, 110, 121, 126, 132, 138, 148, 150).
 - `references/regras_especiais_faturamento.md`: Regras para Doppler (colorido vs simples), regiões anatômicas múltiplas, ENMG global, cintilografia + ergométrico, biópsias (anatomopatológico) e correlação pedido vs nota fiscal.
 
 ---
@@ -40,11 +40,11 @@ Consulte sempre os arquivos de apoio anexados a esta habilidade:
    - Se a descrição for ambígua ou genérica (ex: "Biópsia", "Ultrassom articular sem lado"), não aproximar: classificar como `AMBÍGUO`, listar os candidatos e solicitar a variável faltante.
 2. **Cobertura no Rol ANS:**
    - Estar na tabela TUSS não significa constar no Rol de cobertura obrigatória da ANS.
-   - Conferir se consta no Rol como SIM ou NÃO.
+   - O agente DEVE conferir na planilha `catalogo_tuss_rol_dut.csv` se consta no Rol como SIM ou NÃO.
    - Se for NÃO, emitir alerta de atenção ao analista.
 3. **Diretrizes de Utilização (DUT):**
-   - Se o procedimento tiver DUT, indicar: `"POSSUI DUT — nº [X]"`.
-   - Se o usuário solicitar o detalhamento da DUT, apresentar resumo dos critérios clínicos com base em `references/diretrizes_utilizacao_dut.md`.
+   - Se o procedimento tiver indicação de DUT na planilha, indicar: `"POSSUI DUT — nº [X]"`.
+   - Havendo DUT positiva, consultar obrigatoriamente `references/diretrizes_utilizacao_dut.md` e emitir os critérios de elegibilidade clínica, limites anuais e situações não cobertas logo abaixo da tabela do item.
 
 ---
 

@@ -138,3 +138,41 @@ codigo_tuss,termo_oficial,rol_ans,dut_numero,segmentacao,observacoes
 84250658,Sessão de fonoaudiologia telessaúde,SIM,NAO POSSUI DUT,AMB+REF,Telefonoaudiologia
 84004762,Consulta / sessão de nutrição telessaúde,SIM,DUT 108,AMB+REF,Telenutrição
 84250631,Consulta / sessão em psicologia telessaúde (CRM),SIM,NAO POSSUI DUT,AMB+REF,Telepsicologia médica
+41301262,Tomografia de coerencia optica (OCT monocular ou binocular),SIM,DUT 148,AMB+HCO+HSO+REF,"Diagnóstico e seguimento de DMRI, glaucoma e maculopatias"
+41301360,Tratamento ocular quimioterapico com antiangiogenico (anti-VEGF),SIM,DUT 150,AMB+HCO+HSO+REF,Injeção intravítrea com Ranibizumabe / Aflibercepte
+30306019,Facoemulsificacao com implante de lente intraocular dobrável,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Cirurgia de catarata
+30307040,Capsulotomia com YAG laser,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Opacificação de cápsula posterior pós-catarata
+41301130,Mapeamento de retina (oftalmoscopia indireta binocular),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Exame de retina e vítreo
+41301017,Campimetria computadorizada (campo visual),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Avaliação de campo visual no glaucoma e neurologia
+40101029,Holter 24 horas de 2 ou mais canais,SIM,DUT 107,AMB+HCO+HSO+REF,Monitorização prolongada de arritmias
+40101037,Monitorizacao ambulatorial da pressao arterial (MAPA 24h),SIM,DUT 106,AMB+HCO+HSO+REF,Avaliação de hipertensão arterial e avental branco
+40101185,Ecocardiograma sob estresse farmacologico (dobutamina/dipiridamol),SIM,DUT 65,AMB+HCO+HSO+REF,Eco estresse farmacológico para viabilidade e isquemia
+40104019,Oxigenoterapia hiperbarica (por sessao),SIM,DUT 110,AMB+HCO+HSO+REF,"OHB para osteomielite, feridas graves e radionecrose"
+40808033,Densitometria ossea de coluna e femur (um ou dois segmentos),SIM,DUT 63,AMB+HCO+HSO+REF,Rastreamento e controle de osteopenia e osteoporose
+40808041,Densitometria ossea de corpo inteiro,SIM,DUT 63,AMB+HCO+HSO+REF,Composição corporal / perda óssea
+40808050,Mamografia digital bilateral,SIM,DUT 102,AMB+HCO+HSO+REF,Rastreamento bienal 40-69 anos ou alto risco a partir dos 30 anos
+40801128,Radiografia de torax PA e perfil (duas incidencias),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,RX de tórax simples
+40802051,Radiografia de coluna lombar (3 ou 4 incidencias),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,RX de coluna lombar
+40804054,Radiografia de joelho AP e perfil,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,RX joelho bilateral ou unilateral
+40805018,Radiografia de seios da face (face / seios paranasais),SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,RX seios da face para sinusopatias
+31005470,Colecistectomia por videolaparoscopia,SIM,NAO POSSUI DUT,HCO+HSO+REF,Cirurgia de vesícula biliar por videolaparoscopia
+31001017,Apendicectomia por videolaparoscopia ou aberta,SIM,NAO POSSUI DUT,HCO+HSO+REF,Retirada de apêndice cecal
+31001289,Hernioplastia inguinal unilateral (com ou sem protese/tela),SIM,NAO POSSUI DUT,HCO+HSO+REF,Correção de hérnia inguinal
+31309054,Parto cesariano (cesarea com ou sem laqueadura),SIM,NAO POSSUI DUT,HCO+REF,Parto cirúrgico
+31309062,Parto normal / vaginal assistido (inclui assistencia ao trabalho de parto),SIM,NAO POSSUI DUT,HCO+REF,Parto vaginal hospitalar
+30726173,Artroplastia total de quadril primária (com ou sem cimento),SIM,NAO POSSUI DUT,HCO+HSO+REF,Prótese total de quadril
+30726181,Artroplastia total de joelho primária,SIM,NAO POSSUI DUT,HCO+HSO+REF,Prótese total de joelho
+30724030,Reconstrucao ligamentar intra-articular de joelho (LCA / LCP),SIM,NAO POSSUI DUT,HCO+HSO+REF,Cirurgia ligamentar do joelho
+30724014,Artroscopia cirurgica de joelho / meniscectomia / desbridamento,SIM,NAO POSSUI DUT,HCO+HSO+REF,Artroscopia de joelho
+31201083,Postectomia / fimose cirúrgica,SIM,NAO POSSUI DUT,AMB+HCO+HSO+REF,Cirurgia de fimose
+31201121,Vasectomia unilateral ou bilateral,SIM,DUT 154,AMB+HCO+HSO+REF,Esterilização masculina com DUT 154
+31303030,Histerectomia total abdominal ou vaginal com ou sem anexectomia,SIM,NAO POSSUI DUT,HCO+HSO+REF,Retirada do útero
+30501377,Septoplastia reparadora / funcional do septo nasal,SIM,NAO POSSUI DUT,HCO+HSO+REF,Cirurgia do septo nasal
+30502012,Amigdalectomia com ou sem adenoidectomia,SIM,NAO POSSUI DUT,HCO+HSO+REF,Retirada de amígdalas e adenoide
+20103115,Pilates clinico isolado como tecnica exclusiva,NAO,NAO POSSUI DUT,FORA DO ROL,Tecnica isolada nao constante do Rol de cobertura obrigatoria da ANS
+20103000,Hidroterapia isolada / Fisioterapia aquatica pura sem patologia,NAO,NAO POSSUI DUT,FORA DO ROL,Nao constante do Rol da ANS como procedimento isolado
+30101891,Blefaroplastia exclusivamente estetica,NAO,NAO POSSUI DUT,FORA DO ROL,Procedimento puramente estetico sem finalidade reparadora funcional
+20104073,Laserterapia fracionada para rejuvenescimento facial,NAO,NAO POSSUI DUT,FORA DO ROL,Procedimento estetico dermatologico sem cobertura no Rol
+40314014,Teste genetico de ancestralidade e bem-estar (DNA direto ao consumidor),NAO,NAO POSSUI DUT,FORA DO ROL,Painel de ancestralidade nao coberto no Rol da ANS
+20103999,Microfisioterapia para disturbios emocionais,NAO,NAO POSSUI DUT,FORA DO ROL,Técnica sem evidência clínica no Rol da ANS
+40105001,Check-up executivo assintomatico multiprofissional,NAO,NAO POSSUI DUT,FORA DO ROL,Pacotes preventivos de rotina assintomática sem cobertura obrigatória no Rol
