@@ -115,7 +115,7 @@ Prompts-do-Trabalho/
 
 ## 🔒 Privacidade e Segurança
 
-- Repositório público sob a conta `@dankkss`.
+- Repositório 100% privado (`--private`) sob a conta `@dankkss`.
 - Dados estritamente operacionais e regulatórios, sem quaisquer dados pessoais ou senhas.
 - Sincronização executada exclusivamente via conexão Wi-Fi.
 
