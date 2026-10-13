@@ -1,0 +1,4686 @@
+=== PÁGINA 1 ===
+acp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Manual de apoio para 
+análise de Fisioterapia 
+ 
+ 
+Qualidade, Treinamento & Capacitação 
+Departamento de Serviços de Reembolso ao Segurado 
+
+
+=== PÁGINA 2 ===
+ 
+2 
+ 
+SUMÁRIO 
+INTRODUÇÃO E CONSIDERAÇÕES GERAIS ................................................... 6 
+FISIOTERAPIA PARA APÓLICE LIVRE ESCOLHA .......................................... 8 
+ATENDIMENTOS REMOTOS ............................................................................... 9 
+TÉCNICAS FISIOTERÁPICAS ............................................................................ 10 
+Técnicas não cobertas ................................................................................. 11 
+Técnicas com observações especiais ..................................................... 12 
+R.P.G - Reeducação Postural Global ........................................................ 17 
+Estimulação Elétrica Transcutânea (TENS) .......................................... 18 
+PEDIDO MÉDICO X COBRANÇA ...................................................................... 25 
+CÓDIGOS DE FISIOTERAPIA E SUAS APLICAÇÕES ................................... 28 
+Consulta fisioterápica ................................................................................. 29 
+TUSS 50000144 - Consulta ambulatorial em fisioterapia ............................ 29 
+TUSS 50000349 - Consulta hospitalar em fisioterapia ............................... 30 
+Códigos de teleatendimento ..................................................................... 30 
+Códigos de membro ..................................................................................... 31 
+TUSS 20103484 - Patologia osteomioarticular em um membro ................. 31 
+TUSS 20103492 - Patologia osteomioarticular em dois ou mais membros 32 
+TUSS 20103298 - Hipo ou agenesia de membros ........................................ 32 
+Códigos de coluna ......................................................................................... 33 
+TUSS 20103506 - Patologia osteomioarticular em um segmento da coluna
+......................................................................................................................... 33 
+TUSS 20103514 - Patologia osteomioarticular em diferentes segmentos da 
+coluna ............................................................................................................. 34 
+TUSS 20103182 - Desvios posturais da coluna vertebral............................. 34 
+Código de pós-operatório .......................................................................... 35 
+TUSS 20103093 - Atendimento fisiátrico no pré e pós-operatório de 
+pacientes para prevenção de sequelas......................................................... 35 
+Códigos de reabilitação perineal ou pré/pós-parto ......................... 36 
+TUSS 20103565 - Processos inflamatórios pélvicos .................................... 36 
+TUSS 20103190 - Disfunção vesico-uretral .................................................. 36 
+TUSS 20203020 - Eletroestimulação do assoalho pélvico e/ou outra 
+técnica de exercícios perineais ...................................................................... 37 
+TUSS 20103107 - Atendimento fisiátrico no pré e pós-parto ...................... 38 
+TUSS 20103646 - Reabilitação perineal com biofeedback .......................... 39 
+TUSS 20103131 - Biofeedback com EMG ....................................................... 40 
+ 
+ 
+ 
+
+
+=== PÁGINA 3 ===
+ 
+3 
+ 
+Códigos de fisioterapia respiratória/cardiopulmonar ..................... 41 
+TUSS 20103220 - Doenças pulmonares atendidas em ambulatório ........... 41 
+TUSS 20103360 - Paciente com D.P.O.C. em atendimento ambulatorial 
+necessitando reeducação e reabilitação respiratória .................................. 41 
+TUSS 20103255 - Exercícios para reabilitação do asmático (ERAI) - por 
+sessão individual ............................................................................................ 42 
+TUSS 20103069 - Assistência fisiátrica respiratória em pré e pós-
+operatório de condições cirúrgicas .............................................................. 42 
+TUSS 20103719 - Sinusites ............................................................................. 42 
+Códigos de fisioterapia em regime de internação ............................. 43 
+TUSS 20203047 - Assistência fisiátrica respiratória em doente clínico 
+internado ........................................................................................................ 43 
+TUSS 20203012 - Assistência fisiátrica respiratória em paciente internado 
+com ventilação mecânica .............................................................................. 43 
+TUSS 20203071 - Pacientes em pós-operatório de cirurgia cardíaca, 
+hospitalizado, até 8 semanas de programa.................................................. 44 
+TUSS 20203063 - Pacientes com doença isquêmica do coração, 
+hospitalizado, até 8 semanas de programa.................................................. 44 
+TUSS 50000365 - Atendimento fisioterapêutico hospitalar ao paciente 
+com disfunção decorrente de alterações do sistema músculo-esquelético
+......................................................................................................................... 45 
+TUSS 50000390 - Atendimento fisioterapêutico hospitalar ao paciente 
+com disfunção decorrente de queimaduras ................................................. 45 
+TUSS 50000403 - Atendimento fisioterapêutico hospitalar ao paciente 
+com disfunção decorrente de alterações do sistema linfático e/ou 
+vascular periférico ......................................................................................... 46 
+TUSS 50000454 - Atendimento fisioterapêutico hospitalar para alterações 
+inflamatórias e ou degenerativas do aparelho genito-urinário, reprodutor 
+e/ou proctológico .......................................................................................... 46 
+TUSS 50000799 - Atendimento fisioterapêutico hospitalar ao paciente 
+independente ou com dependência parcial, com disfunção decorrente de 
+lesão do sistema nervoso central e/ou periférico ....................................... 47 
+TUSS 50000802 - Atendimento fisioterapêutico hospitalar ao paciente 
+dependente com disfunção decorrente de lesão do sistema nervoso 
+central e/ou periférico ................................................................................... 47 
+Códigos de fisioterapia cardiovascular ................................................. 48 
+1. Conceito Geral e Definições da Reabilitação Cardiovascular (RCV) 48 
+2. Estrutura, Fases e Componentes da RCV ............................................. 49 
+3. Interpretação dos Códigos TUSS na Perspectiva da RCV ................. 51 
+TUSS 20103379 - Paciente em pós-operatório de cirurgia cardíaca, 
+atendido em ambulatório, duas a três vezes por semana ...................... 51 
+
+=== PÁGINA 4 ===
+ 
+4 
+ 
+TUSS 20103395 - Pacientes com doença isquêmica do coração, atendido 
+em ambulatório, até 8 semanas de programa ......................................... 51 
+TUSS 20103387 - Pacientes com doença isquêmica do coração, atendido 
+em ambulatório de 8 a 24 semanas .......................................................... 52 
+TUSS 20103417 – Pacientes sem doença coronariana clinicamente 
+manifesta, mas considerada de alto risco, atendido em ambulatório, 
+duas a três vezes por semana ................................................................... 52 
+TUSS 20103727 - Reabilitação cardiovascular supervisionada. Programa 
+de 12 semanas. Duas a três sessões por semana (por sessão) ............... 53 
+Código de fisioterapia linfática ................................................................ 53 
+TUSS 20103212- Distúrbios circulatórios artério-venosos e linfáticos ....... 53 
+Código de reeducação e/ou reabilitação de distúrbios 
+craniofaciais .................................................................................................... 54 
+TUSS 20103654 - Recuperação funcional de distúrbios crânio-faciais ....... 54 
+Códigos de reeducação e reabilitação neuro-músculo-esquelética
+ ............................................................................................................................. 55 
+TUSS 20103271 - Hemiplegia ......................................................................... 55 
+TUSS 20103263 - Hemiparesia ....................................................................... 55 
+TUSS 20103328 - Lesão nervosa periférica afetando um nervo com 
+alterações sensitivas e/ou motoras .............................................................. 56 
+TUSS 20103310 - Lesão nervosa periférica afetando mais de um nervo com 
+alterações sensitivas e/ou motoras .............................................................. 56 
+TUSS 20103344 – Miopatias ........................................................................... 57 
+TUSS 50000160 - Atendimento fisioterapêutico ambulatorial ao paciente 
+com disfunção decorrente de alterações do sistema músculo-esquelético
+......................................................................................................................... 58 
+TUSS 20103409 - Pacientes com doenças neuro-músculo-esqueléticas 
+com envolvimento tegumentar ..................................................................... 59 
+Códigos de reeducação e reabilitação neurológica ........................... 60 
+TUSS 20103077 - Ataxias ............................................................................... 60 
+TUSS 20103204 - Distrofia simpático-reflexa .............................................. 60 
+TUSS 20103425 - Paralisia cerebral .............................................................. 61 
+TUSS 20103441 - Paraparesia/tetraparesia .................................................. 61 
+TUSS 20103450 - Paraplegia e tetraplegia ................................................... 62 
+TUSS 20103468 - Parkinson........................................................................... 62 
+TUSS 20103476 - Patologia neurológica com dependência de atividades da 
+vida diária ....................................................................................................... 63 
+Códigos de reeducação e reabilitação no retardo do 
+desenvolvimento psicomotor .................................................................. 64 
+
+=== PÁGINA 5 ===
+ 
+5 
+ 
+TUSS 20103689 - Retardo do desenvolvimento psicomotor ...................... 64 
+TUSS 50000012 - Sessão de psicomotricidade individual ........................... 64 
+Código de reabilitação labiríntica ........................................................... 65 
+TUSS 20103638 - Reabilitação labiríntica (por sessão)................................ 65 
+Códigos de exercícios de ortóptica ........................................................ 66 
+TUSS 20103239 - Exercícios de ortóptica (por sessão) ............................... 66 
+TUSS 20103743 - Exercícios de pleóptica ..................................................... 67 
+Código de reeducação e reabilitação de queimados para 
+prevenção de sequelas................................................................................ 68 
+TUSS 20103611 - Queimados - seguimento ambulatorial para prevenção de 
+sequelas (por segmento) ............................................................................... 68 
+Códigos de reabilitação em amputação (preparação do coto e 
+treinamento protético) ............................................................................... 69 
+TUSS 20103042 - Amputação unilateral (preparação do coto) .................. 69 
+TUSS 20103026 - Amputação bilateral (preparação do coto) .................... 69 
+TUSS 20103034 - Amputação bilateral (treinamento protético) ................ 69 
+TUSS 20103050 - Amputação unilateral (treinamento protético) .............. 69 
+UTILIZAÇÃO DE CRÍTICAS ................................................................................ 70 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PÁGINA 6 ===
+ 
+6 
+ 
+ 
+ 
+INTRODUÇÃO E CONSIDERAÇÕES GERAIS 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este manual foi desenvolvido com o objetivo de padronizar a 
+análise de solicitações de fisioterapia, garantindo 
+consistência e transparência nos processos. Sabemos que 
+existem muitas dúvidas e divergências na interpretação das 
+regras, especialmente diante da variedade de técnicas e 
+cenários clínicos. Por isso, este material busca oferecer 
+orientações claras e práticas, servindo como referência para 
+toda a equipe na tomada de decisão, sempre alinhado às 
+normas vigentes e às melhores práticas do setor. 
+ 
+     Há cobertura para todas as apólices da lei com segmentação ambulatorial. Já para as 
+somente hospitalares + obstetrícia, a cobertura é limitada a continuidade da assistência 
+prestada durante a internação hospitalar, conforme art. 19, Inciso X, alínea J da RN 465. 
+Exemplos: 
+ 
+   Um paciente internado para tratamento de pneumonia continua a fisioterapia 
+respiratória após a alta hospitalar. 
+   Após uma cirurgia de prótese de quadril, o paciente segue com fisioterapia 
+para reabilitação. 
+   Um paciente com AVC que recebeu fisioterapia motora durante a internação 
+continua o tratamento após a alta. 
+ 
+     A fisioterapia convencional é paga de acordo com a patologia descrita no pedido 
+do médico assistente. O relatório do fisioterapeuta não substitui o encaminhamento do 
+médico, porém serve como documento complementar para a análise técnica dos 
+eventos, podendo: elucidar as metodologias empregadas, a região corporal da aplicação 
+da técnica, endereço em que ocorreram os atendimentos, datas das sessões, entre 
+outros. 
+ 
+     Nas apólices da Lei e Adaptadas, utilizamos códigos da tabela TUSS. Para as pré-lei, 
+da tabela THSM. 
+ 
+     A cobertura está condicionada a realização por fisioterapeutas ou médicos 
+fisiatras, conforme consta no artigo nº 18 da RN465/ANS.  
+ 
+
+=== PÁGINA 7 ===
+ 
+7 
+ 
+ 
+ 
+  
+ 
+ 
+    Deve sempre haver pedido médico emitido por CRM ou cirurgião-dentista 
+assistente, com data, carimbo e assinatura  (física ou digital ), contendo o quadro 
+clínico e indicação.  
+   Referente a  CRO, o dentista pode solicit ar procedimentos que são 
+necessários ao diagnóstico, tratamento e prognóstico odontológicos , conforme 
+inciso I, art. 4º da RN 465. Ou seja, que sejam relacionados a sua área de atuação: 
+cabeça e pescoço. 
+ 
+    Na documentação deve haver informação do profissional executante, com 
+número de registro no conselho de classe, além das datas de todas as sessões. 
+ 
+     Para apólices anteriores à lei , sem adaptação e sem aditivos  (ampliação de 
+cobertura ou compreensiva ), a cobertura para fisioterapia é limitada a casos de 
+acidente pessoal, não incluindo doenças.  
+ 
+      No entanto, para casos no estado da Bahia, uma ação civil pública (ACP) de 
+2008 (processo judicial 1947323-9/2008) impede a negativa de cobertura para 
+fisioterapia por doença, mesmo que esteja excluída pelo contrato. Nos demais 
+estados, continuaremos a negar com a crítica N225; 
+ 
+     Para todo o país ( ACP processo judicial 2001/02289 -9), não podemos limitar a 
+quantidade de procedimentos de fisioterapia. Ou seja, não se impõe o limite de 40 
+sessões, desde que a apólice tenha cobertura para o procedimento. Por exemplo, 
+apólices que não têm cobertura para fisioterapia por doença continuarã o sem 
+cobertura, mas aquelas que têm cobertura para 40 sessões passarão a ser ilimitadas 
+em quantidade. 
+ 
+     Se pré-lei com aditivos (seja compreensiva, ampliação de cobertura ou cláusula 
+contratual), há cobertura para fisioterapia por doença e utilizaremos os códigos 
+THSM.  
+ 
+     A cobertura para fisioterapia domiciliar é restrita a alguns casos , mas  para a 
+maioria não há cobertura. Saiba mais no material POP 017 – Eventos em Domicílio. 
+ 
+     Fisioterapeuta pessoa física deve emitir Receita Saúde. Exigimos para eventos a 
+partir de 01/03/2025. 
+ 
+ 
+
+=== PÁGINA 8 ===
+ 
+8 
+ 
+ 
+FISIOTERAPIA PARA APÓLICE LIVRE ESCOLHA 
+ 
+A cobertura para fisioterapia depende do tipo de apólice e da situação do paciente (internado ou 
+ambulatorial). Atenção: se houver cobertura, sempre será ilimitad a por conta da Ação Civil Pública ! 
+Seguem as regras normativas: 
+ 
+Fisioterapia por Doença 
+ 
+• Paciente internado: 
+o Há cobertura durante toda a internação. Liberar pela Tabela MPAS/79 se a apólice não 
+tiver adaptação, com ou sem ampliação de cobertura.  
+o Se adaptada, utilizar a TUSS/MPAS. 
+ 
+• Paciente ambulatorial: 
+ 
+o Com consultas e exames, mas sem adaptação ou ampliação: 
+❖ Há cobertura, liberar pela THSM. 
+o Com consultas e exames, e for adaptado: 
+❖ Há cobertura. Se fisioterapia não relacionada à continuidade de 
+internação hospitalar, pagar por conta do Consulta e Exame (CE) e liberar 
+pela TUSS (alterar para fator 1 na calculadora).  
+❖ Se for relacionada à continuidade de internação hospitalar, liberar pela 
+tabela TUSS/MPAS.  
+ 
+o Com consultas e exames, e for ampliado, mas sem adaptação: 
+❖ Há cobertura. Se não relacionada à continuidade da internação hospitalar, 
+liberar pela THSM. 
+❖ Se relacionada à continuidade da internação hospitalar, liberar pela 
+MPAS/79. 
+o Sem consultas e exames, e for ampliado, mas sem adaptação:  
+❖ Se for relacionada à continuidade da internação hospitalar, há 
+cobertura e será liberado pela tabela MPAS/79. 
+❖ Se não for relacionada à continuidade de internação, não há cobertura, 
+negar (olhar o contrato, se houver exclusão, negar com N225). 
+ 
+o Sem consultas e exames, e for adaptado: 
+❖ Se for relacionada à continuidade da internação hospitalar, há 
+cobertura e será liberado pela tabela TUSS/MPAS. 
+❖ Se não for relacionada à continuidade de internação, não  
+há cobertura, negar (olhar o contrato, se houver  
+exclusão, negar com N225). 
+o Sem consultas e exames e sem adaptação ou ampliação:  
+❖ Negar (olhar o contrato, se houver exclusão,  
+negar com N225). 
+ 
+ 
+ 
+ 
+
+
+=== PÁGINA 9 ===
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ATENDIMENTOS REMOTOS 
+ 
+ 
+ 
+Em 09/07/2025, foi publicada a Resolução COFFITO Nº 619/2025, que substitui a Resolução 
+COFFITO Nº 516/2020 e amplia a área de atuação do fisioterapeuta e terapeuta ocupacional. 
+Pontos principais: 
+ 
+     A inclusão de teleatendimento (sessão online de fisioterapia ou terapia 
+ocupacional), além da teleconsulta, teleconsultoria e telemonitoramento previstos na 
+resolução anterior; 
+     Estabelece a regulamentação permanente da telessaúde, sendo a anterior 
+de caráter temporário.  
+     Determina que o profissional  mantenha o prontuário atualizado  a cada 
+atendimento remoto. 
+     Dispensa inscrição secundária para atuação remota em outras regiões.  
+       Deixa claro que  o atendimento remoto não substitui consultas e 
+avaliações clínicas presenciais , quando est as forem indispensáveis ao diagnóstico ou 
+tratamento. 
+     A Resolução é válida para eventos a partir de 09/07/2025. Para eventos anteriores, 
+será praticada a rotina já estabelecida: não reembolsaremos teleatendimento (N353).  
+      A lista de códigos de teleatendimento está na seção Códigos de fisioterapia. 
+ 
+Fisioterapia por Acidente 
+ 
+• Paciente internado: 
+Há cobertura. Se não adaptada, liberar pela Tabela MPAS/79. Se adaptada, liberar 
+pela TUSS/MPAS. 
+ 
+• Paciente ambulatorial: 
+ 
+o Com ou sem consultas e exames, sem adaptação/ampliação: 
+❖ Há cobertura. Liberar conforme Tabela MPAS/79. 
+o Com ou sem consultas e exames, se adaptado: 
+❖ Há cobertura. Liberar pela Tabela TUSS/MPAS. 
+ 
+o Com ou sem consultas e exames, se ampliado sem adaptação: 
+❖ Há cobertura. Liberar pela Tabela MPAS/79. 
+ 
+
+=== PÁGINA 10 ===
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TÉCNICAS FISIOTERÁPICAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Como diferenciar esses atendimentos de uma sessão convencional? 
+ 
+ 
+Telemonitoramento: acompanhamento à distância de paciente atendido previamente de 
+forma presencial, por meio de aparelhos tecnológicos. Nesta modalidade, o fisioterapeuta ou 
+terapeuta Ocupacional pode utilizar métodos síncronos (comunicação a distância realizada em 
+tempo real) ou assíncronos (comunicação a distância não realizada em tempo real). Pode decidir 
+sobre a necessidade de encontros presenciais para a reavaliação sempre que necessário, que 
+podem ser feitos, de comum acordo, por outro fisioterapeuta ou TO local. 
+ 
+Teleconsultoria: comunicação registrada e realizada entre profissionais, gestores e outros 
+interessados da área de saúde, fundamentada em evidências clínico-científicas e em protocolos 
+disponibilizados pelo Ministério da Saúde e pelas Secretarias Estaduais e Municipais de Saúde, 
+com o fim de esclarecer dúvidas sobre procedimentos clínicos, ações de saúde e questões 
+relativas ao processo de trabalho. 
+ 
+Teleconsulta: consulta clínica registrada e realizada pelo fisioterapeuta ou terapeuta  
+ocupacional à distância. 
+ 
+Teleatendimento: utilização de meios digitais de comunicação para a realização de intervenção 
+em Fisioterapia ou Terapia Ocupacional de forma remota, seja de modo exclusivo ou como 
+complemento à intervenção presencial. 
+ 
+ 
+ 
+    
+Algumas técnicas e metodologias terapêuticas não são de  cobertura obrigatória.  
+Para apólices adaptadas à legislação de segmentação ambulatorial, essas práticas não integram 
+o rol de procedimentos da ANS (N205). Já nas apólices anteriores à legislação, elas não constam 
+na tabela de reembolso (N336). 
+A seguir, apresentamos a lista catalogada de técnicas.  
+       Em caso de técnica não listada e passível de não cobertura, levar à consultoria para 
+avaliação. E por fim, levar à Qualidade/Gerência Médica para tomada de decisão e 
+implementação na rotina. 
+    Importante: as empresas podem oferecer cobertura excepcional para a técnica. 
+Antes de qualquer negativa, é fundamental: 
+• Verificar se o segurado possui liminar médica vigente contemplando a 
+terapia ou autorizações da empresa em F6/F8. 
+• Consultar em F7-F9 ou na aba Condições Gerais do SCAM se há cobertura 
+adicional para procedimentos que normalmente não são obrigatórios. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PÁGINA 11 ===
+ 
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Técnicas não cobertas 
+ 
+ 
+Exemplos de empresas com excepcionalidades:  
+ 
+a) ANBIMA: cobertura para HIDROTERAPIA e PILATES  
+b) IBM e KYNDRYL: cobertura para PILATES 
+ 
+       Liberação conforme patologia. 
+ 
+As técnicas a seguir devem ser negadas, conforme especificado anteriormente  (N205 para apólice da 
+lei e N336 para pré-lei). Em caso de técnica não catalogada e com possibilidade de ser não coberta, 
+levar o caso à consultoria para avaliação. Por fim, deve ser reportado à Qualidade/Gerência Médica 
+para decisão e inclusão na rotina. 
+ 
+     Atividade de Escola de postura: Programa de exercícios e educação postural que visa corrigir 
+hábitos inadequados e prevenir problemas de coluna. 
+ 
+     Colocação de Taping/ Kinesio Taping: Aplicação de fita elástica adesiva sobre a pele para suporte 
+muscular e articular, melhora da circulação, redução de dor e auxílio na reabilitação, sem restringir 
+movimentos. 
+ 
+     Equoterapia: Terapia que utiliza cavalos para promover a reabilitação física e emocional, 
+melhorando a coordenação, equilíbrio e força muscular. (Obs.: atenção para liminares!). 
+ 
+     Fisioterapia robótica (lokomat)/  reabilitação robótica:  A fisioterapia robótica, também 
+conhecida como Lokomat, é um tipo de terapia de reabilitação que utiliza um exoesqueleto robótico 
+acoplado a uma esteira para auxiliar pacientes com dificuldades na marcha devido a lesões 
+neurológicas ou outras condições mot oras. O sistema Lokomat permite um treinamento intensivo e 
+repetitivo da marcha, promovendo a recuperação da mobilidade e da função locomotora.  
+ 
+     Game Ready System:  Sistema de compressão fria e intermitente utilizado para reduzir a dor e o 
+inchaço após lesões ou cirurgias. 
+ 
+     Hidroterapia: Terapia que utiliza a água para promover a reabilitação física, aliviando a dor e 
+melhorando a mobilidade e a força muscular. Essa prática pode ocorrer por meio de banhos 
+terapêuticos, hidromassagem ou exercícios aquáticos, sendo também conhecida como terapia 
+aquática. 
+ 
+     Laserterapia: Técnica que utiliza laser de baixa intensidade para promover a cicatrização, reduzir 
+a dor e a inflamação em músculos, articulações e tecidos moles. Indicada para tratamento de lesões 
+musculoesqueléticas, artrites, tendinites e recuperação pós -cirúrgica. O bs.: não confundir com 
+laserterapia utilizada em outros tipos de procedimentos , como Laserterapia para mucosite oral, que 
+pertence ao ROL e possui DUT. 
+ 
+     Manipulação vertebral:  Técnica de fisioterapia que envolve manipulações manuais na coluna 
+vertebral para aliviar dores e melhorar a mobilidade.  
+ 
+ 
+ 
+ 
+
+=== PÁGINA 12 ===
+ 
+12 
+ 
+ 
+ 
+ 
+Técnicas com observações especiais 
+ 
+ 
+    Se houver cobrança de materiais ou taxas relacionadas ao atendimento , encaminhar à 
+consultoria para avaliação. Não somar à sessão. 
+ 
+    Agulhamento a seco  vs. Acupuntura: São procedimentos distintos, com códigos 
+diferentes.  
+• Agulhamento a seco  (código TUSS 20103301) é uma técnica fisioterapêutica que 
+utiliza agulhas sólidas para atingir pontos gatilho miofasciais, com o objetivo de 
+reduzir dor e melhorar função muscular. Atua sobre estruturas musculares e fasciais, 
+sem relação com meridianos ou conceitos energéticos. Não utiliza qualquer tipo de 
+medicamento ou substância injetável , diferindo de infiltrações, que envolvem 
+fármacos. 
+o Agulhamento só pode ser feito por médico fisiatra. Fisioterapeuta não pode 
+realizar agulhamento a seco. 
+• Acupuntura (código TUSS 31601014) é uma prática da Medicina Tradicional Chinesa 
+que consiste na inserção de agulhas em pontos específicos ao longo dos meridianos, 
+visando equilibrar a energia vital (Qi) e tratar diversas condições físicas e emocionais, 
+segundo princípios orientais. 
+o Já a acupuntura pode ser liberada para fisioterapeuta. 
+     Ortotripsia/Ondas de choque:  Tratamento que utiliza ondas acústicas de alta energia para 
+estimular a regeneração de tecidos, aliviar dores e tratar condições musculoesqueléticas como 
+tendinites, fascite plantar e calcificações. 
+ 
+     Pediasuit: Terapia intensiva para crianças com distúrbios neurológicos, utilizando um traje especial 
+para melhorar a função motora e a coordenação. 
+ 
+     Pilates: Método de exercício físico que fortalece os músculos, melhora a flexibilidade e a postura, 
+utilizando movimentos controlados e respiração. 
+ 
+     Quiropraxia: é uma prática da medicina alternativa que se concentra no diagnóstico, tratamento e 
+prevenção de problemas do sistema neuro-músculo-esquelético, principalmente relacionados à coluna 
+vertebral. Utiliza técnicas manuais, como ajustes vertebrais, para restaur ar o alinhamento e a função 
+adequados da coluna e de outras articulações 
+ 
+     TECAR: Terapia que utiliza correntes elétricas de alta frequência para promover a 
+regeneração dos tecidos e alívio da dor. 
+ 
+     Terapia Therasuit: Terapia intensiva que utiliza um traje especial para melhorar a força muscular, a 
+coordenação e a mobilidade em pacientes com distúrbios neurológicos.  
+ 
+     Theratogs: Sistema de vestuário terapêutico que melhora a postura e a função motora em pacientes 
+com distúrbios neuromotores. 
+ 
+ 
+
+=== PÁGINA 13 ===
+ 
+13 
+ 
+ 
+     Bobath: Liberar conforme patologia. Normalmente o quadro é retardo do 
+desenvolvimento psicomotor (20103689), mas avaliar conforme o caso.   
+ 
+Quando realizado pelo psicólogo , terapeuta ocupacional ou fonoaudiólogo, caso haja  
+cobertura contratual para essas terapias, pagaremos de acordo com o código relacionado 
+ao profissional que efetuou o atendimento.   
+ 
+Em caso de cobrança com valor abusivo  e/ou com várias sessões por dia, considerar o uso 
+da “A200 – terapia multidisciplinar” ou “A200 A - ficha de frequência terapias”, caso não 
+haja todas as informações necessárias (aguardar uma ou outra, pois a ficha de frequência já 
+é solicitada na A200!).  
+ 
+     Cinesioterapia específica: Método de fisioterapia que utiliza movimentos e exercícios 
+terapêuticos para reabilitar e fortalecer músculos e articulações, melhorando a mobilidade 
+e a função corporal. Indicada para reabilitação pós -cirúrgica, tratamento de lesões e 
+condições crônicas. Não é uma técnica isolada , e sim uma abordagem terapêutica dentro 
+da fisioterapia, que engloba técnicas que fazem uso do movimento para reabilitação 
+funcional. 
+  
+Embora não faça parte do rol obrigatório, é divulgada ao segurado em nossa tabela de 
+reembolso. Além disso, conforme entendimento da ANS, a cinesioterapia é passível de 
+negativa apenas quando se trata de técnica específica , como RPG ou Pilates, que são 
+cinesioterápicas. Sendo assim, quando a descrição for genérica não é possível negar.  
+ 
+Apesar das regras dispostas a seguir, pode haver casos em que o código 20103115 é o mais 
+aplicável a determinad o quadro clínico ou conduta  cinesioterápica, então o uso não é  
+necessariamente vedado. Todavia, seguem as definições:  
+ 
+ 
+   Para casos sem suspeitas de fraude:  
+• Liberar conforme a patologia sem solicitar complemento questionando a 
+técnica específica.  
+• Já se descrito a técnica Pilates, negar. Quanto ao RPG, liberamos para a 
+maioria das apólices, a não ser as que tem exclusão.  
+  
+   Para casos suspeitos de fraude: 
+• Se cobrado código 20103115 (“Atividade reflexa ou aplicação de técnica 
+cinesioterápica específica”), negar. 
+• Se cobrado apenas cinesioterapia sem menção a técnica, aguardar A107/A170 
+(avaliar o uso de cada!).  
+ 
+     Crioterapia: Utiliza a aplicação de frio, como gelo ou dispositivos de resfriamento, para 
+reduzir inflamação, inchaço e dor em lesões musculoesqueléticas agudas. Promove 
+vasoconstrição, diminui metabolismo celular e alivia a dor. Para entorses, distensões e 
+contusões.  
+
+=== PÁGINA 14 ===
+ 
+14 
+ 
+ 
+• Liberamos conforme patologia. No entanto, se houver cobrança do código 20104073 
+(CRIOTERAPIA [GRUPO DE ATÉ 5 LESOES]) , negar com car ta diferenciada N305:  O 
+código 20104073 se refere a crioterapia para lesões dermatológicas e, portanto, não é 
+compatível com procedimento fisioterápico.   
+ 
+     Drenagem linfática: é uma técnica de massagem que visa estimular o sistema linfático, 
+responsável por remover fluidos e toxinas do corpo. Através de movimentos suaves e 
+rítmicos, a drenagem linfática ajuda a promover a circulação da linfa, um líquido que 
+transporta resíduos e células de defesa, auxiliando na redução de inchaços, na eliminação de 
+toxinas e na melhora da circulação. 
+ 
+• Podemos liberar desde que a indicação não esteja relacionada a estética e seja 
+aplicada por médico fisiatra ou fisioterapeuta. Procedimentos destinados 
+exclusivamente à redução de medidas, celulite, modelagem corporal ou melhora 
+estética da pele são considerados estéticos. Já procedimentos voltados ao tratamento 
+de linfedema, edemas pós -cirúrgicos, fibrose, cicatrizes patológicas,  insuficiências 
+circulatórias ou alterações cutâneas de origem clínica são terapêuticos e passíveis de 
+reembolso. Código 20103212  - DISTURBIOS CIRCULATÓRIOS ARTERIO -VENOSOS E 
+LINFÁTICOS. Se estético (em caso de dúvida, avaliar junto à consultoria/coordenação), 
+negar com N236. 
+ 
+•    Quanto à drenagem para LIPEDEMA: 
+o Lipedema é uma doença crônica e progressiva caracterizada pelo acúmulo 
+anormal e simétrico de tecido adiposo subcutâneo, predominantemente nos 
+membros inferiores (coxas, pernas, quadris e tornozelos), poupando os pés. 
+o Para cobrança de fisioterapia para lipedema em região de MMII e MMSS ou de 
+região abdominal, aguardar a carta diferenciada:  
+▪ Solicitamos relatório médico com descrição completa da 
+sintomatologia, exame físico, programação terapêutica, técnica 
+utilizada para as sessões de fisioterapia, além de laudo de ultrassom, 
+ressonância ou linfocintilografia. 
+ 
+     Fisioterapia dermato-funcional: A fisioterapia dermato-funcional é uma especialidade 
+voltada para prevenção e tratamento de alterações funcionais do sistema tegumentar (pele 
+e tecidos subcutâneos), geralmente relacionadas a processos estéticos ou reparadores. Atua 
+em condições como cicat rizes, edemas, fibroses, celulite, flacidez e pós -operatórios, 
+utilizando recursos como drenagem linfática, eletroterapia, ultrassom terapêutico e técnicas 
+manuais. 
+• Será analisado caso a caso, considerando a existência de patologia e alteração 
+funcional do sistema tegumentar. Para avaliação da cobertura, é indispensável 
+relatório médico detalhado contendo diagnóstico, indicação clínica e técnicas 
+
+=== PÁGINA 15 ===
+ 
+15 
+ 
+propostas. Havendo patologia de fato , a liberação deverá seguir o código 
+correspondente ao distúrbio circulatório linfático, 20103212. 
+• Assim como explicado no item Drenagem Linfática, deve ser observado se a indicação 
+para dermato-funcional não é estética. 
+     Microfisioterapia: técnica manual criada na França nos anos 1980 que busca identificar 
+e tratar a causa primária de doenças ou disfunções por meio de micropalpações sutis no 
+corpo. Baseia-se em princípios de embriologia e fisiologia, considerando que o organismo 
+guarda memórias de traumas físicos, emocionais ou químicos que afetam sua vitalidade. Ao 
+localizar essas áreas, o terapeuta estimula mecanismos naturais de autocorreção e 
+autorregulação para restaurar o equilíbrio e a saúde. 
+ 
+• A cobertura de fisioterapia está vinculada à patologia física. O rol da ANS prevê 
+cobertura apenas para reeducação ou reabilitação funcional de patologias físicas, não 
+incluindo condições emocionais ou transtornos mentais.  
+   Atenção: quando indicada para dor física, como fibromialgia, devemos liberar  
+conforme código estipulado para a patologia. Para demais casos, negar com N433 – 
+FISIOTERAPIA P / TRANSTORNOS MENTAIS. Não há necessidade de tecnologia 
+diferenciada, pois trata-se apenas de manipulação do paciente. 
+ 
+     Miofibrólise percutânea/ Fibrólise/ Crochetagem mioaponeurótica:  
+Usa instrumentos específicos que permitem ao fisioterapeuta acessar áreas profundas do 
+tecido muscular sem causar lesões. Indicações: tratar fibrose e contraturas funcionais do 
+tecido muscular que limitam movimento e causam dor. Liberar conforme patologia. 
+ 
+ 
+    Osteopatia: abordagem terapêutica manual que atua sobre o sistema 
+musculoesquelético, visceral e craniossacral, visando restaurar a mobilidade dos tecidos e o 
+equilíbrio funcional do corpo. Baseia-se nos princípios da anatomia e fisiologia, estimulando 
+a autorregulação e a capacidade natural de cura sem uso de fármacos. As técnicas incluem 
+manipulações articulares, mobilizações, liberação miofascial e ajustes posturais, aplicadas 
+de forma individualizada. 
+ 
+• A partir de eventos realizados em 23/6/21, conforme alinhado com Normas e 
+Procedimentos, passaremos a liberar a osteopatia desde que: solicitado por médico e 
+para patologias cobertas, realizado por fisioterapeuta ou médico fisiatra  e em 
+estabelecimento de saúde.  
+Técnicas que caracterizam osteopatia: 
+• Terapia craniossacral 
+• Liberação miofascial 
+• Liberação visceral 
+• Mobilização do diafragma e estruturas torácicas 
+• Estimulação neuromuscular para normalização do tônus do esfíncter esofagiano 
+inferior 
+ 
+
+=== PÁGINA 16 ===
+ 
+16 
+ 
+     A liberação é conforme patologia  constante no pedido , exceto para o  estipulado a 
+seguir: 
+Para quadros funcionais sem código específico (ex.: refluxo, cólica, constipação etc.), tanto 
+em bebês quanto adultos, normatizamos a liberação pelo código 50000160, considerando 
+que a intervenção se caracteriza como atendimento fisioterapêutico voltado ao sistema 
+músculo-esquelético. A  osteopatia utiliza técnicas manuais sobre estruturas músculo -
+esqueléticas e fasciais, com objetivo de melhorar mobilidade e função visceral.  
+ 
+Segue abaixo a lista de indicações comuns, separadas por dois tipos de liberação.  
+ 
+Atenção para fisioterapia domiciliar, que é muito comum para bebês!   
+ 
+Para os quadros a seguir, liberar conforme 50000160 - ATENDIMENTO FISIOTERAPEUTICO 
+AMBULATORIAL AO PACIENTE COM DISFUNCAO DECORRENTE DE ALTERACOES DO SISTEMA 
+MUSCULO-ESQUELETICO. 
+ 
+• Alterações funcionais musculoesqueléticas inespecíficas  
+• Refluxo gastroesofágico  
+• Cólica infantil  
+• Constipação e disquesia  
+• Distúrbios do sono  
+• Obstrução do canal lacrimal  
+• Irritabilidade e choro excessivo  
+• Dificuldades de amamentação 
+ 
+Para os quadros a seguir, liberar conforme código próprio: 
+ 
+• Assimetrias cranianas (plagiocefalia, braquicefalia) - 20103654 
+• Torcicolo congênito - 20103506 
+  
+     Terapia Manual: termo genérico que engloba várias técnicas realizadas com as mãos 
+para tratar disfunções musculoesqueléticas (mobilizações, manipulações, liberação 
+miofascial, drenagem linfática etc.). Liberar conforme patologia.  
+ 
+     Terapia MIG e Terapia Treini: 
+ 
+o MIG: Metodologia interdisciplinar criada pelo fisioterapeuta Renato Loffi em 
+2017, que inclui o uso de um exoesqueleto flexível e técnicas manuais para 
+crianças com TEA, promovendo habilidades sociais, motoras e sensoriais. 
+ 
+o Treini: método intensivo de reabilitação neurológica baseado na 
+neuroplasticidade, que combina exercícios funcionais, estímulos sensoriais e 
+uso de exoesqueletos flexíveis. O objetivo é melhorar postura, mobilidade e 
+independência em pacientes com disfunções neuro psicomotoras. É aplicada 
+
+=== PÁGINA 17 ===
+ 
+17 
+ 
+ 
+por equipe multidisciplinar em ambiente enriquecido, com alta carga 
+terapêutica. 
+ 
+  Para estas duas terapias:  
+ 
+Nos planos não adaptados, negamos como fora da tabela. 
+ 
+Solicitações do Estado de São Paulo – Negar N213 para solicitações a partir de 11 de julho de 
+2024.   
+Conforme parecer do CREMESP emitido em 11/07/2024, em resposta à Consulta de nº 
+98.295/24, foi definido tratar-se de método experimental, portanto não contemplado pelo 
+ROL vigente em seu artigo 10, inciso I.   
+    
+Nos casos de reclamação, informaremos ao segurado o motivo da negativa e o que diz o 
+parecer. 
+Solicitações provenientes de outros locais  que não São Paulo, favor dividir com 
+consultor/gerência.   
+    
+     Terapia por contensão induzida:  A TCI é uma abordagem neurofuncional utilizada na 
+reabilitação motora, especialmente para pacientes com hemiparesia ou outras condições 
+neurológicas que afetam o movimento de um dos membros superiores.  
+Seu objetivo principal é aumentar o uso funcional do membro acometido, combatendo o 
+fenômeno do “não-uso aprendido” e promovendo reorganização cortical uso-dependente. 
+ A técnica é baseada na restrição do membro não acometido com uso de dispositivos (como luvas 
+ou gesso) para limitar o membro saudável em 90% do tempo acordado. 
+ 
+Liberar conforme a patologia. Não liberar o gesso ou luva, pois a imobilização está vinculada a 
+procedimentos cirúrgicos e invasivos, portanto, sem cobertura para reabilitação. 
+ 
+ 
+R.P.G - Reeducação Postural Global 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Criado por Philippe Souchard , a Reeducação Postural Global (RPG)  é um método 
+fisioterapêutico baseado em alongamentos ativos e globais, realizados de forma lenta e 
+progressiva, com controle respiratório e consciência corporal. O objetivo é corrigir 
+desequilíbrios musculares, melhorar o alinhamento postural e reduzir sobrecarga 
+mecânica, atuando sobre cadeias musculares interligadas. 
+ 
+Como funciona: 
+• O paciente é colocado em posturas específicas que alongam cadeias musculares 
+encurtadas. 
+• Cada postura é mantida por períodos prolongados, com ajustes manuais do 
+fisioterapeuta. 
+• O trabalho é associado à respiração diafragmática, para reduzir tensão e melhorar 
+expansibilidade torácica. 
+• O método busca reorganizar a postura global, não apenas tratar sintomas locais. 
+ 
+É indicada para alterações posturais (escoliose, hiperlordose, hipercifose, retificação da coluna), 
+dores musculoesqueléticas (lombalgia, cervicalgia, dorsalgia, dor ciática), disfunções articulares 
+(hérnia, protrusão discal, síndromes musculotendíneas (LER/DORT), distúrbios respiratórios (para 
+melhora da expansibilidade torácica) e disfunções temporomandibulares. 
+
+=== PÁGINA 18 ===
+ 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Estimulação Elétrica Transcutânea (TENS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Embora seja um procedimento ROL NÃO, ele está como 
+DIVULGA SIM [site/rede] na tabela de reembolso, portanto 
+podemos liberar nas apólices adaptadas com o código TUSS 
+50000446, e nas não adaptadas com o código THSM  
+25100076, se houver aditivo de fisioterapia por doença 
+(compreensiva/ampliação de coberturas/GLOBAL). 
+Para mais detalhes das regras de liberação, verificar seção 
+Pedido Médico x Cobrança. 
+ 
+ATENÇÃO! 
+ 
+Nas apólices com modalidade de REEMBOLSO COMPLETO, em que não haja 
+contratação de pacotes extra-ROL, não há cobertura para procedimentos 
+ROL NÃO, mesmo que constem na tabela de reembolso e sejam divulga sim. Este 
+é o caso do RPG, portanto, não há cobertura contratual para este tipo de 
+apólice.  
+O comportamento do SCAM é zerar a despesa ao codificar e incluir crítica: “Apólice 
+sem cobertura para o procedimento”. O analista deve adicionar a crítica N205, para 
+melhor entendimento do segurado. 
+Há estipulantes que retiraram para planos selecionados cobertura para determinados 
+procedimentos, por exemplo, EXAMES SIMPLES e RPG. Sendo assim, do mesmo modo que o 
+REEMBOLSO COMPLETO, para essas empresas o SCAM apresenta valor zerado na aba Cálculo 
+quando codificamos a despesa.  
+Na aba crítica, é gerada a seguinte crítica restritiva, que não deve ser liberada, e sim mantida 
+pelo analista: “Apólice não prevê reembolso para o procedimento em questão”. 
+Esse tipo de comunicação sistêmica também pode ser observado na aba CBTI do SCAM Reembolso. 
+ 
+A Estimulação Elétrica Transcutânea (EET), também 
+conhecida como TENS (Transcutaneous Electrical Nerve 
+Stimulation), é uma técnica terapêutica que utiliza corrente 
+elétrica de baixa voltagem para aliviar a dor. Essa corrente é 
+aplicada na pele através de eletrodos, com o objetivo de 
+estimular os nervos periféricos e modular a percepção da dor.  
+
+=== PÁGINA 19 ===
+ 
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Orientações Gerais 
+ 
+ 
+  Técnicas como Corrente russa e Estimulação Elétrica Funcional (FES) 
+também são consideradas formas de TENS. No entanto, a corrente 
+russa tem foco em fortalecimento muscular, o que está fora da DUT. 
+Avaliar o pedido médico e relatório do prestador. 
+ 
+  A análise é do RSMH. 
+ 
+  Código 31602185 (TUSS [pós-lei e pré-lei adaptada) e 16010175 
+(THSM [pré-lei]) 
+ 
+   Nas apólices anteriores a lei, com ou sem aditivos (ampliação de 
+cobertura e/ou compreensiva), não vamos liberar o código da THSM 
+específico da Estimulação Elétrica Transcutânea (TENS) para casos 
+novos. Vamos pagar conforme patologia constante no pedido do 
+médico assistente, utilizando os códigos da TSHM, pois entendemos 
+que o código de TENS constante na THSM faz referência à classe de 
+anestesia e não de reabilitação física. Esse posicionamento é 
+defensável nos canais de manifestação. Todavia, se já estamos 
+liberando o código, vamos mantê-lo.   
+Lembrando que para pré-lei não podemos falar em ROL e nem seguir 
+diretriz de utilização.    
+ 
+   A liberação do TENS para pré-lei deve seguir o contrato: se não há 
+aditivos, há cobertura somente para indicação por trauma. Para 
+doença, apenas se foi contratada compreensiva ou ampliação de 
+cobertura. 
+   Para apólices adaptadas a lei  e da segmentação ambulatorial, a cobertura está 
+condicionada a Diretriz de Utilização nº24 da RN465 da ANS disposta no ANEXO II . O analista 
+deve avaliar a indicação do médico assistente e comparar com os critérios da DUT; se houver 
+elemento de exclusão, negaremos com a crítica N294. Se houver cobertura, vamos liberar com 
+o código TUSS 31602185  caso a técnica const e no pedido médico (mais informações sobre 
+técnica x pedido médico veremos a seguir).    
+ 
+   Para negativa por desacordo com a DUT 24, a indicação do procedimento não pode constar 
+nos critérios do GRUPO II (ver página seguinte). Um ponto crucial da análise é identificar as 
+regiões corporais acometidas pela patologia e, principalmente, a aplicação do TENS. 
+Exemplo: há exclusão quando a aplicação ocorre na parte anterior do pescoço, na região da 
+cabeça (quando posicionada de forma transcerebral) ou próxima à boca e aos olhos.  
+Por isso, indicações como cervicalgia e disfunções da articulação temporomandibular exigem 
+atenção especial à diretriz e podem justificar uma negativa — sempre avaliar caso a caso. 
+ 
+ 
+
+=== PÁGINA 20 ===
+ 
+20 
+ 
+ 
+ 
+ 
+ 
+A DUT 24 estabelece que a TENS deve ser coberta quando há pelo menos um critério do 
+Grupo I e nenhum do Grupo II. Esses critérios são: 
+ 
+Grupo I - Indicações para cobertura obrigatória: 
+ 
+a) Dor neurogênica 
+o O que é:  Dor originada por lesão ou disfunção do sistema nervoso (ex.: 
+neuropatia periférica, radiculopatia). 
+o Justificativa: Atua modulando a transmissão nociceptiva via teoria do “Gate 
+Control” e liberação de endorfinas, reduzindo a percepção da dor. 
+b) Dor musculoesquelética 
+o O que é:  Dor em músculos, articulações, tendões ou ligamentos (ex.: 
+lombalgia, cervicalgia). 
+o Justificativa: TENS é amplamente utilizada para analgesia em condições 
+musculoesqueléticas, com evidência de eficácia para dor aguda e crônica.  
+c) Dor visceral 
+o O que é: Dor proveniente de órgãos internos (ex.: cólica renal, dor abdominal 
+funcional). 
+o Justificativa: Estímulo elétrico pode reduzir a transmissão dos sinais de dor 
+vindos dos órgãos internos, embora protocolos sejam mais restritos. 
+d) Dor simpaticamente mediada 
+o O que é:  Dor associada à hiperatividade do sistema nervoso simpático (ex.: 
+síndrome dolorosa regional complexa). 
+o Justificativa: TENS pode ajudar a modular reflexos simpáticos e reduzir dor. 
+e) Dor pós-traumática 
+o O que é: Dor após lesão física (ex.: fraturas, entorses). 
+o Justificativa: Evidência suporta uso para analgesia e melhora funcional no 
+processo de reabilitação. 
+f) Dor leve a moderada pós-operatória 
+o O que é:  Dor após procedimentos cirúrgicos, geralmente em fase inicial de 
+recuperação. 
+o Justificativa: TENS é recurso não farmacológico para controle da dor pós -
+operatória, reduzindo necessidade de analgésicos. 
+g) Espasticidade da lesão medular e hemiplegia decorrente de AVE 
+o O que é: Aumento do tônus muscular após lesão medular ou acidente vascular 
+encefálico. 
+o  Justificativa: TENS pode auxiliar na redução da espasticidade, embora 
+protocolos variem; por isso está incluída como indicação 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Entendendo a Diretriz 24 
+
+=== PÁGINA 21 ===
+ 
+21 
+ 
+ 
+  
+Grupo II – Situações que excluem cobertura: 
+ 
+ 
+ 
+a)  Gestação – 1º trimestre 
+o Durante a organogênese, qualquer estímulo elétrico  
+próximo ao útero pode teoricamente induzir 
+contrações ou alterar desenvolvimento fetal.  
+Não há estudos que comprovem segurança, por isso a exclusão é preventiva. 
+b) Uso para melhora do equilíbrio no AVE crônico 
+o TENS atua na modulação da dor, não no controle motor ou equilíbrio. Evidências 
+para essa aplicação são inconsistentes e não padronizadas, logo não há benefício 
+comprovado. 
+c) Pacientes portadores de: 
+o Marcapasso cardíaco:  Correntes elétricas externas podem interferir no 
+funcionamento do dispositivo, causando falhas ou arritmias. 
+o Arritmias cardíacas (salvo ordem médica) : Estímulo próximo ao pescoço ou 
+tórax pode ativar reflexos vagais, alterando frequência cardíaca. 
+o Dor de etiologia desconhecida:  TENS pode mascarar sintomas, atrasando 
+diagnóstico de condições graves. 
+o Epilepsia (salvo ordem médica) : Estímulo craniano pode reduzir limiar 
+convulsivo, aumentando risco de crises. 
+d) Regiões proibidas: 
+o Parte anterior do pescoço / seio carotídeo:  Estímulo pode ativar 
+barorreceptores, causando bradicardia, hipotensão ou síncope. 
+o Cabeça (transcerebral): Corrente atravessando o crânio pode afetar estruturas 
+neurológicas e aumentar risco de convulsão. 
+o Pele com solução de continuidade (ferida, dermatite): Redução da resistência 
+elétrica → risco de queimadura, irritação e infecção. 
+o Pele com parestesia/anestesia: Paciente não percebe intensidade excessiva → 
+risco de lesão térmica. 
+o Abdome durante gestação: Desconhece-se o efeito seguro da corrente sobre o 
+útero; risco teórico de contrações; recomenda-se evitar.  
+o Regiões com implantes metálicos:  Possível concentração de corrente e 
+aquecimento local; embora risco seja baixo, exclusão é preventiva. 
+o Áreas recentemente irradiadas: Tecido fragilizado, com resposta inflamatória 
+alterada → maior risco de lesão. 
+o Próximo à boca e sobre os olhos: Tecidos sensíveis, sem indicação terapêutica, 
+risco de dano ocular ou mucoso. 
+ 
+ 
+ 
+      Entendendo a Diretriz 24 
+
+=== PÁGINA 22 ===
+ 
+22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Cirurgias com alta chance de implantes metálicos 
+ 
+Se houver histórico dessas cirurgias, presumir metal. 
+ 
+  Artroplastia coxo-femoral (quadril) 
+ Substituição da articulação do quadril por uma prótese metálica 
+(componente femoral e acetabular), geralmente por desgaste ou fratura. 
+ 
+  Artroplastia de joelho 
+Troca da articulação do joelho por prótese metálica, comum em casos de 
+artrose avançada. 
+ 
+  Artrodese de coluna 
+Fixação cirúrgica de vértebras com hastes, placas e parafusos metálicos para 
+estabilizar a coluna (ex.: escoliose, fraturas). 
+ 
+  Osteossíntese / fraturas graves (ex.: fratura exposta) com fixação 
+interna 
+Técnica para unir fragmentos ósseos após fratura usando placas, parafusos 
+ou hastes intramedulares. 
+   
+  Osteotomias corretivas 
+Cirurgia para correção de desalinhamento ósseo, geralmente com placas e 
+parafusos metálicos. 
+ 
+ 
+    Cirurgias que merecem atenção (podem ter implantes metálicos): 
+ 
+Sobre o item de exclusão “regiões com implantes metálicos”, do GRUPO II, letra [d]:  é 
+importante consultar se existe procedimento cirúrgico no histórico da apólice 
+(SISB/Grande Porte/SCAM), buscando nas senhas, boletins operatórios e relatórios 
+informações sobre os materiais utilizados no procedimento, como por exemplo, placas, 
+parafusos etc. Se houver confirmação de implante metálico e o TENS está sendo 
+aplicado na mesma região, vamos negar com N294 sem solicitação de complemento. 
+Esta avaliação deve ser feita junto ao consultor, a fim de confirmar se o material 
+realmente é metálico e está implantado na região estimulada.  
+ 
+Se restar dúvida sobre a composição do material utilizado ou não houver informações 
+suficientes, solicitar relatório pedindo esclarecimentos adicionais sobre a cirurgia e/ou 
+material utilizado. 
+ Atenção: sempre informar a pesquisa em nota! 
+ 
+
+=== PÁGINA 23 ===
+ 
+23 
+ 
+  Cirurgias de ombro 
+Podem envolver artroplastia ou reparo com âncoras (metálicas ou 
+bioabsorvíveis) para fixar tendões.  
+ 
+  Cirurgias de tornozelo ou pé 
+Correção de fraturas ou deformidades com placas e parafusos, dependendo 
+da gravidade.  
+ 
+  Reconstruções ósseas complexas 
+Realizadas após tumores ou grandes perdas ósseas, geralmente com placas 
+ou sistemas metálicos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Neste exemplo, uma cobrança de TENS com indicação de pós-operatório 
+de osteotomia valgizante, para corrigir joelho varo (pernas arqueadas). O objetivo 
+é reposicionar o osso para melhorar o alinhamento e a distribuição do peso, 
+aliviando a dor e melhorando a função. Existem diferentes tipos de osteotomia 
+valgizante, dependendo da localização do desalinhamento (j oelho, quadril, 
+tornozelo) e da técnica cirúrgica utilizada. 
+Entre as documentações, foi apresentada a 
+imagem de implante metálico no joelho  
+Neste outro exemplo, constava na descrição cirúrgica a informação de: PLACA TIBIA PROXIMAL 
++ 2 PARAFUSOS CANULADOS MAXCARE;  
+O paciente acabou sofrendo um trauma no joelho após uma queda. 
+
+=== PÁGINA 24 ===
+ 
+24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PÁGINA 25 ===
+ 
+25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PEDIDO MÉDICO X COBRANÇA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Existem algumas situações envolvendo o pedido médico e as cobranças feitas pelos prestadores. As 
+ações detalhadas a seguir são para dois cenários que devem ser bem diferenciados pela equipe 
+de análise: cobranças normais e cobranças abusivas.  
+ 
+O escopo abordado nesta seção refere -se a divergências entre o pedido médico e cobrança do 
+prestador, referente às técnicas com código próprio: RPG, biofeedback, TENS, eletroestimulação para 
+assoalho pélvico. 
+ 
+Todavia, a fim de completar o entendimento,  adiantaremos o tema “codificação”, descrevendo a 
+seguir as condutas referentes a cobranças concomitantes de técnica (com código próprio na tabela) 
+e fisioterapia convencional (código de patologia, região anatômica etc.).  
+ 
+Válido para casos novos, ou que não haja pagamento anterior divergente nos códigos. Portanto, muita 
+atenção ao histórico! 
+ 
+Observação 1: O analista deve avaliar o relatório do prestador, a fim de identificar se a técnica 
+cobrada de forma apartada realmente foi realizada.  Em caso de dúvidas, verificar com a 
+liderança/consultoria. Caso não tenha sido realmente realizada, cabe negativa N305: 
+Conforme relatório do prestador do serviço, a técnica XXXXXX cobrada não foi realizada. 
+ 
+Observação 2 : A liberação só deverá ocorrer se atendidos os critérios estabelecidos  (pedido vs. 
+cobrança). 
+ 
+❖ Cobranças em único recibo: 
+ 
+o Biofeedback + eletroestimulação de assoalho + fisio convencional = liberar 
+somente biofeedback + eletroestimulação, somando o valor da fisio. 
+o Biofeedback + fisio convencional = somar os valores e liberar somente o código de 
+biofeedback. 
+o Eletroestimulação de assoalho + fisio convencional  = somar os valores e liberar 
+somente o código de eletroestimulação. 
+o Biofeedback + eletroestimulação de assoalho = liberar os dois. 
+o Estimulação Elétrica Transcutânea (TENS) + fisio convencional = liberar os dois. 
+o RPG + fisio convencional = liberar os dois. 
+ 
+❖ Cobrança em recibos diferentes: 
+ 
+o Não podemos negar a fisioterapia convencional. Liberar individualmente. 
+ 
+     Leia sobre estas terapias neste manual para se informar de todos os detalhes ! 
+ 
+   A seguir, os cenários de Pedido vs. Cobrança. 
+ 
+ 
+ 
+
+
+=== PÁGINA 26 ===
+ 
+26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b) Prestador cobrou fisio + técnica sem discriminar valores, e médico prescreveu os dois tipos. 
+Ação: solicitar valores (A170).  
+• Se não enviado, reiterar solicitação. Considerar carta diferenciada explicando 
+detalhadamente ao segurado o que é necessário, e que documento enviado não contém 
+o que foi solicitado. 
+ 
+d) Prestador cobrou apenas fisioterapia convencional, mas médico pediu técnica específica.  
+• Cenário 1 exemplificativo : médico fez um único pedido para  fisioterapia + RPG , mas 
+prestador cobrou apenas fisioterapia. 
+Ação: atenção para os pontos abaixo! 
+I. É preciso ter muita cautela com cobranças separadas em sinistros diferentes, 
+pois o prestador pode ter emitido um recibo para fisio e outro para RPG. Neste 
+caso, vamos pagar conforme a cobrança. Verificar com atenção a apólice do 
+segurado a fim de identificar se há mais de um recibo! 
+II. Se não há cobranças separadas, liberar conforme  técnica do pedido. Neste 
+exemplo, liberaríamos conforme RPG sem solicitar complemento, mesmo que 
+a cobrança informe fisioterapia.  
+1) Cenário 1 : cobrança normal sem suspeitas de abuso: fisioterapia + RPG OU TENS OU 
+eletroestimulação OU biofeedback  (um ou outro!) , ou seja, sem cobrança de vários códigos 
+concomitantemente. 
+ 
+❖ Para recibo único: 
+ 
+a) Prestador cobrou fisioterapia + técnica específica, com valores discriminados para cada. Médico 
+não pediu técnica, apenas “fisioterapia” .  
+Ação: solicitar novo relatório médico indicando a técnica cobrada, A206 A - indicação para a 
+técnica. 
+• Se não houver retorno esperado, somar e pagar somente conforme patologia do pedido 
+inicial. Não aguardar reiteradas vezes. 
+• Se for enviada a indicação para a técnica, liberar código de fisio convencional (se aplicável, 
+ver início desta seção!) + código da técnica individualmente. 
+ 
+c) Prestador cobrou fisio + técnica sem discriminar valores, e médico não pediu técnica (somente 
+“fisioterapia”).  
+Ação: solicitar valores das técnicas (A170) e novo pedido médico (A206 A).  
+• Se enviados os dois, liberar os dois códigos individualmente (se aplicável, ver início desta 
+seção!). 
+• Se em complemento não for enviado nenhum dos dois, somar valores e pagar conforme 
+patologia do pedido inicial. Não aguardar reiteradas vezes. 
+• Se enviado apenas os valores e não enviado o novo pedido, aguardar o pedido médico 
+novamente. Se não enviado na fase 02 de complemento, somar as cobranças e pagar 
+conforme patologia. 
+• Se enviado apenas o novo pedido, reiterar os valores das cobranças. Ver letra “c” abaixo. 
+ 
+ 
+ 
+
+
+=== PÁGINA 27 ===
+ 
+27 
+ 
+ 
+1) Cenário 2: cobrança abusiva, com vários códigos declarados de técnica e/ou fisioterapia 
+convencional.  
+ 
+❖ Para recibo único: 
+a) Prestador cobrou vários códigos, com ou sem valores discriminados para cada. Médico 
+não pediu técnica, apenas “fisioterapia” .  
+Ação: somar todas as cobranças e pagar conforme patologia descrita no pedido médico. 
+ 
+b) Prestador cobrou vários códigos de patologia + técnica sem discriminar valores, e médico 
+prescreveu tanto fisio convencional quanto técnica (RPG, eletroestimulação, TENS , 
+biofeedback). 
+Ação: solicitar valores (A170).  
+• Além disso, é muito importante avaliar no relatório do prestador a descrição 
+completa da conduta para confirmar se a técnica cobrada realmente foi realizada. 
+Caso seja identificado que não foi realizada, confirmar com a consultoria e, então, 
+negar utilizando carta diferenciada N305: 
+Conforme relatório do prestador do serviço, a técnica XXXXXX cobrada não foi 
+realizada. 
+• Se não for enviado  em fase de complemento, reiterar a solicitação. Considerar carta 
+diferenciada explicando detalhadamente ao segurado o que é necessário, e que 
+documento enviado não contém o que foi solicitado. 
+ 
+c) Prestador cobrou diversos códigos de fisioterapia convencional, mas médico pediu também 
+técnica específica + fisio.  
+Ação: somar valores e pagar conforme patologia declarada no pedido. Não liberar código de 
+técnica, pois conforme cobrança, não foi realizada (lembre-se que é cenário abusivo, não 
+sendo interessante dar abertura solicitando complemento). Atenção para códigos fora do 
+ROL, pois devem ser negados individualmente! 
+ 
+• Cenário 2 exemplificativo : no sinistro sendo analisado consta pedido médico somente 
+para RPG e prestador cobrou como fisioterapia. 
+Ação: atenção para os pontos abaixo! 
+I. Há a possibilidade de o médico ter emitido dois pedidos, um para RPG e 
+outro para fisioterapia, e estarem em sinistros diferentes. Se for o caso, 
+liberar conforme a cobrança. Atenção para o histórico! 
+II. No entanto, se houver somente um pedido, liberar conforme a técnica 
+solicitada sem solicitar complemento , mesmo a cobrança sendo 
+fisioterapia.  
+❖ Para recibos separados: 
+ 
+a) Prestador emite 2 recibos (fisioterapia e RPG, por exemplo), mas no pedido consta 
+apenas fisioterapia. 
+Ação: reembolsar a cobrança de fisio normal conforme patologia e solicitar A206 A 
+somente para a cobrança da técnica. Não pendenciar os 2 recibos! 
+• Se no retorno não for enviado, negar o recibo da técnica com N415 - técnica não 
+solicitada. 
+ 
+ 
+
+=== PÁGINA 28 ===
+ 
+28 
+ 
+      Lembre-se: senhas de internação e SADT podem  
+ajudar a definir um código de fisioterapia.  
+ 
+ 
+ 
+ 
+ 
+ 
+CÓDIGOS DE FISIOTERAPIA E SUAS APLICAÇÕES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+Os códigos de fisioterapia da tabela podem fazer referência a 
+patologias (lesão de nervo, retardo mental, Parkinson, entre outros), a 
+regiões corporais (coluna, membro), abordagem (reabilitação motora, 
+respiratória, cardiovascular, neurológica). Outros se referem a 
+técnicas específicas (como biofeedback, RPG, TENS, eletroestimulação 
+de assoalho pélvico). 
+ 
+Há muitos códigos que até então não eram utilizados, mas que são 
+aplicáveis em diversas situações. Portanto, é muito importante que 
+todos os códigos apresentados neste manual sejam aprendidos e 
+utilizados pelas equipes de análise. 
+ 
+       É fundamental analisar cuidadosamente cada solicitação e liberar os procedimentos que estejam 
+de acordo com as normas e critérios estabelecidos , sempre avaliando o histórico de pagamentos 
+anteriores, a fim de identificar divergências de análise. 
+ 
+  As condutas listadas nos códigos são para fins informativos. Não significa que todas são 
+cobertas! 
+ 
+ 
+❖ Para recibos separados: 
+ 
+a) Prestador emite mais de um recibo com códigos de fisioterapia convencional + técnica  
+(cenário de abuso/suspeita de fraude!), mas o pedido solicita apenas fisioterapia. 
+Ação: pagar somente o recibo d a fisioterapia convencional e negar a cobrança da técnica 
+com N415 - técnica não solicitada. 
+ 
+ 
+       Temos defesa em âmbito de reclamação para todos estes cenários, 
+conforme a RN 465 e Condições Gerais.  
+ 
+ 
+ 
+
+=== PÁGINA 29 ===
+ 
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consulta fisioterápica 
+ 
+ 
+TUSS 50000144 - Consulta ambulatorial em fisioterapia 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Alguns prestadores podem tentar incluir múltiplos códigos com o objetivo de aumentar 
+a cobrança indevidamente. 
+ 
+   Regra para liberação de códigos 
+• Para regras de liberação de cobranças concomitantes referente a  técnicas com 
+código próprio (RPG, TENS, biofeedback, eletroestimulação do assoalho pélvico) + 
+fisio convencional (ou seja, código de patologia, de região anatômica), ver a seção 
+PEDIDO MÉDICO X COBRANÇA. 
+• Múltiplas cobranças de códigos de patologia  normalmente são  somadas e 
+liberadas conforme a patologia indicada no pedido médico , sem múltipl as 
+codificações. Entretanto, liberação adicional é permitida para:  
+o Abordagens motoras e respiratórias cobradas em concomitância, quando 
+pertinentes ao quadro clínico e somente se houver doença respiratória ativa, 
+distinta e documentada, que exija condutas fisioterapêuticas próprias, não 
+contempladas pelo código principal da patologia. 
+o Códigos referentes a regiões corporais diferentes  e para as quais não 
+haja código único (ex.: coluna e membro). 
+ 
+Importante: Não cabe múltipla remuneração para códigos apenas de patologia sem 
+particularidades ou sem relação direta com o quadro. 
+Exemplo: Paciente com tendinite no punho → código correto: 20103484. 
+Não liberar junto com 20103344 (miopatia) nem 20103328 (lesão de nervo periférico), pois 
+são condições diferentes. 
+ 
+Ver também a seção Técnicas com observações especiais para orientação sobre outros 
+códigos, não tratados nesta seção (ex.: cinesioterapia). 
+Exemplos de indicação: consulta inicial ambulatorial; avaliação inicial; reavaliação  
+• Não possui DUT desde junho/2021. 
+• Deve ser utilizada para avaliação inicial, reavaliações periódicas e elaboração do plano de 
+tratamento. 
+• Não cabe liberação seriada: cada consulta deve ser justificada individualmente conforme 
+necessidade clínica. 
+• Frequência recomendada: liberar 1x por mês. 
+• Caso haja cobrança superior à frequência indicada, aguardar crítica A225. 
+Crítica A225 – Consulta Fisioterapia: 
+Solicitamos relatório do prestador fisioterapeuta datado, assinado e carimbado, justificando a realização 
+de consultas em frequência seriada com curto intervalo de tempo.  
+
+=== PÁGINA 30 ===
+ 
+30 
+ 
+ 
+ 
+ 
+TUSS 50000349 - Consulta hospitalar em fisioterapia 
+ 
+ 
+ 
+ 
+ 
+ 
+Códigos de teleatendimento 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Códigos da tabela THSM. Liberação para eventos a partir de 09/07/2025. 
+ 
+    84251212 - teleatendimento fisioterapeutico ao paciente com alteracoes do 
+sistema musculo-esqueletico 
+    84251220  - teleatendimento fisioterapeutico ao paciente com alteracoes do 
+sistema linfatico e/ou vascular periferico 
+    84251239  - teleatendimento fisioterapeutico ao paciente em recuperacao de 
+tecidos 
+    84251247  - teleatendimento fisioterapeutico ao paciente com alteracoes do 
+aparelho genito-urinario e reprodutor, e/ou proctologico 
+    84251255 - teleatendimento fisioterapeutico ao paciente com alteracoes no 
+sistema respiratorio 
+    84251263 - teleatendimento fisioterapeutico ao paciente com alteracoes do 
+sistema cardiovascular 
+    84251271 - teleatendimento fisioterapeutico ao paciente com disfuncao 
+decorrente de lesao do sistema nervoso central e/ou periferico 
+Exemplos de indicação: avaliação inicial do paciente internado; reavaliações periódicas durante a 
+internação; ajuste do plano terapêutico conforme evolução clínica 
+ 
+       Este código deve ser utilizado para consultas realizadas em ambiente hospitalar, com foco 
+na avaliação do paciente internado, definição ou ajuste do plano de tratamento e registro da 
+evolução clínica. Assim como na consulta ambulatorial, não possui DUT desde junho/2021 e não 
+cabe liberação seriada: cada consulta deve ser justificada individualmente conforme 
+necessidade clínica. 
+ 
+Diferentemente do ambulatorial, em regime de internação a frequência tende a ser maior devido 
+à complexidade clínica e à necessidade de ajustes dinâmicos no plano terapêutico. Podem ser 
+necessárias consultas adicionais em casos críticos, início de ventilaçã o mecânica, pós -
+operatório imediato ou intercorrências. 
+ 
+No entanto, se percebida cobrança em frequência não compatível com o quadro e sem 
+justificativa clínica, aguardar A225. 
+
+=== PÁGINA 31 ===
+ 
+31 
+ 
+ 
+ 
+ 
+ 
+ 
+Códigos de membro 
+ 
+ 
+TUSS 20103484 - Patologia osteomioarticular em um membro 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: tendinite de punho direito; bursite ombro esquerdo; bursite trocantérica quadril 
+direito; epicondilite lateral do cotovelo 
+       Patologia osteomioarticular refere -se a qualquer condição que acometa estruturas do sistema 
+musculoesquelético, incluindo ossos, articulações, músculos, tendões, ligamentos e bursas, como 
+tendinites, bursites, lesões ligamentares, artroses e fraturas. O te rmo “membro” abrange as regiões 
+anatômicas dos membros superiores (ombro, braço, cotovelo, antebraço, punho e mão) e dos membros 
+inferiores (quadril, coxa, joelho, perna, tornozelo e pé). 
+ 
+Aplica-se este código quando a patologia afeta apenas um membro. É importante verificar se o médico 
+especificou a localização, como cotovelo direito, mão esquerda, tornozelo direito, membro inferior ou 
+superior etc.  
+Palavras-chave a observar: unilateral, E (abreviação de esquerdo), D (abreviação de direito), lado 
+direito ou esquerdo, MI (membro inferior) e MS (membro superior).  
+ 
+• Atenção: para fisioterapia em diferentes articulações em um mesmo membro e patologias 
+diferentes, será liberado 2x 20103484. Exemplos:  
+1. Lesão de menisco em joelho direito e artrose de tornozelo direito; 
+2. Tendinite de ombro esquerdo e bursite de cotovelo esquerdo; 
+3. Epicondilite lateral do cotovelo direito e tendinite de punho direito; 
+4. Bursite trocantérica quadril esquerdo e tendinite de joelho esquerdo. 
+ 
+As condutas podem envolve r exercícios terapêuticos  (fortalecimento progressivo , alongamentos, 
+exercícios proprioceptivos), recursos eletrotermofototerápicos (TENS, ultrassom terapêutico, ondas de 
+choque), terapia manual  (mobilizações articulares , liberação miofascial ), reabilitação funcional  (reino 
+de marcha, treino de preensão e função manual). 
+ 
+
+=== PÁGINA 32 ===
+ 
+32 
+ 
+ 
+ 
+ 
+ 
+TUSS 20103492 - Patologia osteomioarticular em dois ou mais membros 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 20103298 - Hipo ou agenesia de membros 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação:  tendinite de punho direito e esquerdo; fibromialgia; gonartrose bilateral 
+ Aplica-se este código quando a patologia afeta mais de um membro. É importante verificar se o 
+médico especificou a localização, como cotovelo direito e esquerdo,  tornozelo direito e esquerdo  etc. 
+Quanto a  fibromialgia, é uma condição crônica e sistêmica que provoca dor generalizada , 
+frequentemente envolvendo múltiplos membros. 
+Palavras-chave a observar: bilateral, E (abreviação de esquerdo) e D (abreviação de direito), lado direito 
+e esquerdo, MII (membros inferiores) e MSS (membros superiores). 
+ 
+As condutas normalmente são as mesmas já descritas na patologia de um membro (20103484), 
+podendo aumentar a complexidade.  
+Exemplos de indicação:  Ausência congênita de membro superior ou inferior; hipoplasia 
+(desenvolvimento incompleto) de braço ou perna; amputação congênita parcial 
+ Os códigos 20103484 ou 20103492 [Patologia osteomioarticular em um membro/mais de um 
+membro] devem ser utilizados quando existe uma alteração funcional ou estrutural adquirida em 
+membros, como tendinite, fratura, artrose ou outras lesões localizadas. Já o código 20103298 – 
+Hipo ou agenesia de membros é reservado para situações em que há ausência total ou parcial do 
+membro, geralmente de origem congênita, como agenesia (não formação) ou hipoplasia (formação 
+incompleta).  
+ 
+
+
+=== PÁGINA 33 ===
+ 
+33 
+ 
+ 
+ 
+ 
+ 
+ 
+Códigos de coluna 
+ 
+TUSS 20103506 - Patologia osteomioarticular em um segmento da coluna 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação:  lombalgia (dor lombar); cervicalgia (dor cervical); cervicobraquialgia; 
+degeneração do disco lombar; hérnia de disco lombar; enxaqueca; cefaleia (se origem da dor for 
+cervical), torcicolo congênito 
+       A coluna vertebral é dividida em segmentos anatômicos, cada um com função e 
+características próprias.  
+• Cervical (C1 a C7) – região do pescoço, responsável por mobilidade da cabeça. 
+• Torácica (T1 a T12) – região do tórax, ligada à caixa torácica. 
+• Lombar (L1 a L5) – região inferior das costas, suporte de peso. 
+• Sacral (S1 a S5) – base da coluna, articulação com pelve. 
+O código aplica-se a patologia que está relacionada apenas a um segmento. 
+• Atenção:  
+o O código não vale para desvios posturais; 
+o Irradiação não deve ser considerada, sendo liberado apenas como um segmento 
+de coluna, não cabendo liberação adicional de membro. Exemplos:  
+1. Hérnia de Disco Lombar com Irradiação para as Pernas 
+2. Hérnia de Disco Cervical com Irradiação para os Braços 
+3. Ciática 
+4. Estenose Espinhal 
+5. Espondilolistese 
+6. Radiculopatia Cervical ou Lombar 
+o Torcicolo congênito é uma deformidade postural causada por encurtamento ou 
+fibrose do músculo esternocleidomastoideo, levando à inclinação lateral e rotação 
+contrária da cabeça. Provoca alteração funcional e postural da coluna cervical, 
+com restrição de mobilidade e desalinhamento vertebral. Não se enquadra como 
+miopatia, que é uma doença primária do tecido muscular, geralmente de origem 
+genética ou sistêmica, que afetam múltiplos músculos e apresentam alterações 
+estruturais ou metabólicas. 
+As condutas podem envolver exercícios terapêuticos (estabilização segmentar, alongamentos, 
+exercícios de controle motor, treino funcional), terapia manual (mobilizações articulares, 
+manipulação vertebral, liberação miofascial), recursos eletrotermofototerápicos (TENS, 
+ultrassom terapêutico, calor superficial), abordagens complementares como hidroterapia e 
+treino proprioceptivo para estabilidade global). 
+
+
+=== PÁGINA 34 ===
+ 
+34 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 20103514 - Patologia osteomioarticular em diferentes segmentos da coluna 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 20103182 - Desvios posturais da coluna vertebral 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação:  hérnia de disco cervical associada à lombalgia; cervicobraquialgia com 
+lombalgia crônica; degeneração discal em múltiplos segmentos 
+       Este código deve ser utilizado quando a patologia envolve mais de um segmento da coluna 
+vertebral, com repercussão funcional significativa. Destina-se ao tratamento fisioterapêutico 
+para redução da dor, melhora da mobilidade, correção da mecânica postural e prevenção de 
+complicações decorrentes da sobrecarga em múltiplos segmentos. 
+Como já estipulado no item anterior: 
+• Não se aplica para desvios posturais isolados.  
+• Irradiação não deve ser considerada como critério para liberação adicional de membro. 
+As condutas envolvidas são as mesmas já descritas no código 20103506, patologia em um 
+segmento de coluna, podendo ter complexidade maior. 
+ 
+ 
+ 
+Exemplos de indicação: cifose; lordose; escoliose 
+ 
+ Este código deve ser utilizado quando a patologia está associada a alterações no alinhamento 
+fisiológico da coluna vertebral, e não a uma condição localizada em um único segmento. Os desvios 
+posturais geralmente envolvem modificações estruturais ou funcionais que afetam a postura global, 
+podendo comprometer equilíbrio, biomecânica e distribuição de cargas.  
+• Cifose – aumento da curvatura torácica para trás. 
+• Lordose – aumento da curvatura lombar para frente. 
+• Escoliose – desvio lateral da coluna, frequentemente acompanhado de rotação das vértebras.  
+ 
+As condutas podem envolver Reeducação Postural Global (RPG), pilates clínico, cinesioterapia, 
+isostretching (técnica que combina alongamento global com controle respiratório), método Klapp 
+(exercícios em posições quadrúpedes para correção de escoliose e melhora da mobilidade vertebral ). 
+
+
+=== PÁGINA 35 ===
+ 
+35 
+ 
+ 
+ 
+ 
+ 
+Código de pós-operatório  
+ 
+ 
+TUSS 20103093 - Atendimento fisiátrico no pré e pós-operatório de pacientes para 
+prevenção de sequelas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: atendimento motor no pós-operatório de cirurgias ortopédicas, 
+atendimento motor no pré e pós-cirúrgicos de outras naturezas, se aplicável 
+       Pré-operatório em ortopedia 
+Não liberar o código 20103093 para atendimentos em pré-operatório ortopédico. A 
+liberação deve ser conforme código da patologia, visto a ampla gama de quadros 
+ortopédicos e a alta utilização de fisioterapia com esta indicação.  
+       Pós‑operatório em cirurgias ortopédicas 
+De modo geral, também priorizar a liberação conforme o código correspondente à 
+patologia tratada. 
+Exceção:  
+• Quando o pedido médico ou a cobrança do prestador indicar expressamente o código 
+20103093, a liberação poderá ocorrer conforme o referido código, em razão de sua 
+nomenclatura ampla e compatível com o contexto pós-operatório. 
+• Caso já tenha ocorrido pagamento prévio com o código 20103093, e a indicação 
+clínica permaneça inalterada, manter o código para evitar inconsistência de análise. 
+       Pré e pós-operatório de cirurgias não ortopédicas 
+O uso do 20103093 poderá ser considerado quando não houver outro código mais 
+específico e apropriado disponível na tabela, devendo a análise observar o contexto 
+clínico e a finalidade do atendimento. 
+     Importante: 
+Se a abordagem fisioterapêutica for predominantemente respiratória, avaliar a utilização 
+do código 20103069 – Assistência fisiátrica respiratória no pré e pós-operatório. 
+    Atenção: 
+Considerar sempre a possibilidade de fisioterapia domiciliar, especialmente em pacientes 
+com restrição de locomoção no pós-operatório. 
+ 
+
+
+=== PÁGINA 36 ===
+ 
+36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Códigos de reabilitação perineal ou pré/pós-parto 
+ 
+ 
+TUSS 20103565 - Processos inflamatórios pélvicos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 20103190 - Disfunção vesico-uretral 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: pubalgia (inflamação da sínfise púbica); doença inflamatória pélvica; endometrite; 
+salpingite; ooforite; cervicite; síndrome da dor pélvica crônica inflamatória; inflamações musculotendíneas 
+da pelve (iliopsoas, reto abdominal associadas a sobrecarga esportiva) 
+       Este código contempla tanto processos inflamatórios pélvicos de origem visceral (ex.: DIP, salpingite, 
+endometrite) quanto processos inflamatórios pélvicos de origem musculoesquelética, localizados na 
+estrutura da pelve (iliopsoas, sínfise púbica). 
+Processos inflamatórios pélvicos referem -se a condições caracterizadas por inflamação em estruturas da 
+pelve, que podem envolver tecidos musculoesqueléticos (ossos, articulações, tendões, músculos) ou 
+viscerais (órgãos do trato genital e urinário). Essa inflamação pode ser decorrente de sobrecarga mecânica, 
+infecções, traumas, cirurgias ou doenças sistêmicas, gerando dor, limitação funcional e alterações 
+posturais. 
+A fisioterapia tem como objetivo reduzir dor, restaurar mobilidade tecidual, prevenir aderências e melhorar 
+a função das estruturas acometidas. A abordagem geralmente com bina técnicas manuais suaves , 
+alongamento direcionado, fortalecimento progressivo, recursos analgésicos não-invasivos. 
+ 
+ 
+Exemplos de indicação: incontinência urinária (esforço, urgência, mista) ; urgência miccional / bexiga 
+hiperativa; retenção urinária funcional ; disfunção miccional por dissinergia  do assoalho pélvico ; sintomas 
+urinários pós -cirurgia pélvica (quando abordagem conservadora é indicada) ; reabilitação pós -
+prostatectomia 
+       Disfunção vesico-uretral refere -se a alterações funcionais no trato urinário inferior, envolvendo a 
+bexiga (vesical) e/ou a uretra, que comprometem a coordenação entre armazenamento e eliminação da 
+urina. Essas disfunções podem se manifestar por sintomas como: 
+• Incontinência urinária (esforço, urgência ou mista) 
+• Urgência miccional e aumento da frequência urinária 
+• Retenção urinária ou esvaziamento incompleto 
+• Infecções urinárias recorrentes associadas à disfunção 
+• Dificuldade de iniciar ou manter o fluxo urinário (disfunção miccional/dissinergia) 
+A abordagem de primeira linha é o PFMT/TMAP (Treinamento Muscular do Assoalho Pélvico), que consiste 
+em exercícios voluntários para contração e relaxamento dos músculos do assoalho pélvico, realizados 
+em diferentes posições, com progressão de séries e monitoramento pelo fisioterapeuta.  
+Termos como “Exercícios de Kegel”, “Exercícios do Assoalho Pélvico” ou “Fisioterapia pélvica” equivalem 
+a PFMT e devem ser liberados pelo código 20103190. Também liberar quando o pedido médico indicar 
+fisioterapia para disfunções urinárias (IU, urgência, retenção etc.), sem técnica específica descrita. 
+O código 20103190 não é aplicável a incontinência fecal, constipação, vaginismo, dispaurenia, 
+hipotonia/hipertonia pélvica sem sintomas urinários. Considerar os códigos 20203020 ou 20103646, a 
+depender do que foi realizado. 
+ 
+ 
+
+
+=== PÁGINA 37 ===
+ 
+37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 20203020 - Eletroestimulação do assoalho pélvico e/ou outra técnica de 
+exercícios perineais 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: incontinência urinária (esforço, urgência, mista) ; incontinência fecal 
+(urgência/passiva); bexiga hiperativa (urgência miccional); dispareunia; retenção urinária por 
+falha de contração; disfunção miccional por dissinergia pélvica; hipotonia do assoalho; 
+vaginismo; hipertonia perineal; constipação funcional por anismo/dissinergia anorretal 
+       A eletroestimulação do assoalho pélvico é uma técnica usada para ativar ou modular a 
+musculatura perineal por meio de impulsos elétricos controlados. É geralmente feita por 
+sonda intravaginal (mulheres) ou sonda anal (homens ou casos de incontinência fecal). 
+Existem também eletrodos superficiais (perineais) ou sistemas magnéticos, mas os mais 
+comuns são internos. 
+Para as incontinências, o treinamento dos músculos do assoalho pélvico (PFMT) é primeira 
+linha; a eletroestimulação pode ser considerada como adjuvante ou ponte para quem não 
+consegue contrair voluntariamente ou quando se busca modular sintomas urinários/a nais. 
+Este código refere-se predominantemente à eletroestimulação intracavitária (intravaginal ou 
+intra-anal) com objetivo de atingir o assoalho pélvico. Não é considerada terapia de primeira 
+linha durante a gestação, devendo ser priorizado, sempre que possível, o treinamento 
+muscular voluntário do assoalho pélvico. Entretanto, a gestação não constitui contraindicação 
+absoluta, pois o procedimento pode ser considerado de forma criteriosa e individualizada, 
+especialmente em gestantes que apresentem dificuldade ou incapacidade de realizar a 
+contração voluntária eficaz da musculatura do assoalho pélvico.  
+Todavia, devem ser respeitadas as contraindicações : gestação de alto risco, sangramento 
+vaginal sem etiologia definida, ameaça de parto prematuro, infecções ativas e dor pélvica sem 
+diagnóstico esclarecido. 
+Caso haja alguma destas contraindicações, ao tempo que foi prescrita a eletroestimulação, 
+levar o caso à Consultoria. 
+ 
+Se cobrado TENS (31602185), deve ser observada a DUT que prevê exclusão para gestantes 
+em algumas situações. O TENS é uma técnica analgésica superficial, aplicada com eletrodos 
+na pele, indicada para controle de dor musculoesquelética e diferente do 202030 20. 
+ 
+Outras técnicas que podem integrar o plano terapêutico perineal que cabem liberação 
+pelo20203020: 
+     Cone vaginal ou dispositivos resistivos  
+     Treino sensório-retal com balão (incontinência fecal, constipação)  
+ 
+    Atenção: para casos vesico-uretrais, antes de liberar o código , observar se a 
+eletroestimulação foi de fato realizada  pelo prestador  e pedida pelo médico . Conforme já 
+exposto na seção Pedido Médico x Cobrança:  
+     Prestador realizou, mas médico não pediu (casos normais sem suspeitas): solicitar 
+A206 A uma vez, não reiterar complemento . Se não for enviado , liberar conforme 
+código 20103190. 
+     Prestador cobrou somente como [fisioterapia] e médico solicitou 
+eletroestimulação: 
+• Casos normais sem suspeitas: liberar 20203020. 
+• Casos com abuso ou suspeitas: liberar 20103190. 
+   Não cabe liberação concomitante de 20103190 + 20203020. Liberar somente 20203020, 
+se aplicável. 
+ 
+            
+
+
+=== PÁGINA 38 ===
+ 
+38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+TUSS 20103107 - Atendimento fisiátrico no pré e pós-parto             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: preparação para o parto (treinamento respiratório, mobilidade 
+pélvica, consciência corporal) ; dores musculoesqueléticas gestacionais (dor lombar 
+gestacional, dor pélvica, dor sacroilíaca) ; alterações posturais na gestação (hiperlordose 
+gravídica); prevenção de lesões no assoalho pélvico durante a gestação ; reabilitação pós-
+parto (recuperação funcional, dor pélvica pós -parto); correção de padrões musculares 
+alterados no pós -parto (fraqueza abdominal profunda, instabilidade lombo -pélvica); 
+disfunção abdominal pós -parto (diástase abdomina l vinculada à gestação , redução da 
+estabilidade do core)  
+       Este código se refere ao atendimento fisioterapêutico voltado para o período 
+gestacional e puerperal, com foco na prevenção e recuperação funcional global. O objetivo 
+é preparar a gestante para o parto, promover bem -estar durante a gravidez e auxiliar na 
+reabilitação pós -parto, contemplando aspectos musculoesqueléticos, posturais e 
+funcionais, sem caráter de tratamento específico para disfunções urinárias ou fecais.  
+Este código não deve ser utilizado para tratamento específico de incontinência urinária ou 
+fecal, mesmo que seja causada pela gestação. Incontinência urinária na gestação é uma 
+condição clínica que requer abordagem específica, não apenas preventiva, sendo a PFMT 
+a primeira linha de tratamento. Portanto, não usar o código pré/pós -parto para tratar 
+incontinência, pois isso descaracteriza a finalidade do código. 
+Para IU (incontinência urinária), utilizar 20103190 (disfunção vésico-uretral) ou 20103646 
+(Reabilitação perineal com biofeedback) , quando esta técnica estiver claramente 
+indicada e realizada. 
+ 
+Ressalta-se que a eletroestimulação intracavitária durante a gestação  não tem 
+contraindicação absoluta, embora haja condições não recomendáveis, conforme já disposto 
+no item anterior 20203020. 
+ 
+Fora as técnicas de assoalho tratadas à parte , no pré-parto as condutas podem envolver 
+treino respiratório e relaxamento  (técnicas diafragmáticas para controle da dor e 
+ansiedade), m obilizações pélvicas e exercícios de quadril , u so de bola suíça e posições 
+facilitadoras. 
+ 
+Já no pós -parto, podem ser utilizados, entre outros: exercícios para diástase abdominal 
+(estabilização do core), técnicas para controle da dor etc. 
+
+
+=== PÁGINA 39 ===
+ 
+39 
+ 
+ 
+TUSS 20103646 - Reabilitação perineal com biofeedback 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: incontinência urinária (esforço, urgência, mista); bexiga 
+hiperativa; retenção urinária; bexiga neurogênica; incontinência fecal; incontinência de 
+gases; constipação funcional crônica; anismo; dor pélvica crônica; síndrome do assoalho 
+pélvico hiperativo; prolapsos genitais; vaginismo; dispareunia; alterações musculares 
+que impactam função sexual; reabilitação pós-operatória após cirurgias pélvicas 
+(histerectomia, prostatectomia, sling uretral, retopexia) 
+        O biofeedback é uma técnica que utiliza sensores (pressão ou eletromiografia) para 
+fornecer feedback visual ou sonoro sobre a contração e relaxamento dos músculos do 
+assoalho pélvico, ajudando o paciente a identificar e executar corretamente os 
+movimentos. Pode ser aplicado por sonda via vaginal ou anal , ou com eletrodos 
+superficiais, sempre sob supervisão de fisioterapeuta especializado. 
+O biofeedback não é considerado tratamento de primeira linha para disfunções pélvicas. 
+Ele é um recurso complementar, utilizado quando há dificuldade de percepção muscular, 
+necessidade de refinar a técnica ou em casos selecionados conforme avaliação 
+médica/fisioterapêutica. Os tratamentos de primeira linha variam conforme a condição 
+(PFMT, terapia comportamental, educação miccional, terapia manual, manejo da dor 
+etc.). 
+    Liberar esse código apenas se  atendidos os três critério s a seguir : 1) a indicação 
+estiver relacionada a região pélvica/perineal ; 2) a técnica for solicitada pelo médico 
+assistente e 3) o prestador descrever a utilização da técnica em relatório. 
+Para mais detalhes das regras de liberação, verificar seção Pedido Médico x Cobrança. 
+Não confundir com o código TUSS 20103131 - Biofeedback com EMG.  Este deve ser 
+reservado a utilização de biofeedback por eletromiografia não relacionada ao assoalho 
+pélvico. 
+     Não cabe liberação concomitante de 20103190 + 20 103646. Liberar somente 
+20103646 se o caso atender aos critérios. 
+ 
+     Quanto à cobrança de 20203020 + 20103646: A reabilitação perineal pode incluir, 
+quando clinicamente indicado, a associação de biofeedback  (Código TUSS 20103646) e 
+eletroestimulação do assoalho pélvico (Código TUSS 20203020) na mesma sessão. Essa 
+combinação é aceita em protocolos de fisioterapia pélvica para potencializar resultados. 
+A associação 20103646 + 20203020  só deve ser liberada quando ambas estiverem 
+explicitamente prescritas  e documentadas (relatório detalha a execução  + pedido 
+médico).  
+     Ressalta-se que a eletroestimulação intracavitária durante a gestação  não tem 
+contraindicação absoluta , embora haja condições não recomendáveis, conforme já 
+disposto no item  anterior 20203020 . Quanto ao biofeedback  realizado com sonda 
+vaginal em gestantes, não há estudos que sinalizem contraindicação específica, não 
+sendo possível efetuar negativas ou pendências. O biofeedback apenas capta e exibe a 
+atividade muscular do assoalho pélvico , não há estímulo  com aplicação de corrente 
+elétrica. 
+ 
+
+
+=== PÁGINA 40 ===
+ 
+40 
+ 
+ 
+TUSS 20103131 - Biofeedback com EMG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: reabilitação neuromuscular pós -operatória; reabilitação de 
+controle motor/padrões do movimento ; distúrbios musculoesqueléticos; reeducação 
+neuromuscular na neurologia; disfunções de coordenação e propriocepção; condições 
+esportivas 
+       O biofeedback com EMG é uma técnica de reabilitação neuromuscular que utiliza 
+eletromiografia de superfície  para captar a atividade elétrica de músculos 
+esqueléticos e fornecer ao paciente um retorno visual ou sonoro em tempo real.  
+Eletrodos adesivos são posicionados sobre o músculo-alvo (como quadríceps, glúteo 
+médio etc. ), permitindo que o paciente visualize a ativação muscular durante o 
+movimento. 
+O objetivo é melhorar o controle motor, corrigir padrões inadequados de ativação, 
+recrutar músculos pouco ativados, reduzir compensações, acelerar a recuperação 
+pós-operatória e aumentar a precisão da contração muscular em contextos 
+ortopédicos, neurológicos e esportivos.  
+O biofeedback com EMG não constitui tratamento de primeira linha para as condições 
+musculoesqueléticas ou neurológicas, sendo utilizado como ferramenta 
+complementar em casos selecionados. Seu uso é indicado quando há dificuldade de 
+ativação muscular, necessidade de aprimoramento do controle motor ou reeducação 
+neuromuscular específica. Em pacientes que respondem bem ao fortalecimento 
+convencional, treino funcional e exercícios de controle motor sem feedback 
+instrumental, o biofeedback EMG não é necessário. 
+Não confundir o uso com o 20103646, que é reservado a disfunções perineais  e 
+vésico-uretrais. 
+ 
+    Liberar esse código apenas se atendidos os seguintes critérios: 1) a técnica for 
+solicitada pelo médico assistente e 2) o prestador cobrar a técnica e descrever sua 
+utilização em relatório, inclusive descrevendo o uso do aparelho de eletromiografia. 
+Para mais detalhes das regras de liberação, verificar seção Pedido Médico x Cobrança. 
+     Não cabe liberação concomitante de código de patologia + 20103131 , pois o 
+biofeedback já engloba o ato fisioterapêutico . Liberar somente 2010 3131 se o caso 
+atender aos critérios. 
+ 
+
+
+=== PÁGINA 41 ===
+ 
+41 
+ 
+ 
+Códigos de fisioterapia respiratória/cardiopulmonar 
+ 
+ 
+TUSS 20103220 - Doenças pulmonares atendidas em ambulatório 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 20103360 - Paciente com D.P.O.C. em atendimento ambulatorial necessitando 
+reeducação e reabilitação respiratória 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: pneumonia; bronquite aguda; tuberculose; bronquiolite; infecções pós-
+virais com complicação pulmonar; infecções virais graves  
+       Este código deve ser utilizado para fisioterapia respiratória em pacientes com doenças 
+pulmonares tratadas em regime ambulatorial, que não se enquadram nos códigos específicos 
+(DPOC, asma, sinusite ou pré/pós-operatório). As doenças pulmonares referem-se a condições que 
+comprometem a ventilação e/ou a troca gasosa, podendo causar inflamação, acúmulo de 
+secreções, redução da complacência pulmonar ou alteração da mecânica respiratória. A 
+fisioterapia atua para otimizar a funç ão respiratória, promover higiene brônquica e prevenir 
+complicações. 
+As abordagens incluem avaliação fisioterapêutica respiratória, técnicas de higiene brônquica 
+(como drenagem postural e vibrocompressão), exercícios respiratórios para expansão pulmonar, 
+uso de dispositivos de incentivo. 
+ 
+Exemplos de indicação: bronquite crônica; enfisema pulmonar 
+       A DPOC é um grupo de doenças respiratórias crônicas caracterizadas por limitação persistente 
+do fluxo aéreo, geralmente não totalmente reversível, associada à inflamação crônica das vias 
+aéreas e destruição do parênquima pulmonar. Os principais fenótipos s ão: 
+• Bronquite crônica  – tosse produtiva por ≥ 3 meses/ano, por pelo menos 2 anos 
+consecutivos. 
+• Enfisema pulmonar  – destruição dos alvéolos, perda da elasticidade pulmonar e 
+hiperinsuflação. 
+• Forma mista – combinação de bronquite crônica e enfisema. 
+A fisioterapia respiratória tem como objetivo melhorar a mecânica respiratória e a ventilação 
+alveolar, reduzir a dispneia e otimizar a oxigenação, além de promover técnicas de higiene 
+brônquica para controle de secreções. Também busca reeducar padrões respiratórios, fortalecer 
+a musculatura respiratória e contribuir para a melhora da capacidade funcional e da qualidade de 
+vida, reduzindo o risco de exacerbações e hospitalizações. 
+Podem ser realizadas técnicas de higiene brônquica (drenagem postural, vibrocompressão), 
+exercícios respiratórios para expansão pulmonar, treino diafragmático, uso de dispositivos de 
+incentivo e fortalecimento da musculatura respiratória. Asma não é DPOC e tem código próprio 
+(20103255). 
+
+
+=== PÁGINA 42 ===
+ 
+42 
+ 
+TUSS 20103255 - Exercícios para reabilitação do asmático (ERAI) - por sessão 
+individual 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 20103069 - Assistência fisiátrica respiratória em pré e pós-operatório de 
+condições cirúrgicas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 20103719 - Sinusites 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: sinusite aguda ou crônica 
+ 
+       Este código refere-se ao tratamento fisioterapêutico de sinusites, que são inflamações dos 
+seios paranasais, que fazem parte das vias aéreas superiores, podendo ser agudas ou crônicas. 
+Não envolvem comprometimento da ventilação pulmonar ou troca gasosa , não se aplicando, 
+portanto, o código 20103220 . As causas mais comuns incluem infecções virais, bacterianas ou 
+fúngicas, além de alergias e fatores que obstruem as vias nasais, dificultando a drenagem das 
+secreções. 
+ 
+Exemplos de indicação: asma 
+ 
+       Asma é uma doença inflamatória crônica das vias aéreas, caracterizada por episódios 
+recorrentes de falta de ar, chiado no peito, tosse e sensação de aperto no tórax.  
+A asma não é considerada DPOC porque apresenta mecanismos fisiopatológicos distintos: 
+enquanto a DPOC envolve limitação persistente e não totalmente reversível do fluxo aéreo, 
+geralmente associada a bronquite crônica e enfisema, a asma caracteriza -se por o bstrução 
+variável e reversível, com inflamação das vias aéreas e  hiperresponsividade brônquica  por 
+estímulos como poeira, fumaça, mudanças de temperatura, esforço físico ou alérgenos.  Além 
+disso, a resposta ao tratamento é diferente, sendo a asma altamente  responsiva a 
+broncodilatadores e corticosteroides, ao passo que a DPOC mantém obstrução mesmo após 
+terapia. 
+ 
+São feitos exercícios respiratórios para expansão pulmonar, treino diafragmático, técnicas de 
+controle da respiração (como respiração com lábios semicerrados), uso de dispositivos de 
+incentivo, exercícios aeróbicos leves e progressivos, fortalecimento da musculatura respiratória 
+e global. 
+ 
+ 
+Exemplos de indicação: cirurgias abdominais (bariátrica, colecistectomia, hérnia, apendicectomia) ; 
+cirurgias torácicas (lobectomia, mastectomia, cirurgia cardíaca) ; procedimentos que envolvam 
+anestesia geral e risco de complicações respiratórias 
+ 
+       Este código é utilizado para fisioterapia respiratória em pacientes submetidos a 
+procedimentos cirúrgicos, com foco na prevenção e tratamento de complicações 
+respiratórias no período pré  e pós-operatório. A intervenção fisioterapêutica é essencial para 
+otimizar a função pulmonar, reduzir risco de atelectasia, pneumonia e tromboembolismo, além 
+de acelerar a recuperação funcional. 
+Visa melhorar a ventilação alveolar, promover higiene brônquica, prevenir complicações 
+pulmonares, reduzir dor relacionada à mecânica respiratória e reeducar padrões ventilatórios. No 
+pré-operatório, busca preparar o paciente para o procedimento, enquanto n o pós -operatório 
+atua para restaurar a função respiratória e prevenir sequelas.  
+
+
+=== PÁGINA 43 ===
+ 
+43 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Códigos de fisioterapia em regime de internação 
+ 
+ 
+TUSS 20203047 - Assistência fisiátrica respiratória em doente clínico internado 
+  
+TUSS 20203012 - Assistência fisiátrica respiratória em paciente internado com 
+ventilação mecânica  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A intervenção visa melhorar a ventilação das vias aéreas superiores, facilitar a drenagem das 
+secreções e reduzir sintomas como congestão e dor facial. As técnicas podem incluir drenagem 
+postural, manobras para higiene das vias aéreas, exercícios respirató rios e, em alguns casos, 
+recursos complementares como nebulização. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: paciente em UTI com ventilação mecânica prolongada ; pós-operatório de 
+cirurgia de grande porte com necessidade de suporte ventilatório  
+ 
+       Este procedimento destina -se a pacientes internados sob ventilação mecânica invasiva ou 
+não invasiva, que apresentam risco de complicações respiratórias decorrentes da ventilação 
+prolongada e da imobilidade. A fisioterapia respiratória tem como finalidade otimizar a mecânica 
+ventilatória, prevenir complicações como pneumonia associada à ventilação, atelectasias e 
+retenção de secreções, além de auxiliar no processo de desmame ventilatório.  
+As abordagens incluem ajuste e monitoramento da interação paciente -ventilador, aspiração 
+traqueal conforme protocolos, mobilização passiva ou ativa conforme tolerância, técnicas para 
+manutenção da complacência pulmonar e treino progressivo para desmame.  
+ 
+ 
+ 
+Exemplos de indicação:  paciente internado com doença pulmonar aguda ou crônica 
+descompensada; pós-operatório clínico com risco de complicações respiratórias  
+ 
+       Este procedimento destina -se a pacientes internados com comprometimento respiratório 
+decorrente de condições clínicas , que apresentam risco de complicações respiratórias 
+decorrentes da imobilidade ou da doença de base. A fisioterapia respiratória tem como finalidade 
+prevenir e tratar complicações pulmonares , como atelectasia, retenção de secreções e 
+infecções respiratórias, além de otimizar a função ventilatória.  
+ 
+As condutas incluem avaliação fisioterapêutica respiratória completa, técnicas de higiene 
+brônquica (drenagem postural, vibrocompressão), exercícios respiratórios (inspiração profunda, 
+treino diafragmático), uso de dispositivos de incentivo e mobilização precoce, quando possível. 
+
+
+=== PÁGINA 44 ===
+ 
+44 
+ 
+ 
+ 
+TUSS 20203071 - Pacientes em pós-operatório de cirurgia cardíaca, hospitalizado, até 8 
+semanas de programa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 20203063 - Pacientes com doença isquêmica do coração, hospitalizado, até 8 semanas 
+de programa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: pós-operatório imediato de cirurgia cardíaca (ex.: revascularização do 
+miocárdio, troca valvar); paciente internado em UTI ou enfermaria após procedimento cardíaco 
+com risco de complicações respiratórias e motoras 
+ 
+       Este procedimento destina -se a pacientes hospitalizados no pós -operatório de cirurgia 
+cardíaca, com o objetivo de prevenir complicações respiratórias, musculoesqueléticas e 
+circulatórias, além de promover recuperação funcional segura. A fisioterapia atua para otimizar a 
+ventilação pulmonar, prevenir atelectasias, reduzir risco de infecção, melhorar a mobilidade e 
+auxiliar na retomada gradual das atividades. 
+Compreende exercícios respiratórios com dispositivos de incentivo, técnicas de higiene 
+brônquica, mobilização precoce (passiva, ativa -assistida e ativa), treino de sedestação e 
+ortostatismo, exercícios leves para membros, monitoramento da resposta cardiovascular ao 
+esforço. 
+Após 8 semanas de internação, se o paciente ainda continuar internado, pode-se utilizar o 
+código 20103727 (Reabilitação cardíaca supervisionada. Programa de 12 semanas. Duas a três 
+sessões por semana [por sessão]) para continuidade da RCV supervisionada no hospital, com 
+justificativa clínica. Para mais informações sobre RCV, consulte a seção “Códigos de fisioterapia 
+cardiovascular”. 
+ 
+ 
+ 
+ 
+Exemplos de indicação: internação por angina instável; pós-infarto agudo do miocárdio 
+(tratamento clínico ou angioplastia); paciente com insuficiência coronariana em fase aguda ou 
+subaguda 
+ 
+       Este procedimento destina -se a pacientes hospitalizados com doença isquêmica do 
+coração, visando prevenir complicações cardiovasculares, otimizar a função cardiorrespiratória 
+e promover recuperação funcional segura. A fisioterapia atua para melhorar a tole rância ao 
+esforço, reduzir risco de eventos tromboembólicos, prevenir perda muscular e auxiliar na 
+retomada gradual das atividades, sempre respeitando parâmetros hemodinâmicos e 
+protocolos de segurança. 
+É feita a valiação fisioterapêutica completa com monitoramento de sinais vitais, exercícios 
+respiratórios para otimização da ventilação, mobilização precoce (passiva, ativa -assistida e 
+ativa), treino de sedestação e ortostatismo, exercícios leves para membros com pr ogressão 
+controlada. 
+Após 8 semanas de internação, se o paciente ainda continuar internado, pode-se utilizar o 
+código 20103727 (Reabilitação cardíaca supervisionada. Programa de 12 semanas. Duas a três 
+sessões por semana [por sessão]) para continuidade da RCV supervisionada no hospital, com 
+justificativa clínica. Para mais informações sobre RCV, consulte a seção “Códigos de 
+fisioterapia cardiovascular”. 
+ 
+
+
+=== PÁGINA 45 ===
+ 
+45 
+ 
+ 
+ 
+ 
+TUSS 50000365 - Atendimento fisioterapêutico hospitalar ao paciente com disfunção 
+decorrente de alterações do sistema músculo-esquelético 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 50000390 - Atendimento fisioterapêutico hospitalar ao paciente com disfunção 
+decorrente de queimaduras 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: pós-operatório ortopédico ; disfunções musculoesqueléticas por trauma 
+ou imobilização prolongada ; alterações decorrentes de doenças reumáticas ou congênitas ; 
+comprometimento neuromuscular associado à internação 
+ 
+       Este procedimento destina -se a pacientes hospitalizados que apresentam disfunções 
+musculoesqueléticas, sejam elas decorrentes de trauma, cirurgia ortopédica, doenças 
+reumáticas, alterações congênitas ou condições neuromusculares. O objetivo é prevenir 
+complicações como rigidez articular, perda de força, trombose venosa profunda e 
+comprometimento funcional, além de promover recuperação segura e otimizar a mobilidade.  
+As condutas podem envolver mobilização precoce (passiva, ativa -assistida e ativa), exercícios 
+para manutenção ou ganho de amplitude de movimento, fortalecimento progressivo, treino 
+funcional (sedestação, ortostatismo, marcha), técnicas para controle da dor (termoterapia, 
+eletroterapia). 
+ 
+Exemplos de indicação: paciente internado com queimaduras extensas em membros ou tronco ; 
+pós-cirurgia para enxertos cutâneos ; queimaduras que comprometem mobilidade articular ou 
+função respiratória 
+ 
+       Este procedimento destina -se a pacientes hospitalizados com disfunções decorrentes de 
+queimaduras, que podem causar restrição de movimento, dor intensa, risco de contraturas e 
+comprometimento funcional. A fisioterapia tem como objetivo prevenir deformidades, manter ou 
+recuperar amplitude de movimento, reduzir dor, preservar função respiratória (quando há 
+envolvimento torácico) e preparar para reabilitação pós-alta. 
+As abordagens podem envolver posicionamento funcional para prevenção de contraturas, 
+mobilização precoce (passiva e ativa conforme tolerância), exercícios para manutenção da 
+amplitude articular, técnicas para controle da dor (termoterapia, eletroterapia quando 
+permitido), treino respi ratório em casos de queimaduras torácicas, orientações para cuidados 
+com enxertos e prevenção de complicações circulatórias. 
+ 
+
+
+=== PÁGINA 46 ===
+ 
+46 
+ 
+ 
+ 
+ 
+ 
+TUSS 50000403 - Atendimento fisioterapêutico hospitalar ao paciente com disfunção 
+decorrente de alterações do sistema linfático e/ou vascular periférico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 50000454 - Atendimento fisioterapêutico hospitalar para alterações inflamatórias e ou 
+degenerativas do aparelho genito-urinário, reprodutor e/ou proctológico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: linfedema pós-cirurgia oncológica ou pós -trauma; edema importante por 
+insuficiência venosa crônica ; alterações vasculares periféricas associadas à imobilização 
+prolongada 
+ 
+       Este procedimento destina -se a pacientes hospitalizados que apresentam disfunções 
+decorrentes de alterações do sistema linfático e/ou vascular periférico, como linfedema ou 
+edema venoso significativo. O objetivo da fisioterapia é reduzir o edema, prevenir complicações 
+como infecções e trombose, melhorar a circulação periférica e preservar a funcionalidade do 
+membro acometido. 
+As condutas podem envolver posicionamento adequado para drenagem, mobilização precoce, 
+exercícios ativos para estímulo circulatório, técnicas de drenagem linfática manual (quando 
+indicadas), cuidados com compressão elástica conforme protocolo médico . 
+ 
+Exemplos de indicação: processos inflamatórios pélvicos (ex.: doença inflamatória pélvica, 
+endometrite, prostatite); pós-operatório complexo urológico, ginecológico ou proctológico com 
+risco funcional 
+ 
+       Este procedimento destina -se a pacientes hospitalizados com disfunções decorrentes de 
+alterações inflamatórias ou degenerativas do aparelho genito -urinário, reprodutor ou 
+proctológico. O objetivo é prevenir complicações como dor crônica, aderências e perda funcional 
+do assoalho pélvico, além de promover recuperação segura. 
+As condutas podem envolver técnicas para analgesia e relaxamento pélvico, exercícios 
+respiratórios associados à mobilidade pélvica, mobilização precoce . 
+Este código não deve ser utilizado para atendimento pós -parto fisiológico ou cesariana sem 
+complicações. Para esses casos, utilizar o código 20103107 – Atendimento fisiátrico no pré e pós-
+parto, que é o único disponível para essa finalidade, mesmo quando o  atendimento ocorre em 
+regime hospitalar. 
+
+
+=== PÁGINA 47 ===
+ 
+47 
+ 
+ 
+ 
+ 
+TUSS 50000799 - Atendimento fisioterapêutico hospitalar ao paciente independente ou com 
+dependência parcial, com disfunção decorrente de lesão do sistema nervoso central e/ou 
+periférico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 50000802 - Atendimento fisioterapêutico hospitalar ao paciente dependente com 
+disfunção decorrente de lesão do sistema nervoso central e/ou periférico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: acidente vascular cerebral (AVC) com déficit motor leve a moderado ; 
+traumatismo cranioencefálico com recuperação funcional parcial ; lesões medulares incompletas ; 
+neuropatias periféricas com preservação parcial da mobilidade  
+ 
+       Destina-se a pacientes hospitalizados que apresentam disfunções neurológicas decorrentes 
+de lesões do SNC ou SNP, mas que mantêm independência ou dependência parcial. O objetivo 
+é prevenir complicações secundárias (contraturas, úlceras de pressão, perda funcional), 
+promover mobilidade segura e otimizar a recuperação neurológica.  
+As condutas po ssíveis podem ser m obilização precoce e posicionamento funcional , exercícios 
+passivos e ativos assistidos para manutenção de amplitude articular , t reino respiratório e 
+prevenção de complicações pulmonares  e e stímulo sensório -motor para reorganização 
+neurológica. 
+ 
+Exemplos de indicação: acidente vascular cerebral (AVC) com dependência funcional total ; lesão 
+medular completa ; traumatismo cranioencefálico grav e; polineuropatias severas com perda de 
+mobilidade 
+ 
+       Destina-se a pacientes hospitalizados com dependência funcional significativa decorrente 
+de lesões neurológicas centrais ou periféricas. O objetivo é prevenir complicações secundárias 
+(contraturas, úlceras de pressão, complicações respiratórias), manter funções vitais e promover 
+mobilidade mínima segura. 
+As abordagens possíveis podem ser mobilização passiva e posicionamento para prevenção de 
+deformidades, exercícios respiratórios para otimizar ventilação e prevenir atelectasias , 
+Estímulos sensório-motores para manutenção de trofismo muscular , técnicas para prevenção 
+de complicações circulatórias e pulmonares. 
+
+
+=== PÁGINA 48 ===
+ 
+48 
+ 
+ 
+ 
+Códigos de fisioterapia cardiovascular 
+ 
+ 
+1. Conceito Geral e Definições da Reabilitação Cardiovascular (RCV) 
+ 
+ 
+A Reabilitação Cardiovascular  (RCV) é definida como o conjunto de atividades necessárias 
+para garantir que pessoas com Doenças Cardiovasculares (DCV) atinjam uma condição física, 
+mental e social ótima, permitindo-lhes ocupar um lugar o mais normal possível na sociedade. 
+A RCV é uma estratégia de intervenção multidisciplinar e um componente essencial do 
+tratamento clínico pleno das DCV. Ela é comprovadamente eficaz na redução da 
+morbimortalidade cardiovascular e global, além de promover um expressivo ganho na 
+qualidade de vida. 
+O objetivo principal é atingir uma melhora dos componentes da aptidão física – tanto aeróbicos 
+quanto não aeróbicos (força/potência muscular, flexibilidade, equilíbrio) – de modo a reduzir 
+o risco de eventos cardiovasculares. 
+A segurança do programa de reabilitação cardiovascular é garantida pela adequada 
+estratificação de risco dos pacientes e pela disponibilidade de recursos essenciais no local das 
+sessões, incluindo cardiodesfibrilador e materiais de suporte básico e avançado de vida.  
+Pacientes de alto risco, como aqueles com descompensação recente ou baixa capacidade 
+funcional (< 5 METs), requerem monitoramento mais rigoroso, podendo incluir aferição de 
+frequência cardíaca, pressão arterial, saturação de oxigênio, glicemia e, quando in dicado, 
+monitorização eletrocardiográfica. O ambiente deve dispor de equipamentos apropriados para 
+exercícios aeróbicos e fortalecimento muscular, assegurando a abrangência dos componentes 
+da aptidão física e a segurança durante toda a intervenção. 
+A RCV é indicada para pacientes em prevenção secundária (após um evento cardíaco) e para 
+pacientes em prevenção primária (alto risco), abrangendo um amplo espectro de condições. 
+Pacientes elegíveis incluem (mas não se limitam a): 
+• Pós-Eventos/Intervenções: Infarto Agudo do Miocárdio (IAM), Síndrome Coronariana 
+Aguda (SCA), Cirurgia de Revascularização do Miocárdio (CRVM), Intervenção 
+Coronária Percutânea (ICP, como stent), reparo ou troca valvular, Transplante Cardíaco 
+(TxC), e Portadores de Marcapasso (MP) ou Cardioversor Desfibrilador Implantável 
+(CDI). 
+• Condições Crônicas: Angina estável, Insuficiência Cardíaca (IC) crônica, Doença Arterial 
+Obstrutiva Periférica (DAOP), e outras cardiopatias específicas. 
+• Alto Risco (Prevenção Primária): Pacientes sem doença cardiovascular manifesta, mas 
+com múltiplos fatores de risco descontrolados (e.g., Hipertensão Arterial Sistêmica – 
+HAS, Diabetes Mellitus – DM) e classificados como de alto risco cardiovascular. 
+ 
+ 
+ 
+ 
+
+=== PÁGINA 49 ===
+ 
+49 
+ 
+ 
+ 
+2. Estrutura, Fases e Componentes da RCV 
+ 
+Definições sobre Doença Arterial Coronariana 
+ 
+DAC é uma condição clínica caracterizada por obstrução das artérias coronárias, geralmente 
+por aterosclerose. 
+• Pode ser tratada clinicamente (medicação, mudança de estilo de vida) ou com 
+intervenções (ICP – angioplastia com stent, ou CRVM – cirurgia de revascularização). 
+ 
+A definição de pós -cirúrgico refere-se a pacientes que já passaram por uma intervenção 
+aberta, como: 
+• CRVM (cirurgia de ponte de safena/mamária) 
+• Reparo ou troca valvar 
+• Transplante cardíaco 
+Portanto, nem todo paciente com DAC é cirúrgico , e m uitos permanecem apenas em 
+tratamento clínico. A angioplastia com stent é invasivo, mas não é cirúrgico aberto, portanto, 
+não se enquadra como pós-cirúrgico. Os códigos são distintos para os dois cenários. 
+ 
+ 
+A RCV é um programa estruturado, caracterizado pela atuação de uma equipe especializada 
+e por um sistema de fases progressivas. 
+A. Equipe Multiprofissional 
+O núcleo da equipe é formado por médicos (líderes, responsáveis pela avaliação e limites de 
+segurança), educadores físicos, fisioterapeutas (que atuam na prescrição e supervisão dos 
+exercícios), e profissionais de enfermagem. Outros profissionais, como nut ricionistas e 
+psicólogos/assistentes sociais, são importantes para o tratamento integral e educacional.  
+Embora não haja diretriz rígida sobre os limites de atuação, o fisioterapeuta normalmente 
+atua como executor nas fases 1 e 2 e o educador físico nas fases 3 e 4. 
+• São passíveis de reembolso atendimentos feitos por fisiatra, fisioterapeuta e 
+cardiologistas. Se realizado por educador físico, negar com N226. 
+B. Fases da Reabilitação Cardiovascular 
+A duração da RCV pode variar conforme o quadro clínico e a evolução do treinamento físico. 
+O enquadramento, a manutenção ou a reclassificação do perfil de risco devem ser 
+determinados pela avaliação médica pré -participação e por reavaliações subsequentes, 
+realizadas pelo médico e dem ais integrantes da equipe.  As durações apresentadas são 
+médias estimadas, podendo variar conforme a evolução clínica individual, conforme 
+evidências científicas. 
+ 
+Fase 1 – Hospitalar 
+• Quando ocorre: Durante a internação, logo após o evento agudo (ex: infarto, cirurgia 
+cardíaca, angioplastia).  
+• Local: Intra-hospitalar. 
+ 
+
+
+=== PÁGINA 50 ===
+ 
+50 
+ 
+ • Objetivos:  
+o Prevenir perda de capacidade funcional e complicações do repouso 
+prolongado. 
+o Iniciar mobilização precoce e orientar sobre autocuidado. 
+o Reduzir ansiedade, depressão e risco de complicações respiratórias e 
+tromboembólicas. 
+• Atividades:  
+o Feitas com monitorização . Envolve e xercícios respiratórios quando indicados, 
+mobilização leve de curta duração  no leito, sedestação e ortostatismo, treino 
+funcional básico, deambulação no quarto ou corredor do hospital. 
+o Educação sobre a doença, fatores de risco e importância da reabilitação.  
+• Duração:  
+o Do momento da estabilização clínica até a alta hospitalar. 
+ 
+Fase 2 – Ambulatorial (Convalescença) 
+• Quando ocorre: Após a alta hospitalar, geralmente nas primeiras semanas a meses.  
+• Local: Ambulatorial (clínica/centro de reabilitação). 
+• Objetivos: 
+o Recuperar a capacidade funcional e promover adaptação ao esforço. 
+o Iniciar exercícios supervisionados, com progressão gradual de intensidade.  
+o Trabalhar controle de fatores de risco e adesão ao tratamento. 
+• Atividades:  
+o É feito com monitorização dos parâmetros clínicos (FC, PA , SpO2, sintomas e 
+escala de Borg). Engloba e xercícios aeróbicos  (esteira, bicicleta ergométrica, 
+elíptico com progressão), de resistência (pesos leves, faixa elástica), exercícios 
+de flexibilidade e alongamento . Pode haver treino respiratório adjuvante 
+quando indicado, para otimizar desempenho no exercício (padrão ventilatório, 
+inspirometria/IMT [Inspiratory Muscle Training]).  
+o Sessões supervisionadas por equipe multiprofissional (médico, fisioterapeuta, 
+educador físico etc.). 
+o Educação continuada e apoio psicológico. 
+ 
+• Duração:  
+o Em média de 1 a 3 meses, podendo variar conforme evolução do paciente. 
+Fase 3 – Manutenção Precoce 
+• Quando ocorre: Após a fase 2, com o paciente já adaptado ao programa. 
+• Local: Ambulatorial ou semissupervisionado (em ambiente externo ao de saúde). 
+• Objetivos:  
+o Manter ou aumentar a capacidade funcional. 
+o Consolidar mudanças de estilo de vida e promover autonomia. 
+o Reduzir risco de novos eventos cardiovasculares. 
+• Atividades:  
+o Exercícios regulares (3 a 5 vezes por semana), podendo ser supervisionados ou 
+semissupervisionados. 
+o Monitoramento periódico da evolução clínica e funcional. 
+• Duração:  
+o De 3 a 6 meses, podendo se estender conforme necessidade. 
+ 
+Fase 4 – Manutenção Tardia / Vida Longa 
+• Quando ocorre: Após completar as fases anteriores. 
+• Local: Domiciliar (RCVD) ou em academias. 
+• Objetivos:  
+o Estimular a prática de atividade física regular e manutenção dos hábitos 
+saudáveis ao longo da vida. 
+o Prevenir recaídas e garantir adesão ao tratamento. 
+
+
+=== PÁGINA 51 ===
+ 
+51 
+ 
+ 
+3. Interpretação dos Códigos TUSS na Perspectiva da RCV 
+ 
+TUSS 20103379 - Paciente em pós-operatório de cirurgia cardíaca, atendido em ambulatório, 
+duas a três vezes por semana 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 20103395 - Pacientes com doença isquêmica do coração, atendido em ambulatório, até 
+8 semanas de programa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Atividades:  
+o Exercícios físicos incorporados à rotina diária, com ou sem supervisão.  
+o Reavaliações periódicas para ajuste da prescrição e reforço das orientações.  
+• Duração:  
+o Indeterminada, idealmente para toda a vida. 
+ 
+ 
+Os códigos TUSS em sua temporalidade e foco se alinham às fases  1 e 2 da RCV, sendo a Fase 2 
+(Supervisionada) o período mais frequentemente detalhado. 
+Conforme exposto, a RCV realizada em clínica não se trata de fisioterapia convencional, sendo 
+um conjunto de intervenções complexas . O fato de o paciente apresentar diagnóstico 
+cardiológico (ex: insuficiência cardíaca, fibrilação atrial) não significa, por si só, que está sendo 
+submetido a um programa de reabilitação cardiovascular. É fundamental analisar o pedido 
+médico e o relatório do fisioterapeuta: se a conduta está voltada para reabilitação motora, 
+respiratória ou funcional geral, sem os elementos característicos da RCV (estratificação de risco, 
+monitoramento, protocolos específicos), o enquadramento deve ser como fisioterapia 
+convencional.  
+Se não houver relatório do prestador e o médico não indicou reabilitação cardíaca de forma 
+explícita (e sim fisioterapia cardiopulmonar, motora, entre outras), aguardar A107 a fim de 
+identificar o atendimento de fato realizado. 
+ 
+ Código exclusivo para RCV em pacientes no pós-operatório de cirurgias cardíacas, incluindo 
+revascularização, cirurgias valvares e congênitas, normalmente se encaixando na Fase 2 Pós-
+Alta. A intervenção exige cuidados específicos, como restrições de carga nos Membros 
+Superiores (MMSS) nas primeiras 6 a 8 semanas devido à esternotomia.  
+ Corresponde ao início da RCV em pacientes com doença isquêmica, representando a etapa 
+inicial da Fase 2. Indicado nas primeiras 8 semanas após evento ou em casos estáveis, com foco 
+na convalescença inicial. 
+ 
+O analista deve verificar a data de início do programa ambulatorial e comparar com a data 
+do seu evento: 
+• Se estiver até 8 semanas, utilizar este código (20103395). 
+• Se estiver entre 8 e 24 semanas, aplicar TUSS 20103387. 
+Se o paciente estiver em pós-operatório de cirurgia cardíaca, utilizar TUSS 20103379. 
+
+
+=== PÁGINA 52 ===
+ 
+52 
+ 
+ 
+ 
+TUSS 20103387 - Pacientes com doença isquêmica do coração, atendido em ambulatório de 
+8 a 24 semanas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 20103417 – Pacientes sem doença coronariana clinicamente manifesta, mas 
+considerada de alto risco, atendido em ambulatório, duas a três vezes por semana 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Representa a continuidade do programa ambulatorial após o período inicial (até 8 semanas), 
+Fase 2 . Corresponde à progressão dos exercícios e à consolidação da estabilidade clínica, 
+normalmente entre 8 e 24 semanas após o evento. A transição para a Fase 3 (manutenção 
+precoce) depende da avaliação clínica individual, podendo ocorrer antes ou depois dess e 
+período, conforme a evolução do paciente. 
+ 
+Verificar a data de início do programa ambulatorial  e comparar com a data do evento  do 
+sinistro:  
+• Se até 8 semanas, aplicar TUSS 20103395. 
+• Se entre 8 e 24 semanas, aplicar este código (20103387). 
+• Se pós-operatório de cirurgia cardíaca, aplicar TUSS 20103379. 
+• Se após 24 semanas e houver indicação para a continuidade, aplicar 20103727. 
+ 
+ 
+       Quando falamos em doença isquêmica do coração, estamos nos referindo à consequência 
+da DAC  (doença arterial coronariana ), que é a obstrução das artérias coronárias levando à 
+redução do fluxo sanguíneo para o miocárdio (isquemia). 
+ 
+Nem todo paciente com DAC apresenta sintomas; alguns estão em fase assintomática ou apenas 
+em prevenção. 
+  
+Para a doença coronária assintomática , é realizada RCV com modelo estrutural da fase 2  em 
+diante, com ajuste da intensidade conforme o perfil clínico. É direcionada ao controle de fatores 
+de risco, não à recuperação pós-evento. 
+ 
+Orientações:  
+• Não se aplica a pacientes com doença coronariana já manifesta  (nesses casos, usar 
+códigos específicos como 20103395, 20103387 ou 20103727). 
+• Confirmar que não há diagnóstico clínico ou evento coronariano prévio  (infarto, 
+angina instável, angioplastia, cirurgia cardíaca). 
+ 
+
+
+=== PÁGINA 53 ===
+ 
+53 
+ 
+ 
+ 
+TUSS 20103727 - Reabilitação cardiovascular supervisionada. Programa de 12 semanas. Duas 
+a três sessões por semana (por sessão)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Código de fisioterapia linfática 
+ 
+ 
+TUSS 20103212- Distúrbios circulatórios artério-venosos e linfáticos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       A nomenclatura deste código é abrangente, podendo ser aplicada tanto para situações intra -
+hospitalares (ver códigos hospitalares 20203071 e 20203063) quanto ambulatoriais, e para todas 
+as etiologias. 
+No entanto, estabelecem-se as seguintes relações e orientações: 
+• Doença isquêmica: 
+Utilizar os códigos específicos para até 8 e 24 semanas; após esse período, migrar para o 
+20103727 se houver indicação clínica de continuidade da reabilitação supervisionada.  
+• Pós-operatório de cirurgia cardíaca: 
+Manter o código específico 20103379, visto que não há restrição de tempo para sua 
+utilização enquanto houver indicação clínica. 
+• Alto risco: 
+Manter o código específico 20103417, exceto se houver cobrança específica pelo 
+prestador ou solicitação formal do médico assistente para uso do 20103727. Isso porque 
+a diferença de CRS entre os dois é considerável (o que não ocorre com isquemia nem 
+pós-operatório), e a utilização do 20103417 pode gerar questionamentos.  
+• Situação de internação prolongada: 
+Embora a nomenclatura do 20103727 remeta à RCV de Fase 2 ambulatorial (12 semanas), 
+este código pode ser liberado após 8 semanas de internação, caso o paciente ainda 
+esteja internado e necessite dar continuidade à RCV. Os códigos hospitalares limitam -se 
+a 8 semanas, sendo o 20103727 a alternativa para continuidade do tratamento 
+supervisionado em regime hospitalar, desde que devidamente justificado.  
+ 
+ 
+ 
+Exemplos de indicação: linfedema; lipedema; insuficiência venosa crônica (incluindo varizes, 
+síndrome pós-trombótica, úlceras venosas e edema venoso); doença arterial periférica estável 
+(especialmente na fase de reabilitação ou após revascularização); distúrbios circulatórios mistos 
+(venoso e linfático) 
+ 
+       A fisioterapia nesses casos tem como objetivos reduzir o edema e a dor, melhorar o retorno 
+venoso e linfático, prevenir complicações como úlceras e infecções e promover ganho funcional. 
+As condutas incluem drenagem linfática manual, terapia compressiva (bandagens, meias 
+elásticas), cinesioterapia e exercícios específicos para ativação da bomba muscular, cuidados com 
+a pele, orientações posturais e de autocuidado, além do uso de recursos a djuvantes como 
+pressoterapia ou laser terapêutico, quando indicado. 
+ 
+
+
+=== PÁGINA 54 ===
+ 
+54 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Código de reeducação e/ou reabilitação de distúrbios 
+craniofaciais 
+ 
+ 
+TUSS 20103654 - Recuperação funcional de distúrbios crânio-faciais 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: pós-cirurgia ortognática (correção de deformidades faciais) ; pós-trauma 
+crânio-facial (fraturas, lesões musculares) ; disfunções temporomandibulares (DTM) com limitação 
+funcional; pós-reconstrução de mandíbula ou maxila ; plagiocefalia, bruxismo; alterações musculares 
+secundárias a tumores ou ressecções cirúrgicas localizados na região crânio-facial 
+       Voltado para reabilitação funcional de alterações musculoesqueléticas e neuromotoras da 
+região crânio -facial, que podem comprometer mastigação, deglutição, fala, expressão facial e 
+respiração. Geralmente indicado após cirurgias, traumas ou doenças que afetam a musculatura e 
+articulações da face. 
+O encaminhamento por vezes é feito por cirurgião -dentista (CRO), o que é aceito, conforme já 
+discorrido neste manual. 
+Plagiocefalia é uma deformidade craniana, geralmente em bebês, causada por pressão prolongada 
+em uma área da cabeça (ex.: posição supina por muito tempo).  
+O tratamento pode envolver:  
+• Reposicionamento e estimulação motora (fisioterapia). 
+• Órtese craniana (capacete) para remodelar o crânio. Não há cobertura para órtese, devendo 
+ser negada com a crítica N253 RN 465 para apólices da lei. 
+ 
+As condutas podem envolver: 
+• Exercícios de mobilidade facial: movimentos ativos e passivos para lábios,  
+• bochechas, mandíbula. 
+• Treino funcional de mastigação e deglutição: exercícios com alimentos  
+adaptados e dispositivos. 
+• Fortalecimento muscular: resistência manual ou com elásticos específicos  
+para região facial. 
+• Técnicas de liberação miofascial: para reduzir aderências e melhorar amplitude. 
+• Treino respiratório e fonatório: integração com fonoaudiologia quando necessário. 
+• Recursos complementares: termoterapia, eletroestimulação para músculos faciais. 
+ 
+Atenção: 
+• Não pagamos com finalidade estética (ex.: redução de medidas). Se for o caso, negar 
+com N236 (acionar a consultoria para confirmação). 
+• Quanto à terapia compressiva, pagamos conforme sessão. Cobranças das bandagens e 
+meias não são cobertas, N253. 
+• Pressoterapia e laser terapêutico são fora ROL (N205) ou fora tabela em pré-lei (N336). 
+• Sobre a drenagem linfática, já abordada neste manual. 
+ 
+
+=== PÁGINA 55 ===
+ 
+55 
+ 
+ 
+ 
+ 
+ 
+Códigos de reeducação e reabilitação neuro-músculo-
+esquelética 
+ 
+ 
+TUSS 20103271 - Hemiplegia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 20103263 - Hemiparesia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: sequelas pós-AVC (isquêmico ou hemorrágico), com déficit motor unilateral, 
+hemiplegia congênita; lesões neurológicas adquiridas (traumatismo cranioencefálico, tumores, infecções 
+do SNC) 
+       Reabilitação funcional de pacientes com hemiplegia, condição caracterizada por paralisia 
+completa de um lado do corpo, geralmente causada por lesão neurológica central (ex.: AVC, 
+traumatismo cranioencefálico). 
+O tratamento visa recuperar força e amplitude articular, melhorar equilíbrio e marcha, prevenir 
+complicações secundárias e estimular mecanismos de neuroplasticidade. As intervenções 
+recomendadas são cinesioterapia ativa e assistida, treino de marcha e equilíbrio, terapia de espelho e 
+treino bilateral, estimulação sensorial e proprioceptiva, exercícios funcionais.  
+Exemplos de indicação: sequelas pós-AVC (isquêmico ou hemorrágico), com déficit motor unilateral ; 
+hemiparesia congênita; lesões neurológicas adquiridas (traumatismo cranioencefálico, tumores, 
+infecções do SNC) 
+ Hemiparesia é a paralisia parcial de um lado do corpo, geralmente decorrente de lesão 
+neurológica central, como Acidente Vascular Cerebral (AVC), traumatismo cranioencefálico ou outras 
+condições que afetam o sistema nervoso. Diferente da hemiplegia (paralisia completa), a hemiparesia 
+mantém algum grau de movimento voluntário, mas com fraqueza significativa e alterações de tônus 
+(espasticidade ou flacidez). 
+Os objetivos são recuperar força muscular e amplitude articular, melhorar equilíbrio, marcha e controle 
+postural, p revenir complicações secundárias (contraturas, dor no ombro, deformidades) , estimular 
+mecanismos de neuroplasticidade para reintegração funcional. 
+ 
+As intervenções recomendadas são cinesioterapia ativa e assistida, treino de marcha e equilíbrio, terapia 
+de espelho e treino bilateral, estimulação sensorial e proprioceptiva, exercícios funcionais, estimulação 
+elétrica funcional (EEF) em casos selecionados. 
+ 
+
+
+=== PÁGINA 56 ===
+ 
+56 
+ 
+TUSS 20103328 - Lesão nervosa periférica afetando um nervo com alterações sensitivas 
+e/ou motoras 
+ 
+ 
+TUSS 20103310 - Lesão nervosa periférica afetando mais de um nervo com alterações 
+sensitivas e/ou motoras 
+ 
+ 
+ 
+Exemplos de indicação:  paralisia de Bell (lesão do nervo facial) ; neuropatia do nervo radial (ex.: 
+compressão ou trauma) ; s índrome do túnel do carpo (nervo mediano) ; neuropatia ulnar 
+(compressão no cotovelo ou punho) ; lesão traumática isolada de nervo periférico (ex.: corte ou 
+fratura com dano nervoso) 
+ 
+       Os nervos periféricos são estruturas do sistema nervoso que conectam o cérebro e a medula 
+espinhal aos músculos, pele e órgãos. Eles funcionam como “cabos de comunicação”, 
+transmitindo sinais elétricos para controlar movimentos (função motora) e perceber sensações 
+(função sens itiva), como toque, dor e temperatura.  Quando um nervo é lesionado, essa 
+comunicação é prejudicada, podendo causar fraqueza muscular, perda de sensibilidade, dor ou 
+alterações funcionais. 
+  
+O 20103328 refere-se ao atendimento fisioterapêutico para lesão de um único nervo periférico, 
+que provoca alterações sensitivas (como perda de sensibilidade, parestesia) e/ou motoras 
+(fraqueza, paralisia parcial ou total) no território inervado por esse nervo.  
+Essas lesões podem ocorrer por trauma, compressão, processos inflamatórios ou cirúrgicos, 
+afetando a condução nervosa e a função muscular e sensorial do segmento corporal 
+correspondente. 
+ 
+As condutas recomendadas podem envolver m obilização neural  para reduzir aderências e 
+melhorar condução , e letroestimulação (TENS/FES)  para analgesia e recrutamento motor , 
+exercícios terapêuticos  (fortalecimento progressivo, treino funcional ), reeducação sensitiva  
+(estímulos táteis, térmicos e proprioceptivos). 
+Exemplos de indicação: polineuropatia periférica (ex.: diabética, tóxica); lesão múltipla do plexo 
+braquial (trauma de alta energia); Síndrome de Guillain-Barré (comprometimento motor e sensitivo); 
+polirradiculopatia (inflamatória ou traumática); sequelas pós-trauma com lesão de vários nervos 
+(ex.: amputações complexas) 
+ 
+       Abrange o tratamento fisioterapêutico para lesões que comprometem dois ou mais nervos 
+periféricos, resultando em déficits motores e sensitivos mais amplos, podendo envolver um 
+membro inteiro ou múltiplos segmentos. 
+Essas condições geralmente decorrem de traumas complexos, polineuropatias, lesões extensas 
+do plexo nervoso ou sequelas pós-cirúrgicas, exigindo abordagem global para restaurar 
+mobilidade, força, sensibilidade e funcionalidade. 
+ 
+As abordagens podem incluir mobilização neural combinada para múltiplos segmentos, exercícios 
+globais envolvendo cadeias musculares, eletroestimulação segmentar para diferentes grupos 
+musculares, Terapia ocupacional associada para atividades de vida diária, Controle da dor 
+neuropática com técnicas analgésicas e educação em dor. 
+ 
+ 
+
+
+=== PÁGINA 57 ===
+ 
+57 
+ 
+ 
+TUSS 20103344 – Miopatias 
+ 
+ 
+       Miopatia é um termo usado para descrever doenças sistêmicas ou genéticas que 
+afetam diretamente o músculo, causando fraqueza, perda de força e, em alguns casos, 
+alterações na estrutura muscular. 
+Diferente das doenças que atingem ossos, articulações ou nervos, a miopatia tem 
+origem no próprio tecido muscular, prejudicando sua capacidade de contrair e gerar 
+movimento. 
+ 
+As miopatias podem ser hereditárias (genéticas) ou adquiridas, e geralmente não 
+envolvem lesão nervosa ou articular como causa primária. Há diferentes tipos: 
+ 
+• Miopatias inflamatórias 
+Doenças autoimunes que causam inflamação no músculo, levando à fraqueza e 
+dor. Exemplos: Polimiosite e Dermatomiosite. 
+• Miopatias metabólicas 
+Relacionadas a defeitos no metabolismo muscular, geralmente por falta de 
+enzimas que processam energia. Exemplo: Glicogenoses (dificuldade de usar 
+glicogênio como combustível) como Doença de Pompe 
+• Miopatias tóxicas 
+Causadas por substâncias ou medicamentos que danificam o músculo. Exemplo 
+clássico: uso prolongado de estatinas (remédios para colesterol). 
+• Miopatias endócrinas 
+Decorrentes de alterações hormonais que afetam o funcionamento muscular. 
+Exemplo: hipotireoidismo, hipertireoidismo que pode causar fraqueza e fadiga. 
+• Miopatias hereditárias 
+Doenças genéticas que alteram a estrutura ou função do músculo. Exemplos: 
+Distrofia muscular de Duchenne e Becker. 
+• Miopatias mitocondriais 
+Problemas nas mitocôndrias (responsáveis pela produção de energia), levando à 
+fadiga e fraqueza muscular. Exemplos: síndrome de Kearns-Sayre. 
+Conforme já disposto, o torcicolo congênito é uma alteração estrutural localizada 
+causada por encurtamento ou fibrose do músculo esternocleidomastoideo, muitas 
+vezes associado a posição intrauterina ou trauma no parto. Sendo assim, não é uma 
+doença primária do tecido muscular como ocorre nas miopatias, não cabendo 
+liberação do 20103344. 
+ 
+As condutas fisioterapêuticas podem envolver exercícios terapêuticos adaptados (com 
+foco em resistência leve, evitando fadiga excessiva), alongamentos suaves, treino 
+funcional, técnicas respiratórias (especialmente em casos com comprometimento da 
+musculatura respiratória), uso de órteses e adaptações (quando necessário para 
+suporte funcional). 
+ 
+ 
+
+
+=== PÁGINA 58 ===
+ 
+58 
+ 
+ 
+ 
+TUSS 50000160 - Atendimento fisioterapêutico ambulatorial ao paciente com disfunção 
+decorrente de alterações do sistema músculo-esquelético 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: técnicas osteopáticas para distúrbios funcionais (ex.: refluxo, cólica em 
+bebês); diástase não relacionada à gravidez; ajustes posturais e manipulações para disfunções sem 
+código próprio; intervenções musculoesqueléticas não enquadradas em outros códigos 
+ 
+ Este código se refere ao atendimento fisioterapêutico voltado para disfunções relacionadas ao 
+sistema musculoesquelético, envolvendo avaliação e intervenção por meio de técnicas manuais, 
+exercícios terapêuticos ou recursos específicos.  
+É utilizado quando não existe outro código TUSS específico para a condição ou técnica empregada, 
+mas há necessidade de abordagem musculoesquelética para restaurar função ou reduzir sintomas. 
+ 
+Este código não deve ser usado para patologias que já possuem código específico  (ex.: 
+miopatias, lesões nervosas periféricas), mas sim para situações em que a disfunção envolve o 
+sistema musculoesquelético e não há outra classificação adequada.  
+ 
+Referente a osteopatia, já abordada neste manual. Quanto à diástase, seguem as disposições: 
+ 
+A diástase dos retos abdominais  é o aumento da distância inter -retos (IRD)  devido ao 
+afrouxamento/afinamento da linha alba, resultando em protusão/doming da parede abdominal e 
+disfunção do core (instabilidade lombo-pélvica, dor lombar, alteração postural). 
+ 
+Abrangência (populações) 
+• Pós-gestantes: DRA é comum e pode persistir meses; trata -se como condição funcional 
+do core. 
+• Não gestantes  (homens, atletas, pessoas com obesidade, pós -cirurgia abdominal): 
+apresentam quadro semelhante (protusão, fraqueza do core) e se beneficiam de 
+reabilitação.  
+ 
+Orientações de codificação TUSS  
+A. DRA vinculada à gestação (gestantes/ex-gestantes) 
+→ TUSS 20103107 – Atendimento fisiátrico no pré e pós-parto 
+Justificativa técnica: o quadro está diretamente relacionado ao ciclo gravídico-puerperal; 
+diretrizes reconhecem abordagem conservadora (fisioterapia) como primeira linha.  
+B. DRA sem relação com gestação (não gestantes) 
+→ TUSS 50000160 – Atendimento fisioterapêutico ambulatorial ao paciente com disfunção 
+decorrente de alterações do sistema músculo-esquelético 
+Justificativa técnica: a DRA, fora do contexto gestacional, é disfunção musculoesquelética da 
+parede abdominal sem código TUSS específico; enquadrando-se neste código por envolver 
+avaliação/ intervenção fisioterapêutica da parede abdominal e do core. 
+ 
+ Atenção: Edema não é característica da diástase dos retos abdominais. A diástase é alteração 
+da linha alba e da parede abdominal; já o edema decorre de distúrbios circulatórios ou 
+inflamatórios. A drenagem linfática pode ser  indicada para controle de edema  em situações 
+específicas (pós-parto, pós -operatório), mas não há evidência de que reduza a distância inter -
+retos ou corrija a DRA, razão pela qual o código 20103212 não deve ser liberado para este quadro.  
+
+
+=== PÁGINA 59 ===
+ 
+59 
+ 
+ 
+ 
+TUSS 20103409 - Pacientes com doenças neuro-músculo-esqueléticas com envolvimento 
+tegumentar 
+ 
+    A DRA é problema funcional quando há dor, instabilidade, dificuldade em atividades, etc.  
+Objetivos estritamente estéticos (ex.: “flacidez sem disfunção” , “ redução de medidas ”, 
+“modelagem corporal”) não caracterizam reabilitação funcional da DRA . Verificar aplicação da 
+negativa N236 junto à consultoria para confirmação. 
+ 
+As condutas fisioterapêuticas incluem: 
+ 
+• Ativação do transverso do abdome (TrA)  e controle respiratório: exercícios para 
+estabilização do core e sinergia com assoalho pélvico.  
+• Treino funcional e correção postural: progressão segura para atividades de vida diária, 
+evitando aumento da pressão intra-abdominal.  
+• Método hipopressivo: técnica postural e respiratória que reduz pressão intra-abdominal 
+e ativa musculatura profunda; estudos mostram benefício semelhante aos exercícios 
+convencionais para reduzir IRD no pós-parto, podendo ser escolhido por preferência ou 
+aderência da paciente.  
+• Alongamentos suaves: prevenção de retrações musculares e manutenção da amplitude 
+de movimento.  
+• Educação postural e manejo de atividades:  evitar manobras que aumentem pressão 
+abdominal (ex.: Valsalva, exercícios de alta carga).  
+• Uso de órteses ou faixas abdominais:  efeito modesto, mas pode ser adjuvante para 
+suporte funcional. 
+Exemplos de indicação: Lúpus eritematoso sistêmico (quando houver envolvimento tegumentar); 
+esclerodermia sistêmica (esclerose sistêmica)  
+ 
+       O código 20103409 deve ser utilizado exclusivamente para pacientes que apresentem, 
+simultaneamente: 
+• Doença neuro-músculo-esquelética (envolvendo sistema nervoso, músculos e/ou ossos) 
+• Alteração funcional ou estrutural relevante do sistema tegumentar (pele e tecidos 
+subcutâneos), como: fibrose cutânea; endurecimento da pele; retrações, aderências ou 
+contraturas relacionadas à pele; lesões cutâneas ou úlceras.  
+ 
+A esclerodermia sistêmica  é uma doença autoimune caracterizada por fibrose cutânea 
+progressiva, endurecimento da pele e comprometimento musculoesquelético, podendo evoluir 
+com contraturas articulares e musculares, dor, rigidez e limitação importante da mobilidade. 
+Pode ser necessário um programa fisioterapêutico com técnicas de cinesioterapia , mobilização 
+miofascial e articular, exercícios funcionais, recursos analgésicos e cuidados específicos com a 
+pele para prevenção de lesões e manejo de áreas de risco. 
+ 
+O lúpus eritematoso sistêmico  é uma doença autoimune inflamatória e multissistêmica, que 
+pode acometer articulações, músculos, pele e outros órgãos. O uso do código 20103409 só é 
+indicado quando houver envolvimento tegumentar, que no caso do lúpus , pode ocorrer: lesões 
+cutâneas extensas ou crônicas, alterações do tecido conjuntivo com repercussão na mobilidade. 
+   
+ 
+ 
+ 
+ 
+
+
+=== PÁGINA 60 ===
+ 
+60 
+ 
+ 
+ 
+ 
+Códigos de reeducação e reabilitação neurológica 
+ 
+ 
+TUSS 20103077 - Ataxias 
+ 
+ 
+ 
+TUSS 20103204 - Distrofia simpático-reflexa 
+ 
+Exemplos de indicação: ataxia cerebelar (degenerativa, hereditária ou adquirida); ataxia sensorial 
+(por neuropatia periférica); ataxia pós-AVC; ataxia por esclerose múltipla; ataxia por doenças 
+metabólicas ou tóxicas; ataxia causada por tumores cerebelares ou do sistema nervoso central  
+ 
+       Este código é destinado ao tratamento fisioterapêutico de pacientes com ataxia, condição 
+neurológica caracterizada por falta de coordenação motora, desequilíbrio, instabilidade postural e 
+dificuldade na execução de movimentos voluntários. A ataxia pode ser causada por lesões 
+cerebelares, doenças neurodegenerativas, síndromes genéticas, intoxicações ou sequelas de AVC. 
+ 
+As condutas fisioterapêuticas recomendadas incluem treino de equilíbrio estático e dinâmico, 
+exercícios para coordenação motora, fortalecimento muscular, treino de marcha, treino 
+proprioceptivo. 
+Exemplos de indicação: SDRC tipo I após fratura de punho, tornozelo ou mão; síndrome de Sudeck; 
+dor persistente com alterações tróficas; dor desproporcional ao trauma; dor crônica pós-trauma 
+sem lesão nervosa 
+ 
+       O termo Distrofia simpático -reflexa refere-se a uma condição conhecida atualmente como 
+Síndrome de Dor Regional Complexa tipo I (SDRC I), também chamada de algodistrofia ou 
+algoneurodistrofia. 
+É uma síndrome caracterizada por dor crônica intensa, geralmente desproporcional ao evento inicial 
+(trauma, cirurgia, imobilização), acompanhada de alterações sensoriais, motoras, vasomotoras e 
+tróficas (pele, pelos, unhas).  Ocorre após lesão ou trauma, mas sem lesão nervosa identificável 
+(quando há lesão de nervo, é chamada de SDRC tipo II). 
+Os sintomas principais são: 
+• Dor persistente e intensa (alodinia, hiperestesia)  
+• Edema local  
+• Alterações de cor e temperatura da pele  
+• Sudorese alterada  
+• Diminuição da mobilidade  
+• Atrofia muscular e óssea  
+• Alterações tróficas (pele fina, unhas quebradiças) 
+As condutas podem envolver  controle da dor  (termoterapia, crioterapia, eletroterapia), exercícios 
+ativos e passivos, mobilização suave, dessensibilização sensorial, treino funcional, hidroterapia. 
+
+
+=== PÁGINA 61 ===
+ 
+61 
+ 
+ 
+TUSS 20103425 - Paralisia cerebral 
+ 
+ 
+TUSS 20103441 - Paraparesia/tetraparesia 
+ 
+Exemplos de indicação: paralisia cerebral espástica (hemiparética, diparética, tetraparética); paralisia 
+cerebral discinética (distônica, coreoatetósica), paralisia cerebral atáxica, paralisia cerebral mista 
+ 
+       Paralisia cerebral (PC) é um grupo de distúrbios permanentes do desenvolvimento do movimento 
+e da postura, causados por lesão não progressiva do cérebro imaturo, geralmente ocorrida durante a 
+gestação, parto ou nos primeiros anos de vida. A PC pode afetar a força, o tônus muscular, a 
+coordenação, o equilíbrio, a marcha e, em alguns casos, a fala, visão e cognição. 
+ 
+Os principais tipos clínicos de PC são: 
+• Espástica: caracteriza-se por hipertonia, ou seja, o aumento do tônus muscular (rigidez 
+e dificuldade de movimento devido à contração constante dos músculos), podendo afetar 
+um lado do corpo (hemiparética), ambos os membros inferiores (diparética) ou todos os 
+membros (tetraparética). 
+• Discinética: marcada por movimentos involuntários, podendo ser predominante distônica 
+(movimentos de torção e postura anormal) ou coreoatetósica (movimentos irregulares, 
+lentos e contorcidos). 
+• Atáxica: predomina a falta de coordenação motora, desequilíbrio e dificuldade na execução 
+de movimentos precisos. 
+• Mista: apresenta combinação de dois ou mais padrões motores acima. 
+ 
+As condutas envolvem treino motor global e funcional, estimulação sensório-motora, treino de 
+habilidades de vida diária, técnicas específicas como: facilitação neuromuscular proprioceptiva 
+(FNP), método Bobath, treino com terapia de espelho, terapia por contensão induzida. 
+   Muita atenção para a probabilidade de fisioterapia domiciliar, devido à dificuldade de locomoção 
+do paciente!  
+ 
+Exemplos de indicação:  lesão medular traumática (fratura, acidente automobilístico, queda) ; 
+mielopatia cervical ou torácica (compressão medular por hérnia de disco, estenose, tumor) ; 
+tumores do sistema nervoso central (medula espinhal, tronco cerebral) ; i nfecções do SNC 
+(mielite transversa, abscesso medular ; poliomielite com sequelas motoras parciais ; paraparesia 
+espástica hereditária ; p araparesia/tetraparesia pós -AVC extenso com preservação parcial de 
+movimentos 
+ 
+       Redução parcial da força muscular em membros inferiores (paraparesia) ou em todos os 
+membros (tetraparesia), geralmente por lesão neurológica, geralmente por lesão 
+neurológica, mantendo algum grau de funcionalidade. 
+Condutas: 
+• Fortalecimento muscular adaptado à capacidade residual. 
+• Treino de marcha com órteses, barras paralelas ou dispositivos robóticos . 
+• Alongamentos para prevenção de contraturas. 
+• Treino funcional (transferências, posicionamento, AVDs). 
+• Recursos complementares: eletroestimulação, hidroterapia, treino de equilíbrio . 
+ 
+   Muita atenção para a probabilidade de fisioterapia domiciliar , devido à dificuldade de 
+locomoção do paciente!  
+ 
+
+
+=== PÁGINA 62 ===
+ 
+62 
+ 
+ 
+TUSS 20103450 - Paraplegia e tetraplegia 
+ 
+ 
+ 
+ 
+TUSS 20103468 - Parkinson 
+ 
+ 
+Exemplos de indicação: lesão medular completa (trauma, fratura vertebral com secção medular); 
+mielite transversa extensa ; tumores medulares com destruição completa da via motora ; lesão 
+traumática cervical alta (tetraplegia) ; i nfecções graves do SNC com destruição medular ; 
+sequelas de acidentes automobilísticos com lesão medular completa  
+ 
+       Perda completa da função motora voluntária em membros inferiores (paraplegia) ou em 
+todos os membros (tetraplegia), geralmente associada a lesão medular completa.  
+ 
+Condutas: 
+• Mobilizações passivas: para prevenção de contraturas e manutenção da amplitude 
+articular.  
+• Posicionamento adequado: para evitar úlceras de pressão e deformidades.  
+• Treino respiratório: essencial em tetraplegia (fortalecimento diafragmático, técnicas 
+de expansão torácica).  
+• Treino funcional adaptado : foco em independência com cadeira de rodas, 
+transferências com auxílio, uso de dispositivos.  
+• Controle de espasticidade: alongamentos prolongados, técnicas inibitórias.  
+• Tecnologias assistivas: adaptação de dispositivos para comunicação, alimentação e 
+mobilidade. 
+   Muita atenção para a probabilidade de fisioterapia domiciliar , devido à dificuldade de 
+locomoção do paciente!  
+Exemplos de indicação: doença de Parkinson idiopática; síndromes parkinsonianas secundárias (ex.: 
+pós-encefalite, uso crônico de neurolépticos) ; p arkinsonismo vascular (lesões múltiplas em 
+substância branca) 
+ 
+       A Doença de Parkinson é uma patologia neurodegenerativa crônica e progressiva, 
+caracterizada pela degeneração das células dopaminérgicas da substância negra no 
+mesencéfalo, levando à redução da dopamina nos núcleos da base. Essa alteração provoca 
+distúrbios motores e não motores, com impacto significativo na funcionalidade e qualidade de 
+vida. 
+Os principais sinais motores incluem: 
+• Bradicinesia (lentidão dos movimentos) – sintoma mais característico. 
+• Rigidez muscular (aumento do tônus). 
+• Tremor de repouso (geralmente unilateral no início). 
+• Instabilidade postural (risco elevado de quedas). 
+ 
+Além dos sintomas motores, podem ocorrer alterações cognitivas, depressão, distúrbios do sono 
+e disfunções autonômicas, que agravam a dependência funcional. 
+ 
+
+
+=== PÁGINA 63 ===
+ 
+63 
+ 
+ 
+ 
+ 
+ 
+TUSS 20103476 - Patologia neurológica com dependência de atividades da vida diária 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Condutas recomendadas 
+• Treino de marcha com pistas visuais e auditivas para superar congelamento (cueing).  
+• Exercícios de amplitude e alongamento para reduzir rigidez e melhorar mobilidade.  
+• Treino de equilíbrio e prevenção de quedas, com estratégias compensatórias.  
+• Exercícios aeróbicos (bicicleta, caminhada supervisionada) para capacidade funcional.  
+• Treino funcional para AVDs (vestir-se, higiene, alimentação), com técnicas adaptativas. 
+ 
+   Muita atenção para a probabilidade de fisioterapia domiciliar , principalmente em estágios 
+moderados a avançados! 
+Exemplos de indicação: AVC extenso com dependência total; demências (ex.: Alzheimer, 
+demência vascular, demência por corpos de Lewy, mista); esclerose múltipla; Esclerose Lateral 
+Amiotrófica (ELA) 
+ 
+       Quadros neurológicos graves  que resultam em dependência significativa ou total para 
+atividades básicas da vida diária (AVDs), como alimentação, higiene, mobilidade e comunicação. 
+Geralmente associados a lesões extensas ou doenças neurodegenerativas em estágio avançado, 
+sem perspectiva de recuperação funcional significativa. 
+ 
+Esses pacientes apresentam limitação severa, exigindo cuidados contínuos e abordagem voltada 
+para prevenção de complicações, conforto e qualidade de vida, mais do que ganho motor.  
+ 
+Condutas recomendadas 
+• Mobilizações passivas para prevenção de contraturas e manutenção mínima da 
+amplitude articular. 
+• Posicionamento adequado para evitar úlceras de pressão e deformidades.  
+• Estimulação sensorial para conforto e interação. 
+ 
+   Existe alta probabilidade de atendimento domiciliar  devido à dificuldade extrema de 
+locomoção. 
+
+
+=== PÁGINA 64 ===
+ 
+64 
+ 
+ 
+Códigos de reeducação e reabilitação no retardo do 
+desenvolvimento psicomotor 
+ 
+ 
+TUSS 20103689 - Retardo do desenvolvimento psicomotor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TUSS 50000012 - Sessão de psicomotricidade individual 
+ 
+ 
+Exemplos de indicação: síndromes genéticas com atraso motor (ex.: Síndrome de Down); retardo global 
+do desenvolvimento por prematuridade extrema; atraso motor idiopático (sem causa definida) ; 
+autismo/TEA com atraso motor 
+       Condição caracterizada por atraso significativo na aquisição de marcos motores esperados para a 
+idade, como controle postural, marcha, coordenação motora fina e grossa. Pode estar associada a 
+causas neurológicas, genéticas, metabólicas ou ambientais. O dia gnóstico é clínico, baseado em 
+avaliação do desenvolvimento neuropsicomotor. 
+Condutas recomendadas 
+• Estimulação motora precoce: exercícios para controle postural, rolar, sentar, engatinhar. 
+• Treino de marcha: com suporte parcial, órteses ou dispositivos adaptados. 
+• Fortalecimento muscular: atividades lúdicas e funcionais. 
+• Treino de coordenação motora fina e grossa. 
+• Recursos complementares: hidroterapia, eletroestimulação (quando indicado).  
+   Muita atenção para a probabilidade de fisioterapia domiciliar, devido à dificuldade de locomoção 
+do paciente!  
+ 
+ 
+ 
+Exemplos de indicação: retardo do desenvolvimento psicomotor (sem causa definida) ; transtorno do 
+espectro autista (TEA) com comprometimento motor; síndromes genéticas com atraso motor e 
+dificuldades de integração corporal; alterações psicomotoras secundárias a privação de estímulo; 
+distúrbios de aprendizagem associados a déficit psicomotor; sequelas leves de traumatismo 
+cranioencefálico com impacto psicomotor 
+ 
+       Intervenção terapêutica baseada nos princípios da psicomotricidade, que integra aspectos 
+motores, cognitivos e emocionais para promover o desenvolvimento global da criança ou 
+reabilitação do adulto. Trabalha a relação entre movimento, corpo e mente, visand o melhorar 
+coordenação, equilíbrio, esquema corporal, lateralidade e organização espacial.   
+É uma abordagem terapêutica que integra movimento, cognição e emoção, trabalhando a relação 
+entre corpo e mente.  
+O objetivo não é apenas força ou amplitude (como na fisioterapia), nem apenas aspectos emocionais 
+e comportamentais (como na psicoterapia), mas a organização global do indivíduo através do 
+movimento.  
+Atua em coordenação motora, equilíbrio, esquema corporal, lateralidade,  
+orientação espacial e integração sensorial, sempre com atividades lúdicas e interativas.  
+
+
+=== PÁGINA 65 ===
+ 
+65 
+ 
+ 
+ 
+ 
+Código de reabilitação labiríntica  
+ 
+ 
+TUSS 20103638 - Reabilitação labiríntica (por sessão) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação:  Vertigem Posicional Paroxística Benigna (VPPB); doença de Ménière; neurite 
+vestibular; hipofunção vestibular unilateral ou bilateral; labirintite; tontura crônica de origem vestibular; 
+desequilíbrio pós-trauma craniano; síndrome vestibular periférica ou central compensada  
+       A Reabilitação Labiríntica é um conjunto de exercícios terapêuticos destinados a promover a 
+compensação vestibular em pacientes com disfunções do sistema vestibular (labirinto). Essas 
+disfunções ocorrem quando há alteração na função sensorial do ouvido interno, responsável pelo 
+equilíbrio, podendo resultar em vertigem, instabilidade postural, desequilíbrio e náuseas. 
+Condutas recomendadas 
+• Atividades lúdicas estruturadas: jogos que estimulam coordenação motora fina (ex.: 
+encaixes, desenho) e grossa (ex.: circuitos, saltos). 
+• Exercícios de equilíbrio e postura: caminhar sobre linhas, superfícies instáveis, uso de 
+bolas terapêuticas. 
+• Trabalho de lateralidade e orientação espacial: movimentos cruzados (braço direito 
+com perna esquerda), jogos de direita/esquerda. 
+• Estimulação do esquema corporal: atividades com espelho, percepção tátil, nomeação 
+de partes do corpo. 
+• Integração sensorial: uso de texturas, sons, movimentos rítmicos para melhorar 
+percepção e resposta motora. 
+• Atividades simbólicas: brincadeiras que envolvem imaginação e representação (ex.: “faz 
+de conta”), para integrar emoção e movimento. 
+ 
+Orientações: 
+ 
+Para apólices adaptadas à nova legislação, com ou sem aditivo para psicomotricidade: 
+• Se realizado por fisioterapeuta: liberar conforme código 50000012. 
+• No entanto, se já estivermos pagando como 20103689 (REEDUCAÇÃO E REABILITAÇÃO 
+NO RETARDO DO DESENVOLVIMENTO PSICOMOTOR) há mais de um ano, manteremos 
+este código. Nos casos em que liberamos há menos tempo, compartilhar com consultor 
+para avaliação. 
+    Se realizado por psicomotricista (ou seja, profissional que não é fisioterapeuta) e houver 
+aditivo para psicomotricidade, podemos liberar, pois o estipulante contratou a cobertura. 
+
+=== PÁGINA 66 ===
+ 
+66 
+ 
+ 
+ 
+Códigos de exercícios de ortóptica 
+ 
+TUSS 20103239 - Exercícios de ortóptica (por sessão) 
+ 
+O sistema vestibular pode ser comprometido por: 
+• Lesões periféricas (no labirinto ou nervo vestibular), como:  
+o Inflamações (labirintite, neurite vestibular) 
+o Degeneração (hipofunção vestibular) 
+o Cristais deslocados (VPPB) 
+• Doenças metabólicas ou vasculares (ex.: diabetes, hipertensão) 
+• Traumas cranianos 
+• Doenças autoimunes ou infecciosas 
+• Alterações centrais (lesões cerebelares ou tronco encefálico) 
+Essas alterações reduzem a capacidade do cérebro de integrar informações sensoriais (visual, 
+vestibular e proprioceptiva), gerando sintomas incapacitantes. A reabilitação atua estimulando 
+mecanismos de adaptação, habituação e substituição sensorial , acelerando a compensação 
+neural e melhorando a qualidade de vida. 
+Protocolos mais comuns incluem: 
+• Exercícios de Adaptação Vestibular : movimentos cefálicos repetitivos para estimular o 
+reflexo vestíbulo-ocular (VOR) 
+• Exercícios de Habitação : exposição gradual a movimentos que provocam sintomas para 
+reduzir a sensibilidade 
+• Exercícios de Substituição: uso de pistas visuais e proprioceptivas para compensar déficit 
+vestibular 
+• Manobras Específicas para VPPB: Manobra de Epley, Semont, Brandt-Daroff,  
+o Dix-Hallpike é teste diagnóstico para VPPB, que identifica deslocamento dos otólitos 
+(cristais) nos canais semicirculares, geralmente no canal posterior, e orienta a escolha 
+da manobra terapêutica. 
+• Treino de Equilíbrio e Marcha em superfícies estáveis e instáveis 
+Orientações: 
+As manobras descritas possuem cobertura quando realizadas por fisioterapeuta ou médico fisiatra. 
+Se cobradas por médico de outra especialidade, negar com N226 RN465  para apólices da lei.  Se 
+cobrado por fonoaudiólogo, liberar como sessão de fonoaudiologia.  
+Exemplos de indicação:  estrabismo (principalmente intermitente) ; a mbliopia (olho preguiçoso) ; 
+insuficiência de convergência (dificuldade para focar objetos próximos) ; d iplopia (visão dupla) ; 
+distúrbios da visão binocular e percepção de profundidade 
+ 
+       São técnicas terapêuticas que funcionam como uma “fisioterapia para os olhos” , com o objetivo 
+de reabilitar a visão binocular, melhorar a coordenação ocular e corrigir desequilíbrios musculares dos 
+olhos. Atuam sobre os músculos extrínsecos oculares e o sistema neurossensorial, promovendo 
+alinhamento e sincronia entre os olhos. 
+ 
+Pode ser cobrado como estímulo visual realizado por fisioterapeuta . Neste caso, liberar conforme 
+20103239. Liberamos para fisioterapeuta, fisiatra e oftalmologista.  
+ 
+
+=== PÁGINA 67 ===
+ 
+67 
+ 
+ 
+TUSS 20103743 - Exercícios de pleóptica 
+ 
+Esse atendimento pertence ao subgrupo reabilitação física. Se cobrado por  
+Ortoptista, negar N226. 
+São feitos: 
+ 
+Exercícios de Convergência 
+• Atividades que treinam os olhos para se aproximarem e focarem objetos próximos.  
+• Exemplo: Barbante de Brock (o paciente fixa a visão em contas dispostas em um barbante, 
+ajustando a convergência). 
+ 
+Exercícios de Fusão 
+• Técnicas para que os dois olhos trabalhem juntos formando uma única imagem.  
+• Exemplo: Cartões de fusão ou estereogramas, onde o paciente precisa fundir duas imagens em 
+uma. 
+ 
+Exercícios de Divergência 
+• Treinos para afastar os olhos e focar objetos distantes, melhorando a coordenação ocular.  
+• Exemplo: Alternar foco entre objetos próximos e distantes. 
+ 
+Técnicas de Fixação 
+• Exercícios para melhorar a estabilidade do olhar em um ponto específico, evitando movimentos 
+involuntários. 
+• Exemplo: Fixar a visão em um alvo pequeno por tempo prolongado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: ambliopia profunda com fixação excêntrica; Baixa visão sem causa orgânica grave 
+ 
+       Pleóptica é uma técnica terapêutica visual voltada para tratamento da ambliopia (popularmente 
+chamada “olho preguiçoso”), especialmente em casos graves ou com fixação excêntrica.  Seu objetivo 
+é estimular a mácula e reeducar a fixação central, melhorando a acuidade visual do olho afetado.  
+ 
+É considerada uma terapia ativa, diferente do tratamento passivo com tampão, e geralmente associada 
+à oclusão ocular (tampar o olho dominante [o que enxerga melhor] para forçar o uso do olho afetado, 
+estimulando sua função visual . Assim como a ortóptica, há cobertura somente para fisiatra, 
+fisioterapeuta, pois está no subgrupo Reabilitação do ROL da ANS, além do oftalmologista. 
+ 
+Estimulação luminosa da mácula 
+• Uso de luzes direcionadas para ativar a área central da retina do olho amblíope.  
+• Objetivo: romper padrão de fixação excêntrica. 
+Exercícios com filtros e tampões 
+• Oclusão do olho dominante para forçar o uso do olho afetado.  
+• Pode incluir filtros translúcidos para modulação do estímulo. 
+Programas computadorizados interativos 
+• Softwares com jogos visuais para estimular percepção e fixação central.  
+Biofeedback visual 
+• Equipamentos que monitoram a fixação e fornecem feedback em tempo real para melhorar 
+controle ocular. 
+Associação com terapia ortóptica 
+• Exercícios de fusão e convergência para complementar a reabilitação binocular.  
+ 
+
+=== PÁGINA 68 ===
+ 
+68 
+ 
+ 
+ 
+ 
+Código de reeducação e reabilitação de queimados para 
+prevenção de sequelas 
+ 
+ 
+ 
+TUSS 20103611 - Queimados - seguimento ambulatorial para prevenção de sequelas (por 
+segmento) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemplos de indicação: pacientes pós -queimadura de qualquer grau que apresentem:  
+cicatrizes hipertróficas ou queloides, áreas de retração cicatricial, limitação de amplitude 
+articular, risco de deformidades funcionais, alterações sensoriais ou dor crônica 
+ 
+       O seguimento ambulatorial para prevenção de sequelas em pacientes queimados  
+consiste em acompanhamento clínico e terapêutico após a alta hospitalar ou término do 
+tratamento inicial da fase aguda, com foco na recuperação funcional e prevenção de 
+complicações tardias, como contraturas, deformidades e cicatrizes hipertróficas. 
+ 
+As queimaduras conforme classificação: 
+• 1º grau (superficial): geralmente não requer seguimento prolongado 
+• 2º grau (parcial ou profundo):  maior risco de cicatrizes hipertróficas e limitação 
+funcional, especialmente em áreas articulares. 
+• 3º grau (total): alto risco de contraturas, deformidades e necessidade de enxertos, 
+exigindo acompanhamento intensivo. 
+• Queimaduras elétricas ou químicas:  podem causar lesões profundas e sequelas 
+significativas. 
+As condutas podem envolver controle de edema e posicionamento, treino funcional, 
+pressão/compressão para cicatriz hipertrófica, mobilização, alongamentos e prevenção de 
+contraturas, massagem cicatricial 
+
+
+=== PÁGINA 69 ===
+ 
+69 
+ 
+ 
+ 
+ 
+ 
+ 
+Códigos de reabilitação em amputação (preparação do 
+coto e treinamento protético) 
+ 
+ 
+ 
+TUSS 20103042 - Amputação unilateral (preparação do coto)  
+TUSS 20103026 - Amputação bilateral (preparação do coto) 
+ 
+ 
+ 
+ 
+TUSS 20103034 - Amputação bilateral (treinamento protético) 
+TUSS 20103050 - Amputação unilateral (treinamento protético) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cuidados pós-cirúrgicos para cicatrização, controle de edema, modelagem do coto, 
+prevenção de contraturas e fortalecimento para futura protetização. 
+ 
+Condutas principais: 
+• Enfaixamento compressivo para modelagem do coto. 
+• Mobilização e alongamentos para evitar contraturas. 
+• Fortalecimento muscular. 
+• Orientações sobre higiene e cuidados com pele. 
+• Treino funcional inicial (transferências, equilíbrio sentado). 
+ 
+ 
+Treino funcional com prótese para marcha, equilíbrio, atividades de vida diária e 
+adaptação progressiva ao dispositivo. 
+ 
+Condutas principais: 
+• Treino de colocação e retirada da prótese. 
+• Ajuste do padrão de marcha (membros inferiores). 
+• Treino funcional para AVDs (membros superiores). 
+• Orientações sobre cuidados com coto e prótese. 
+• Progressão do tempo de uso da prótese. 
+ 
+ 
+
+
+=== PÁGINA 70 ===
+ 
+70 
+ 
+ 
+ 
+ 
+ 
+UTILIZAÇÃO DE CRÍTICAS 
+ 
+Para algumas críticas negativas, foi disposta nesta seção apenas a versão para a s 
+apólices da lei/adaptadas. Para verificar as críticas correspondentes das apólices pré-
+lei, pesquisar na tabela de críticas constante no Infohub. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A107: utilizar para perguntarmos qual técnica foi realizada pelo prestador, pois 
+pode haver cobrança de técnicas não realizadas de fato ou de técnicas não 
+cobertas.  
+ 
+A107 - A: além de perguntar qual técnica, esta serve para questionar a região 
+corporal de aplicação dela, podendo nortear a liberação do código. É aplicável, 
+também, em alguns casos de estimulação elétrica transcutânea que pode ter sido 
+aplicada em região corporal excluída pela DUT. 
+ 
+A116 - FISIOTERAPIA: utilizar quando o pedido médico não tiver sido apresentado 
+em momento algum. 
+ 
+A116-A: utilizar quando o pedido médico não descrever o quadro clínico, 
+sintomatologias, CIDS´s que indicaram o tratamento. 
+ 
+A170:  utilizar em casos (principalmente em cobrança abusiva) em que o terapeuta 
+cobrou várias abordagens, mas não discriminou valores de cada. Por exemplo: 
+além do código de patologia, técnicas não cobertas como: Atividade de Escola de 
+postura / Manipulação vertebral / cinesioterapia específica (Pilates) / laserterapia 
+/ ondas de choque. Assim, podemos pagar os valores da fisioterapia convencional 
+e negar os valores das demais técnicas. 
+ 
+A195:  utilizar quando o prazo do pedido médico estiver expirado. 
+ 
+A196: utilizar quando houver nº de sessões programadas no pedido médico e essa 
+quantidade já tiver sido utilizada pelo segurado. 
+ 
+A197: utilizar quando o encaminhamento médico não possuir data de emissão. 
+ 
+A198: utilizar quando o pedido médico estiver com carimbo e assinaturas colados 
+(produzidos no WORD e salvos em PDF). 
+ 
+A201: utilizar nos contextos de suspeita de fraude, solicitando o laudo de exames 
+de imagem com base na patologia que motivaram a terapia. 
+ 
+A205 C - relatório prestador com colagem: pode ser usado para casos suspeitos 
+e com clara colagem no relatório do prestador do serviço. 
+ 
+ 
+
+=== PÁGINA 71 ===
+ 
+71 
+ 
+ 
+A205 D - assinatura eletrônica prestador : pode ser usado para casos suspeitos e  
+que não foi possível validar a assinatura eletrônica do prestador do serviço. 
+ 
+A206 A - indicação para a técnica : utilizar para solicitar indicação médica para a 
+técnica específica cobrada pelo prestador. 
+ 
+A225 - CONSULTA FISIOTERAPIA:  solicitação de justificativa para cobrança de 
+consulta seriada de fisioterapeuta. 
+ 
+N205 RN 465 - Lei 9656: para procedimentos fora do ROL em apólice da lei. 
+ 
+N213 RN 465 - Lei 9656: para tratamentos experimentais. Apólice da lei. 
+ 
+N214 RN 465 - Lei 9656: para atendimentos feitos por profissionais de saúde que não 
+são habilitados a fazê-los. Apólice da Lei. 
+ 
+N225: utilizar nas apólices anteriores a lei, sem adaptação e sem aditivos, quando a 
+indicação da terapia for doença e não acidente pessoal . No Livre Escolha, verificar o 
+contrato antes de utilizá-la. 
+ 
+N226 RN 465: utilizar quando o tratamento fisioterápico/de reabilitação for realizado 
+por outros profissionais que não fisioterapeuta e médico fisiatra (ex.: educadores 
+físicos, médicos ortopedistas, entre outros). Apólice da lei. 
+ 
+N236 RN 465 - Lei 9656: Pode ser usada para procedimentos que, embora constem 
+no ROL, foram realizados para fins estéticos. Apólice da lei. 
+ 
+N253 RN 465 - Lei 9656:  utilizada para negar prótese e órtese não implantada 
+cirurgicamente. Apólice da lei. 
+ 
+N294 RN 465 - Lei 9656: para procedimentos fora da Diretriz de Utilização da ANS. 
+Somente para apólices da lei. 
+ 
+N302 RN 465 / Hosp / Lei 9656: utilizar para cobrança para apólices hospitalares, de 
+fisioterapia que não se trate de continuidade de atendimento prestado em ambiente 
+de internação. Apólice da Lei. 
+ 
+N336 Pré -lei: para procedimentos que não constam na tabela de honorários e 
+serviços médicos. Para apólice pré-lei. 
+ 
+N340 RN 465 - Lei 9656: para atendimentos feitos por profissionais que não são da 
+área da saúde. 
+ 
+N353: utilizar quando houver cobrança de sessões de fisioterapia online  (obs.: 
+utilização para eventos anteriores à nova resolução do COFFITO. Ver a seção 
+Atendimentos Online deste manual). 
+ 
+ 
+
+=== PÁGINA 72 ===
+ 
+72 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N415 - técnica não solicitada: utilizar para valores cobrados em recibos separados 
+de técnicas não solicitadas pelo médico. Ver utilização descrita neste manual. 
+ 
+N433 - FISIOTERAPIA P/ TRANSTORNOS MENTAIS: para fisioterapia não 
+realizada para patologias físicas, e sim mentais/emocionais. 
+ 
+ 
+
